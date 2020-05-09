@@ -1,0 +1,33 @@
+NuggetsNetwork.com - Tasks
+
+header - logo add
+Header Links - visualization improve
+
+Groups - Join links card feature (images\logos\Logo Only PNG)
+https://www.w3schools.com/howto/howto_css_profile_card.asp
+
+
+Blog - Template
+Blog Homepage - 
+https://thedevs.network/blog/
+Individual Blog
+https://thedevs.network/blog/you-have-been-using-console-wrong-the-whole-time
+
+
+Flutter training:
+(Introduction to Flutter Development - Angela )
+https://www.appbrewery.co/p/intro-to-flutter
+
+
+Installations Flutter:
+Flutter SDK download
+https://flutter.dev/docs/get-started/install/windows
+(c:/src/flutter)
+
+VS Code
+Flutter extension
+Dart Extensions
+
+Android Studio - Google (Emulator) - AVD manager - Emulator
+Nexus - android PIE 
+
