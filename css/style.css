@@ -58,6 +58,7 @@ body {
 #gtco-main-nav {
   padding: 20px 0;
 }
+
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
   font-family: "Lato-Black";
@@ -93,19 +94,141 @@ body {
   -webkit-transform: rotate(46deg) translate(-4px, -8px);
   transform: rotate(46deg) translate(-4px, -8px);
 }
+#gtco-main-nav .navbar-nav{
+  border:1px solid rgba(0, 0, 0, 0.849);
+}
 #gtco-main-nav .navbar-nav li a {
   font-family: "OpenSans-Regular";
   font-size: 18px;
   color: #666666;
   padding: 5px 15px !important;
   text-transform: uppercase;
+  text-align: center;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.877);
+}
+
+.navbarbrand {
+  position: relative;
+  background-image:url(../images/NNMain.png);
+  background-size: 100%;
+  padding: 10px;
+  background-repeat: no-repeat;
+  background-position-x: 0px;
+  background-position-y: 10px;
+  height: 100px;
+  width: 300px;
+  margin-right: 50px;
+  background-color: rgba(255, 255, 255, 0.911);
+  border-radius: 25px;
+}
+
+.blogpagebg{
+  position: fixed;
+	background-image: url(../images/bg.svg);
+  background-repeat: no-repeat;
+  background-position-x: 200px;
+  background-position-y: -200px;
+  top: 0;
+  left: 0;
+	background-size: 100%;
+  opacity: 5%;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+.blogcard{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.486);
+}
+.blogcard img{
+  display: block;
+  padding: 20px;
+  width: 40%;
+  height: 40%;
+  background-color: black;
+}
+
+.divcontainer {
+  display: flex;
+	display: -webkit-box;
+	display: -ms-flexbox;
+  justify-content: center;
+  width: 100%;
+  margin-top: 1px;
+  height:auto;
+}
+
+.dialogbox{
+  position: relative;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+	border-color:rgba(135, 206, 250, 0.514);
+  border: 0px 10px;
+  margin-top: 10px;
+  z-index: 1;
+}
+#dialogboxbg{
+  padding:5%;
+  display: block;
+	width: 100%;
+  height: 100%;
+}
+#dialogboxbg h1{
+  padding: 10px 20px;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+#dialogboxbg h4{
+  color: #000000;
+  font-weight: bolder;
+  display: block;
+}
+#dialogboxbg p{
+  text-align: left;
+  color: black;
+  padding: 10px;
+}
+#dialogboxbg .box{
+  border-top:1px solid rgb(170, 238, 255);
+  margin-top: -30px;
+  padding:50px 50px;
+}
+#dialogboxbg .boxsub{
+  padding:20px 20px 10px 20px;
+  margin-bottom: 5px;
+  background-color: rgba(173, 216, 230, 0.377);
+}
+#dialogboxbg .boxsub a{
+  float: right;
+  margin-right: -20px;
+  margin-top:-35px;
+  width: auto;
+  color: white;
+  background-color: rgb(96, 136, 150);
+  padding: 10px 10px 10px 20px;
+  border-radius: 20px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+#dialogboxbg .boxsub a:hover{
+  color: white;
+  background-color: rgb(9, 66, 87);
+}
+#gtco-main-nav .navbar-nav li a:hover {
+  color: #ffffff;
+  background-color: rgb(0, 0, 0);
 }
 #gtco-main-nav form a {
   font-family: "OpenSans-Semibold";
   font-size: 18px;
   color: #fff;
   padding: 5px 25px;
-  border-radius: 20px;
   border-width: 2px;
 }
 #gtco-main-nav form a.btn-info {
