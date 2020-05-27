@@ -123,6 +123,11 @@ body {
   border-radius: 25px;
 }
 
+.navbarbrand a{  
+  display: block;
+  height: 100%;
+}
+
 .blogpagebg{
   position: fixed;
 	background-image: url(../images/bg.svg);
