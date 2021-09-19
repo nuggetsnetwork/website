@@ -52,18 +52,22 @@
 	</form>
 
 	<script src=
-"https://www.gstatic.com/firebasejs/3.7.4/firebase.js">
+"https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js">
 	</script>
 	
-	<script>
-		var firebaseConfig = {
+	<script type="module">
+		  // Import the functions you need from the SDKs you need
+		import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js";
+  		import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.0.2/firebase-analytics.js";
+		const firebaseConfig = {
 			apiKey: "AIzaSyC0ErckrTXfy_QmdoUasw28H4ib38qhh_o",
-            authDomain: "nuggetsnetwork-2021.firebaseapp.com",
-            projectId: "nuggetsnetwork-2021",
-            storageBucket: "nuggetsnetwork-2021.appspot.com",
-            messagingSenderId: "782216336589",
-            appId: "1:782216336589:web:fd24eb6e6b831032014584",
-            measurementId: "G-N53KN5RYZL"
+			authDomain: "nuggetsnetwork-2021.firebaseapp.com",
+			databaseURL: "https://nuggetsnetwork-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+			projectId: "nuggetsnetwork-2021",
+			storageBucket: "nuggetsnetwork-2021.appspot.com",
+			messagingSenderId: "782216336589",
+			appId: "1:782216336589:web:fd24eb6e6b831032014584",
+			measurementId: "G-N53KN5RYZL"
 		};
 
 		firebase.initializeApp(firebaseConfig);
