@@ -10,8 +10,10 @@
     <h3>Firebase Web login Example</h3>
     <input type="email" placeholder="Email..." id="email_field" />
     <input type="password" placeholder="Password..." id="password_field" />
-
-    <button onclick="login()">Login to Account</button>
+    <small><span id="error" style="color:red"></span></small><br>
+    <!-- <a href="#" onclick="forgotPass()">Forgot Password</a> -->
+    <center><button onclick="login()">Login</button>
+    <button onclick="signup()">SignUp</button></center>
   </div>
 
   <div id="user_div" class="loggedin-div">
@@ -26,12 +28,14 @@
   <script>
     // Initialize Firebase
     var config = {
-      apiKey: "AIzaSyBPmZU5GIVK_6iDzROpMaYgUaqVu4FadlY",
-      authDomain: "fir-web-login-8b7c5.firebaseapp.com",
-      databaseURL: "https://fir-web-login-8b7c5.firebaseio.com",
-      projectId: "fir-web-login-8b7c5",
-      storageBucket: "fir-web-login-8b7c5.appspot.com",
-      messagingSenderId: "301701306998"
+      apiKey: "AIzaSyC0ErckrTXfy_QmdoUasw28H4ib38qhh_o",
+      authDomain: "nuggetsnetwork-2021.firebaseapp.com",
+      databaseURL: "https://nuggetsnetwork-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "nuggetsnetwork-2021",
+      storageBucket: "nuggetsnetwork-2021.appspot.com",
+      messagingSenderId: "782216336589",
+      appId: "1:782216336589:web:fd24eb6e6b831032014584",
+      measurementId: "G-N53KN5RYZL"
     };
     firebase.initializeApp(config);
   </script>
