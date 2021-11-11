@@ -17,6 +17,15 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <h2> Testing Firebase 9.</h2>
+        <div id="login_div" class="main-div">
+            <h3>Firebase Web login Example</h3>
+            <input type="email" placeholder="Email..." id="email_field" />
+            <input type="password" placeholder="Password..." id="password_field" />
+            <small><span id="error" style="color:red"></span></small><br>
+            <!-- <a href="#" onclick="forgotPass()">Forgot Password</a> -->
+            <center><button onclick="login()">Login</button>
+            <button onclick="signup()">SignUp</button></center>
+          </div>
         <script type="module" src="test.js" async defer></script>
     </body>
 </html>

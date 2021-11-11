@@ -1,6 +1,6 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-app.js";
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-analytics.js";
-import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-auth.js";
+import { getAuth, onAuthStateChanged, signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.1.0/firebase-auth.js";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
@@ -39,3 +39,22 @@ onAuthStateChanged(auth, (user) => {
     console.log("No User Logged In.")
   }
 });
+
+window.login = function login(){
+  var email = document.getElementById("email_field").value;
+  var password = document.getElementById("password_field").value;
+  const auth = getAuth();
+  signInWithEmailAndPassword(auth, email, password)
+  .then((userCredential) => {
+      // Signed in 
+      const user = userCredential.user;
+      window.alert("Success : " + user);
+      // ...
+  })
+  .catch((error) => {
+      const errorCode = error.code;
+      const errorMessage = error.message;
+      document.getElementById("error").innerHTML = error.message
+
+  });
+}
