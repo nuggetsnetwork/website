@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://nuggetsnetwork.com/Products/moviesui/precache-manifest.1dd3d90d1c211eddb40cc5b0a450df71.js"
+  "https://nuggetsnetwork.com/Products/movienuggets/precache-manifest.9fe519675dc4a63247fd0033a41251b3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://nuggetsnetwork.com/Products/moviesui/index.html", {
+workbox.routing.registerNavigationRoute("https://nuggetsnetwork.com/Products/movienuggets/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
