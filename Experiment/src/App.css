@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .MuiTableCell-root{
+    padding: 5px !important;
+  }
+  .MuiTableRow-root {
+    font-size: 10px;
+  }
+  .MuiTableCell-head {
+    font-size: 12px !important;
+  }
+}
+/* @media (min-width: 768px) and (max-width: 991px) {
+  .MuiTableCell-root{
+    padding: 10px !important;
+  }
+  .MuiTableRow-root {
+    font-size: 14px;
+  }
+  .MuiTableCell-head {
+    font-size: 16px !important;
+  }
+} */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#e-list-style-none .list-group-flush .list-group-item {
+  border-top: 0 !important;
+}
