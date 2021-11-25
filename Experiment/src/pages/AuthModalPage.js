@@ -1,5 +1,5 @@
-import AuthForm, { STATE_LOGIN } from 'components/AuthForm';
-import Page from 'components/Page';
+import AuthForm, { STATE_LOGIN } from '../components/AuthForm';
+import Page from '../components/Page';
 import React from 'react';
 import {
   Button,

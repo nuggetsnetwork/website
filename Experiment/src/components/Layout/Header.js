@@ -1,9 +1,9 @@
-import Avatar from 'components/Avatar';
-import { UserCard } from 'components/Card';
-import Notifications from 'components/Notifications';
-import SearchInput from 'components/SearchInput';
-import { notificationsData } from 'demos/header';
-import withBadge from 'hocs/withBadge';
+import Avatar from '../Avatar.js';
+import  UserCard  from '../Card/UserCard';
+import Notifications from '../Notifications.js';
+import SearchInput from '../SearchInput';
+import { notificationsData } from '../../demos/header.js';
+import withBadge from '../../hocs/withBadge.js';
 import React from 'react';
 import {
   MdClearAll,
@@ -28,7 +28,7 @@ import {
   Popover,
   PopoverBody,
 } from 'reactstrap';
-import bn from 'utils/bemnames';
+import bn from '../../utils/bemnames';
 
 const bem = bn.create('header');
 
@@ -85,9 +85,9 @@ class Header extends React.Component {
             <MdClearAll size={25} />
           </Button>
         </Nav>
-        {/* <Nav navbar>
+        <Nav navbar>
           <SearchInput />
-        </Nav> */}
+        </Nav>
 
         <Nav navbar className={bem.e('nav-right')}>
           <NavItem className="d-inline-flex">

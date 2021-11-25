@@ -1,12 +1,14 @@
-import { AnnouncementCard, TodosCard } from 'components/Card';
-import HorizontalAvatarList from 'components/HorizontalAvatarList';
-import MapWithBubbles from 'components/MapWithBubbles';
-import Page from 'components/Page';
-import ProductMedia from 'components/ProductMedia';
-import SupportTicket from 'components/SupportTicket';
-import UserProgressTable from 'components/UserProgressTable';
-import { IconWidget, NumberWidget } from 'components/Widget';
-import { getStackLineChart, stackLineChartOptions } from 'demos/chartjs';
+// import { AnnouncementCard, TodosCard } from '../components/Card';
+import AnnouncementCard from '../components/Card/AnnouncementCard';
+import TodosCard from '../components/Card/TodosCard';
+import HorizontalAvatarList from '../components/HorizontalAvatarList';
+import MapWithBubbles from '../components/MapWithBubbles';
+import Page from '../components/Page';
+import ProductMedia from '../components/ProductMedia';
+import SupportTicket from '../components/SupportTicket';
+import UserProgressTable from '../components/UserProgressTable';
+import { IconWidget, NumberWidget } from '../components/Widget';
+import { getStackLineChart, stackLineChartOptions } from '../demos/chartjs';
 import {
   avatarsData,
   chartjs,
@@ -14,7 +16,7 @@ import {
   supportTicketsData,
   todosData,
   userProgressTableData,
-} from 'demos/dashboardPage';
+} from '../demos/dashboardPage';
 import React from 'react';
 import { Bar, Line } from 'react-chartjs-2';
 import {
@@ -42,8 +44,11 @@ import {
   ListGroupItem,
   Row,
 } from 'reactstrap';
-import { getColor } from 'utils/colors';
-
+import { getColor } from '../utils/colors';
+///// added code for tailwind
+import TailwindCard from './TailwindCard';
+// import { cardData } from '../data/cardData';
+import {getProductDetails} from '../services/appService';
 const today = new Date();
 const lastWeek = new Date(
   today.getFullYear(),
@@ -52,22 +57,54 @@ const lastWeek = new Date(
 );
 
 class DashboardPage extends React.Component {
+  // const cardData = [];
+  constructor(props) {
+    super(props);
+    
+    // Set initial state (ONLY ALLOWED IN CONSTRUCTOR)
+    this.state = {
+        cardData: []
+    };
+}
   componentDidMount() {
     // this is needed, because InfiniteCalendar forces window scroll
     window.scrollTo(0, 0);
+    getProductDetails().then(res => {
+      console.log(res.data);
+      // this.cardData = 
+      this.setState({ cardData : res.data});
+    })
   }
 
   render() {
     const primaryColor = getColor('primary');
     const secondaryColor = getColor('secondary');
-
+    // hiddenSubscriberCount: "False"
+    // id: "UCWOA1ZGywLbqmigxE4Qlvuw"
+    // index: 0
+    // name: "Netflix"
+    // subscriberCount: 22200000
+    // subscriberCountMillions: "22.2M"
+    // videoCount: 5051
+    // viewCount: 4710292558
+    // viewCountMillions: "4.71B"
     return (
       <Page
         className="DashboardPage"
         title="Dashboard"
         breadcrumbs={[{ name: 'Dashboard', active: true }]}
       >
-        <Row>
+        <Row className="my-3">
+          {this.state.cardData.map((c) => (
+            <Col lg={3} md={6} sm={6} xs={12} key={c.index}>
+              <TailwindCard title={c.name} subscribers={c.subscriberCountMillions}
+                image='https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj'
+                color={'#c6ece5'} link={`https://www.youtube.com/channel/ ${c.id}`} 
+                viewCountMillions={c.viewCountMillions}/>
+            </Col>
+          ))}
+        </Row>
+        <Row className="my-3">
           <Col lg={3} md={6} sm={6} xs={12}>
             <NumberWidget
               title="Total Profit"
@@ -92,6 +129,7 @@ class DashboardPage extends React.Component {
                 label: 'Last month',
               }}
             />
+
           </Col>
 
           <Col lg={3} md={6} sm={6} xs={12}>
@@ -105,6 +143,7 @@ class DashboardPage extends React.Component {
                 label: 'Last month',
               }}
             />
+
           </Col>
 
           <Col lg={3} md={6} sm={6} xs={12}>
@@ -348,14 +387,14 @@ class DashboardPage extends React.Component {
         </Row>
 
         <CardDeck style={{ marginBottom: '1rem' }}>
-          <Card body style={{ overflowX: 'auto','paddingBottom':'15px','height': 'fit-content','paddingTop': 'inherit'}}>
+          <Card body style={{ overflowX: 'auto', 'paddingBottom': '15px', 'height': 'fit-content', 'paddingTop': 'inherit' }}>
             <HorizontalAvatarList
               avatars={avatarsData}
               avatarProps={{ size: 50 }}
             />
           </Card>
 
-          <Card body style={{ overflowX: 'auto','paddingBottom':'15px','height': 'fit-content','paddingTop': 'inherit'}}>
+          <Card body style={{ overflowX: 'auto', 'paddingBottom': '15px', 'height': 'fit-content', 'paddingTop': 'inherit' }}>
             <HorizontalAvatarList
               avatars={avatarsData}
               avatarProps={{ size: 50 }}
