@@ -7,7 +7,7 @@ import CardHeader from "@material-tailwind/react/CardHeader";
 import CardStatus from "@material-tailwind/react/CardStatus";
 import CardStatusFooter from "@material-tailwind/react/CardStatusFooter";
 import Icon from "@material-tailwind/react/Icon";
-import { Col, Row, CardTitle, CardSubtitle, ListGroup, ListGroupItem, Badge } from 'reactstrap';
+import { Col, Row, ListGroup, ListGroupItem, Badge } from 'reactstrap';
 
 const TailwindCard = ({ title, subscribers, image, color, link, viewCountMillions }) => {
     return (
@@ -17,16 +17,12 @@ const TailwindCard = ({ title, subscribers, image, color, link, viewCountMillion
                     <CardHeader size="lg" iconOnly>
                         <img alt="image text" color={color} src={image} />
                     </CardHeader>
-
                     <CardStatus title={title} amount={subscribers} />
-
-                    {/* <Typography className="mb-0 text-muted small">{subtitle}</Typography> */}
-
                 </CardRow>
                 <ListGroup flush id="e-list-style-none">
-                    <ListGroupItem>
-                        Views {' '}
-                        <Badge color="secondary">{viewCountMillions}</Badge>
+                    <ListGroupItem className="d-flex justify-content-between">
+                        <span> Views {' '}</span>
+                        <Badge style={{ lineHeight: '1.5' }} color="secondary">{viewCountMillions}</Badge>
                     </ListGroupItem>
                 </ListGroup>
                 <Row>

@@ -71,9 +71,8 @@ class DashboardPage extends React.Component {
     window.scrollTo(0, 0);
     getProductDetails().then(res => {
       console.log(res.data);
-      // this.cardData = 
       this.setState({ cardData : res.data});
-    })
+    });
   }
 
   render() {
