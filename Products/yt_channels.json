@@ -1,68 +1,68 @@
 [
-  {
-    "index": 0,
-    "name": "Netflix",
-    "id": "UCWOA1ZGywLbqmigxE4Qlvuw",
-    "viewCount": 4710292558,
-    "subscriberCount": 22200000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 5051,
-    "subscriberCountMillions": "22.2M",
-    "viewCountMillions": "4.71B"
-  },
-  {
-    "index": 1,
-    "name": "NetFlix_India",
-    "id": "UCZSNzBgFub_WWil6TOTYwAg",
-    "viewCount": 3699178969,
-    "subscriberCount": 15700000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 2134,
-    "subscriberCountMillions": "15.7M",
-    "viewCountMillions": "3.7B"
-  },
-  {
-    "index": 2,
-    "name": "Amazon_Prime",
-    "id": "UCQJWtTnAHhEG5w4uN0udnUQ",
-    "viewCount": 905849945,
-    "subscriberCount": 1210000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 1214,
-    "subscriberCountMillions": "1.21M",
-    "viewCountMillions": "905.85M"
-  },
-  {
-    "index": 3,
-    "name": "Amazon_India",
-    "id": "UC4zWG9LccdWGUlF77LZ8toA",
-    "viewCount": 4002491651,
-    "subscriberCount": 6700000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 2625,
-    "subscriberCountMillions": "6.7M",
-    "viewCountMillions": "4B"
-  },
-  {
-    "index": 4,
-    "name": "SonyLIV",
-    "id": "UCOQNJjhXwvAScuELTT_i7cQ",
-    "viewCount": 2880059974,
-    "subscriberCount": 8770000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 5089,
-    "subscriberCountMillions": "8.77M",
-    "viewCountMillions": "2.88B"
-  },
-  {
-    "index": 5,
-    "name": "Zee5",
-    "id": "UCXOgAl4w-FQero1ERbGHpXQ",
-    "viewCount": 12210440379,
-    "subscriberCount": 11600000,
-    "hiddenSubscriberCount": "False",
-    "videoCount": 46107,
-    "subscriberCountMillions": "11.6M",
-    "viewCountMillions": "12.21B"
-  }
+    {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj-mo",
+        "viewCount": "4748812588",
+        "subscriberCount": "22300000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5072",
+        "subscriberCountMillions": "22.3M",
+        "viewCountMillions": "4.75B"
+    },
+    {
+        "name": "NetFlix_India",
+        "id": "UCZSNzBgFub_WWil6TOTYwAg",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj",
+        "viewCount": "3744578091",
+        "subscriberCount": "15800000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2157",
+        "subscriberCountMillions": "15.8M",
+        "viewCountMillions": "3.74B"
+    },
+    {
+        "name": "Amazon_Prime",
+        "id": "UCQJWtTnAHhEG5w4uN0udnUQ",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLTx6pTZGTrE2rdtXJsUGPSQsm9QMP0zfsgHLjamyQ=s176-c-k-c0x00ffffff-no-rj",
+        "viewCount": "911536134",
+        "subscriberCount": "1220000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1225",
+        "subscriberCountMillions": "1.22M",
+        "viewCountMillions": "911.54M"
+    },
+    {
+        "name": "Amazon_India",
+        "id": "UC4zWG9LccdWGUlF77LZ8toA",
+        "img": "https://yt3.ggpht.com/zARCXFnRRapN6Rjd_DR2ORwnS7muSw_vO0QwM_hHzTaY3jr92fxAMAtN-ZsZo6m6n6FYTyMSHw=s176-c-k-c0x00ffffff-no-rj",
+        "viewCount": "4108807027",
+        "subscriberCount": "6780000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2673",
+        "subscriberCountMillions": "6.78M",
+        "viewCountMillions": "4.11B"
+    },
+    {
+        "name": "SonyLIV",
+        "id": "UCOQNJjhXwvAScuELTT_i7cQ",
+        "img": "https://yt3.ggpht.com/a4AOsw2qHfuXAooYs7EMkwqJMmW_Wbqebpzm8Xmf2Rj_95QMLnAAFDNRNOJG-sSoairOXvQKrS8=s176-c-k-c0x00ffffff-no-rj",
+        "viewCount": "2902781092",
+        "subscriberCount": "8790000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5144",
+        "subscriberCountMillions": "8.79M",
+        "viewCountMillions": "2.9B"
+    },
+    {
+        "name": "Zee5",
+        "id": "UCXOgAl4w-FQero1ERbGHpXQ",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLTRL7wSUj3TgGCio4HGEdI2pBjVkwSHX_lbUv5J2g=s176-c-k-c0x00ffffff-no-rj",
+        "viewCount": "12404485289",
+        "subscriberCount": "11700000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "47014",
+        "subscriberCountMillions": "11.7M",
+        "viewCountMillions": "12.4B"
+    }
 ]
