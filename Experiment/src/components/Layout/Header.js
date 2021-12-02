@@ -1,10 +1,13 @@
 import Avatar from '../Avatar.js';
-import  UserCard  from '../Card/UserCard';
+import UserCard from '../Card/UserCard';
 import Notifications from '../Notifications.js';
 import SearchInput from '../SearchInput';
 import { notificationsData } from '../../demos/header.js';
 import withBadge from '../../hocs/withBadge.js';
 import React from 'react';
+
+// api call for notification import app service
+import { getQuickNotifications, getYTdetails } from '../../services/appService.js';
 import {
   MdClearAll,
   MdExitToApp,
@@ -32,6 +35,7 @@ import bn from '../../utils/bemnames';
 
 const bem = bn.create('header');
 
+
 const MdNotificationsActiveWithBadge = withBadge({
   size: 'md',
   color: 'primary',
@@ -50,13 +54,55 @@ class Header extends React.Component {
     isOpenNotificationPopover: false,
     isNotificationConfirmed: false,
     isOpenUserCardPopover: false,
+    notifyDetails: [],
+    notificationData: []
   };
+  componentDidMount() {
+    getQuickNotifications().then(res => {
+      this.setState({
+        notifyDetails: this.mapNotifyDetails(res.data)
+      });
+    }).catch(error => {
+      console.log(error);
+    })
+
+  }
+  collectRecords(data) {
+    for (let i of data) {
+      this.setState({ notificationData: this.state.notificationData.concat(i) })
+    }
+  }
+  mapNotifyDetails = (array) => {
+    /// the date formate is  11/12/21 <= sorting and giving latest 5 results
+    return array.sort((a, b) => new Date(...b['publish_date'].split('/').reverse()) - new Date(...a['publish_date'].split('/').reverse())).slice(0, 2);
+  }
+  mapNotifyDetails1 = (array) => {
+    /// the date formate is  2021-01-12 <= sorting and giving latest 5 results
+    return array.sort((a, b) => {
+      return new Date(a.publish_date).getTime() -
+        new Date(b.publish_date).getTime()
+    }).reverse().slice(0, 2);
+  }
 
   toggleNotificationPopover = () => {
     this.setState({
       isOpenNotificationPopover: !this.state.isOpenNotificationPopover,
     });
-
+    if (!this.state.isOpenNotificationPopover) {
+      if (!this.state.notificationData.length) {
+        getYTdetails().then(res => {
+          for (let i = 1; i < 7; i++) {
+            if (i === 2 || i === 3) {
+              this.collectRecords(this.mapNotifyDetails1(res[i].data));
+            } else {
+              this.collectRecords(this.mapNotifyDetails(res[i].data))
+            }
+          }
+        }).catch(err => {
+          console.log(err)
+        });
+      }
+    }
     if (!this.state.isNotificationConfirmed) {
       this.setState({ isNotificationConfirmed: true });
     }
@@ -106,14 +152,14 @@ class Header extends React.Component {
                 />
               )}
             </NavLink>
-            <Popover
-              placement="bottom"
+            <Popover 
+              placement="left"
               isOpen={this.state.isOpenNotificationPopover}
               toggle={this.toggleNotificationPopover}
               target="Popover1"
             >
               <PopoverBody>
-                <Notifications notificationsData={notificationsData} />
+                <Notifications notificationsData={this.state.notificationData} />
               </PopoverBody>
             </Popover>
           </NavItem>

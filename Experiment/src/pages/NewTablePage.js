@@ -7,7 +7,8 @@ import MaterialTable from 'material-table';
 // import { withStyles, makeStyles } from "@material-ui/core/styles";
 import Icon from "@material-tailwind/react/Icon";
 
-import { useMediaQuery } from 'react-responsive'
+import { useMediaQuery } from 'react-responsive';
+import { getMoviesData } from '../services/appService';
 const tableTypes = ['', 'bordered', 'striped', 'hover'];
 
 const NewTablePage = () => {
@@ -16,18 +17,6 @@ const NewTablePage = () => {
   const [search, setSearch] = useState("");
   const [searchmonth, setSearchmonth] = useState("");
 
-  const getMovieData = async () => {
-    try {
-      const data = await axios.get(
-        "https://nuggetsnetwork.com/Products/imdb_excel_2_json.json"
-        // "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
-      );
-      console.log(data.data);
-      setMovie(data.data);
-    } catch (e) {
-      console.log(e);
-    }
-  };
   const isMobile = useMediaQuery({ query: `(max-width: 760px)` });
   const isTablet = useMediaQuery({ minWidth: 768, maxWidth: 991 })
   console.log(isMobile);
@@ -100,15 +89,15 @@ const NewTablePage = () => {
 
       render: (rowData) => (
         <>
-          <div className="text-center">
-            <img width="100px" height="100px" class="rounded mr-2 mb-2 media-object" src="https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj" />
-          </div>
+
           <a
             href={rowData.url}
             target="_blank"
             style={{ textDecoration: 'none' }}
           >
-            {rowData.url}
+            <div className="text-center">
+              <img width="100px" height="100px" class="rounded mr-2 mb-2 media-object" src="https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj" />
+            </div>
           </a>
         </>
       ),
@@ -142,7 +131,11 @@ const NewTablePage = () => {
   //   }
   // }
   useEffect(() => {
-    getMovieData();
+    getMoviesData().then(res => {
+      setMovie(res.data);
+    }).catch(error => {
+      console.log(error);
+    })
   }, []);
   return (
     <Page

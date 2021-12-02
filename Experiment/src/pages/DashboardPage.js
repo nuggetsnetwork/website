@@ -47,7 +47,6 @@ import {
 import { getColor } from '../utils/colors';
 ///// added code for tailwind
 import TailwindCard from './TailwindCard';
-// import { cardData } from '../data/cardData';
 import {getProductDetails} from '../services/appService';
 const today = new Date();
 const lastWeek = new Date(
@@ -57,7 +56,6 @@ const lastWeek = new Date(
 );
 
 class DashboardPage extends React.Component {
-  // const cardData = [];
   constructor(props) {
     super(props);
     
@@ -78,15 +76,7 @@ class DashboardPage extends React.Component {
   render() {
     const primaryColor = getColor('primary');
     const secondaryColor = getColor('secondary');
-    // hiddenSubscriberCount: "False"
-    // id: "UCWOA1ZGywLbqmigxE4Qlvuw"
-    // index: 0
-    // name: "Netflix"
-    // subscriberCount: 22200000
-    // subscriberCountMillions: "22.2M"
-    // videoCount: 5051
-    // viewCount: 4710292558
-    // viewCountMillions: "4.71B"
+
     return (
       <Page
         className="DashboardPage"
