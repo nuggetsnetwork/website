@@ -7,7 +7,7 @@ import withBadge from '../../hocs/withBadge.js';
 import React from 'react';
 
 // api call for notification import app service
-import { getQuickNotifications, getYTdetails } from '../../services/appService.js';
+import { getQuickNotifications } from '../../services/appService.js';
 import {
   MdClearAll,
   MdExitToApp,
@@ -58,14 +58,6 @@ class Header extends React.Component {
     notificationData: []
   };
   componentDidMount() {
-    getQuickNotifications().then(res => {
-      this.setState({
-        notifyDetails: this.mapNotifyDetails(res.data)
-      });
-    }).catch(error => {
-      console.log(error);
-    })
-
   }
   collectRecords(data) {
     for (let i of data) {
@@ -90,7 +82,7 @@ class Header extends React.Component {
     });
     if (!this.state.isOpenNotificationPopover) {
       if (!this.state.notificationData.length) {
-        getYTdetails().then(res => {
+        getQuickNotifications().then(res => {
           for (let i = 1; i < 7; i++) {
             if (i === 2 || i === 3) {
               this.collectRecords(this.mapNotifyDetails1(res[i].data));

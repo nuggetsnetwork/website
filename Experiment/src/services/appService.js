@@ -17,13 +17,13 @@ const getProductDetails = () => {
         "https://nuggetsnetwork.com/Products/yt_channels.json"
     );
 }
-const getQuickNotifications = () => {
-    return axios.get(
-        "https://nuggetsnetwork.com/Products/sonyliv.json"
-    );
-}
+// const getQuickNotifications = () => {
+//     return axios.get(
+//         "https://nuggetsnetwork.com/Products/sonyliv.json"
+//     );
+// }
 
-const getYTdetails =() => {
+const getQuickNotifications =() => {
     let dataApi = [];
     for (let d of details) {
         dataApi.push(axios.get((baseUrl + d + '.json')));
@@ -39,4 +39,4 @@ const getMoviesData = () => {
     );
 }
 
-export { getProductDetails, getQuickNotifications, getMoviesData, getYTdetails }
+export { getProductDetails, getQuickNotifications, getMoviesData }
