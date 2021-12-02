@@ -89,7 +89,7 @@ class DashboardPage extends React.Component {
               <TailwindCard title={c.name} subscribers={c.subscriberCountMillions}
                 image='https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj'
                 color={'#c6ece5'} link={`https://www.youtube.com/channel/ ${c.id}`} 
-                viewCountMillions={c.viewCountMillions}/>
+                viewCountMillions={c.viewCountMillions} addedViewCountMillions={c.added_viewCountMillions}/>
             </Col>
           ))}
         </Row>

@@ -2,7 +2,7 @@ import React from 'react'
 import axios from 'axios'
 
 const details = [
-    'yt_channels',
+    // 'yt_channels',
     'sonyliv',
     'imdb_excel_2_json',
     'netflix_india',
@@ -33,7 +33,8 @@ const getYTdetails =() => {
 
 const getMoviesData = () => {
     return axios.get(
-        "https://nuggetsnetwork.com/Products/imdb_excel_2_json.json"
+        // "https://nuggetsnetwork.com/Products/imdb_excel_2_json.json",
+        "https://nuggetsnetwork.com/Products/netflix_sample.json"
         // "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
     );
 }

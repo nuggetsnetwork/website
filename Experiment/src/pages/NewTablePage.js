@@ -33,11 +33,10 @@ const NewTablePage = () => {
 
   };
 
-
   const columns = [
     {
       title: 'Movie Name',
-      field: 'fTitle',
+      field: 'title',
       cellStyle: {
         backgroundColor: '#039be5',
         color: '#FFF'
@@ -48,12 +47,12 @@ const NewTablePage = () => {
       },
       render: (rowData) => (
         rowData && (
-          <><img width="24" height="24" src="https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj" /> {rowData.fTitle}</>
+          <><img width="24" height="24" src={rowData.thumbnail} /> {rowData.title}</>
         )
       )
     },
     {
-      title: 'Month', field: 'plTitle',
+      title: 'New Series', field: 'plTitle',
       headerStyle: {
         backgroundColor: '#039be5',
         color: '#FFF',
@@ -73,13 +72,13 @@ const NewTablePage = () => {
         color: '#FFF',
       }
     },
-    {
-      title: 'IMDB Rating', field: 'Rating',
-      headerStyle: {
-        backgroundColor: '#039be5',
-        color: '#FFF',
-      }
-    },
+    // {
+    //   title: 'IMDB Rating', field: 'Rating',
+    //   headerStyle: {
+    //     backgroundColor: '#039be5',
+    //     color: '#FFF',
+    //   }
+    // },
     {
       title: 'Link', field: 'url',
       headerStyle: {
@@ -89,14 +88,13 @@ const NewTablePage = () => {
 
       render: (rowData) => (
         <>
-
           <a
             href={rowData.url}
             target="_blank"
             style={{ textDecoration: 'none' }}
           >
             <div className="text-center">
-              <img width="100px" height="100px" class="rounded mr-2 mb-2 media-object" src="https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj" />
+              <img width="100px" height="100px" class="rounded mr-2 mb-2 media-object" src={rowData.thumbnail} />
             </div>
           </a>
         </>
