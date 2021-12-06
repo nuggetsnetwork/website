@@ -46,7 +46,7 @@ const MdNotificationsActiveWithBadge = withBadge({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  children: <small>10</small>,
+  children: <small>12</small>,
 })(MdNotificationsActive);
 
 class Header extends React.Component {
