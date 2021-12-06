@@ -47,7 +47,11 @@ import {
 import { getColor } from '../utils/colors';
 ///// added code for tailwind
 import TailwindCard from './TailwindCard';
-import {getProductDetails} from '../services/appService';
+import { getProductDetails } from '../services/appService';
+
+import OwlCarouselSlider from './OwlCarouselSlider.js';
+import Typography from '../components/Typography';
+
 const today = new Date();
 const lastWeek = new Date(
   today.getFullYear(),
@@ -58,18 +62,18 @@ const lastWeek = new Date(
 class DashboardPage extends React.Component {
   constructor(props) {
     super(props);
-    
+
     // Set initial state (ONLY ALLOWED IN CONSTRUCTOR)
     this.state = {
-        cardData: []
+      cardData: []
     };
-}
+  }
   componentDidMount() {
     // this is needed, because InfiniteCalendar forces window scroll
     window.scrollTo(0, 0);
     getProductDetails().then(res => {
       console.log(res.data);
-      this.setState({ cardData : res.data});
+      this.setState({ cardData: res.data });
     });
   }
 
@@ -88,11 +92,14 @@ class DashboardPage extends React.Component {
             <Col lg={3} md={6} sm={6} xs={12} key={c.index}>
               <TailwindCard title={c.name} subscribers={c.subscriberCountMillions}
                 image='https://yt3.ggpht.com/ytc/AKedOLRmJO-LXCL5VX66SqNzenmd9VUacLxU7xprGJlu=s176-c-k-c0x00ffffff-no-rj'
-                color={'#c6ece5'} link={`https://www.youtube.com/channel/ ${c.id}`} 
-                viewCountMillions={c.viewCountMillions} addedViewCountMillions={c.added_viewCountMillions}/>
+                color={'#c6ece5'} link={`https://www.youtube.com/channel/ ${c.id}`}
+                viewCountMillions={c.viewCountMillions} addedViewCountMillions={c.added_viewCountMillions} />
             </Col>
           ))}
         </Row>
+        <Typography type="h4">SonyLIV Channel</Typography>
+        <OwlCarouselSlider name="sonyliv"></OwlCarouselSlider>
+
         <Row className="my-3">
           <Col lg={3} md={6} sm={6} xs={12}>
             <NumberWidget

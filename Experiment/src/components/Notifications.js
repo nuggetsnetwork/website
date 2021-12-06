@@ -9,10 +9,10 @@ const Notifications = ({ notificationsData }) => {
   return (
     notificationsData &&
     notificationsData.length &&
-    notificationsData.map(({ index, avatar, fTitle, publish_date,url }) => (
+    notificationsData.map(({ index, avatar, fTitle, publish_date,url,img }) => (
       <Media key={fTitle} className="pb-2" onClick={() => window.open(url)}>
         <Media left className="align-self-center pr-3">
-          <Avatar tag={Media} object src={avatar} alt="Avatar" />
+          <Avatar tag={Media} object src={img} alt="Avatar" />
         </Media>
         <Media body middle className="align-self-center">
           {fTitle}

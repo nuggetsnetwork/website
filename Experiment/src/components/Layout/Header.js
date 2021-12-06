@@ -7,7 +7,7 @@ import withBadge from '../../hocs/withBadge.js';
 import React from 'react';
 
 // api call for notification import app service
-import { getQuickNotifications } from '../../services/appService.js';
+import { getIcons, getQuickNotifications } from '../../services/appService.js';
 import {
   MdClearAll,
   MdExitToApp,
@@ -46,7 +46,7 @@ const MdNotificationsActiveWithBadge = withBadge({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  children: <small>5</small>,
+  children: <small>10</small>,
 })(MdNotificationsActive);
 
 class Header extends React.Component {
@@ -59,8 +59,11 @@ class Header extends React.Component {
   };
   componentDidMount() {
   }
-  collectRecords(data) {
+  collectRecords(data, collectIcons) {
+    console.log(collectIcons);
     for (let i of data) {
+      i['img'] = collectIcons;
+      // console.log(i);
       this.setState({ notificationData: this.state.notificationData.concat(i) })
     }
   }
@@ -83,12 +86,27 @@ class Header extends React.Component {
     if (!this.state.isOpenNotificationPopover) {
       if (!this.state.notificationData.length) {
         getQuickNotifications().then(res => {
-          for (let i = 1; i < 7; i++) {
-            if (i === 2 || i === 3) {
-              this.collectRecords(this.mapNotifyDetails1(res[i].data));
-            } else {
-              this.collectRecords(this.mapNotifyDetails(res[i].data))
+          let collectIcons = res[6].data;
+          let array = [];
+          for(let j of res[6].data) {
+            switch (j.name) {
+              case 'Netflix': array['imdb_excel_2_json'] = j.img ;break;
+              case 'NetFlix_India': array['netflix_india'] = j.img ;break;
+              case 'Amazon_Prime': array['amazon_prime'] = j.img ;break;
+              case 'Amazon_India': array['amazon_india'] = j.img ;break;
+              case 'SonyLIV': array['sonyliv'] = j.img ;break;
+              case 'Zee5': array['zee5'] = j.img ;break;
             }
+          }
+          console.log(array);
+          for (let i = 0; i < 6; i++) {
+            let split = (res[i].request.responseURL.split('https://nuggetsnetwork.com/Products/'))[1].split('.json');
+            console.log(split[0]);
+              if (i === 1 || i === 2) {
+                this.collectRecords(this.mapNotifyDetails1(res[i].data),array[split[0]]);
+              } else {
+                this.collectRecords(this.mapNotifyDetails(res[i].data),array[split[0]])
+              }
           }
         }).catch(err => {
           console.log(err)
@@ -144,7 +162,7 @@ class Header extends React.Component {
                 />
               )}
             </NavLink>
-            <Popover 
+            <Popover
               placement="left"
               isOpen={this.state.isOpenNotificationPopover}
               toggle={this.toggleNotificationPopover}
