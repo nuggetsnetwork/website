@@ -4,7 +4,7 @@ import {
     CardTitle, CardSubtitle, CardImg
 } from 'reactstrap';
 import Carousel from 'react-elastic-carousel'
-import { getSonyLiv } from '../services/appService';
+import { getSonyLiv,getNetflix } from '../services/appService';
 import Popup from './Popup';
 import { Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
 import ReactPlayer from 'react-player';
@@ -22,8 +22,9 @@ const OwlCarouselSlider = ({ name }) => {
     useEffect(() => {
         console.log(name);
         switch (name) {
-            case 'sonyliv': getSonyLiv().then(res => {
+            case 'sonyliv': getNetflix().then(res => {
                 setDetails(res.data);
+                console.log(res.data);
             }); break;
         }
     }, []);
@@ -73,18 +74,7 @@ const OwlCarouselSlider = ({ name }) => {
                             height='100%' controls={true} playing= {true} url={modalData.url} />
                     </div>
                 </ModalBody>
-                {/* <ModalFooter>
-                    <Button
-                        color="primary"
-                        onClick={() => noRefCheck()}
-                    >
-                        Do Something
-                    </Button>
-                    {' '}
-                    <Button onClick={() => noRefCheck()}>
-                        Cancel
-                    </Button>
-                </ModalFooter> */}
+               
             </Modal>
         </>
     )

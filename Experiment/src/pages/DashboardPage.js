@@ -97,7 +97,7 @@ class DashboardPage extends React.Component {
             </Col>
           ))}
         </Row>
-        <Typography type="h4">SonyLIV Channel</Typography>
+        {/* <Typography type="h4">SonyLIV Channel</Typography> */}
         <OwlCarouselSlider name="sonyliv"></OwlCarouselSlider>
 
         <Row className="my-3">
