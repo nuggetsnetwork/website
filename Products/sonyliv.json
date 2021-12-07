@@ -9,12 +9,12 @@
         "url": "https://www.youtube.com/watch?v=nSHWLh0YS0Y",
         "thumbnail": "https://i.ytimg.com/vi/nSHWLh0YS0Y/sddefault.jpg",
         "fTitle": "Karkhanisanchi Waari",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -26,12 +26,12 @@
         "url": "https://www.youtube.com/watch?v=nmk1btF83Wk",
         "thumbnail": "https://i.ytimg.com/vi/nmk1btF83Wk/sddefault.jpg",
         "fTitle": "The Whistleblower",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -60,12 +60,12 @@
         "url": "https://www.youtube.com/watch?v=LnCS61_2fos",
         "thumbnail": "https://i.ytimg.com/vi/LnCS61_2fos/sddefault.jpg",
         "fTitle": "The Ashes",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 4,
@@ -77,12 +77,12 @@
         "url": "https://www.youtube.com/watch?v=X9dhH7d8cqU",
         "thumbnail": "https://i.ytimg.com/vi/X9dhH7d8cqU/sddefault.jpg",
         "fTitle": "The Big Bash League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 5,
@@ -94,12 +94,12 @@
         "url": "https://www.youtube.com/watch?v=--nhlc6uOfc",
         "thumbnail": "https://i.ytimg.com/vi/--nhlc6uOfc/sddefault.jpg",
         "fTitle": "Lanka Premier League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 6,
@@ -111,12 +111,12 @@
         "url": "https://www.youtube.com/watch?v=Ook2OFZ9UDU",
         "thumbnail": "https://i.ytimg.com/vi/Ook2OFZ9UDU/sddefault.jpg",
         "fTitle": "Bundesliga",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 7,
@@ -183,8 +183,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 7,
@@ -213,12 +213,12 @@
         "url": "https://www.youtube.com/watch?v=KxEf9wjmkk0",
         "thumbnail": "https://i.ytimg.com/vi/KxEf9wjmkk0/sddefault.jpg",
         "fTitle": "Sivaranjiniyum Innum Sila Pengallum",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 9,
@@ -230,12 +230,12 @@
         "url": "https://www.youtube.com/watch?v=vJefwqZ3F-o",
         "thumbnail": "https://i.ytimg.com/vi/vJefwqZ3F-o/sddefault.jpg",
         "fTitle": "BRO I Official Trailer I Telugu I SonyLIV I Streaming Now",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 10,
@@ -251,8 +251,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Romance",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 11,
@@ -264,12 +264,12 @@
         "url": "https://www.youtube.com/watch?v=oIbfkKv0I5k",
         "thumbnail": "https://i.ytimg.com/vi/oIbfkKv0I5k/sddefault.jpg",
         "fTitle": "Tryst With Destiny",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 12,
@@ -281,12 +281,12 @@
         "url": "https://www.youtube.com/watch?v=MCNg389DsKU",
         "thumbnail": "https://i.ytimg.com/vi/MCNg389DsKU/sddefault.jpg",
         "fTitle": "Churuli I Official Trailer I Malayalam I SonyLIV I Streaming on 19th Nov",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 13,
@@ -298,12 +298,12 @@
         "url": "https://www.youtube.com/watch?v=AcodOlOa1dM",
         "thumbnail": "https://i.ytimg.com/vi/AcodOlOa1dM/sddefault.jpg",
         "fTitle": "The Whistleblower",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 14,
@@ -315,12 +315,12 @@
         "url": "https://www.youtube.com/watch?v=Khf_Tnk8iKI",
         "thumbnail": "https://i.ytimg.com/vi/Khf_Tnk8iKI/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 15,
@@ -332,12 +332,12 @@
         "url": "https://www.youtube.com/watch?v=kgkjdXNc0Y0",
         "thumbnail": "https://i.ytimg.com/vi/kgkjdXNc0Y0/sddefault.jpg",
         "fTitle": "Sri Lanka vs West Indies",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 16,
@@ -349,12 +349,12 @@
         "url": "https://www.youtube.com/watch?v=5wiaZ0_5AIQ",
         "thumbnail": "https://i.ytimg.com/vi/5wiaZ0_5AIQ/sddefault.jpg",
         "fTitle": "WBBL 07",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 17,
@@ -366,12 +366,12 @@
         "url": "https://www.youtube.com/watch?v=h2-zQMGd_CQ",
         "thumbnail": "https://i.ytimg.com/vi/h2-zQMGd_CQ/sddefault.jpg",
         "fTitle": "WBBL 07",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 18,
@@ -383,12 +383,12 @@
         "url": "https://www.youtube.com/watch?v=NeQG2V5PpGg",
         "thumbnail": "https://i.ytimg.com/vi/NeQG2V5PpGg/sddefault.jpg",
         "fTitle": "WBBL 07",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 19,
@@ -400,12 +400,12 @@
         "url": "https://www.youtube.com/watch?v=qfTj6e2gZ8Y",
         "thumbnail": "https://i.ytimg.com/vi/qfTj6e2gZ8Y/sddefault.jpg",
         "fTitle": "West Indies Tour of Sri Lanka",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 20,
@@ -417,12 +417,12 @@
         "url": "https://www.youtube.com/watch?v=tzBW31Uik-Q",
         "thumbnail": "https://i.ytimg.com/vi/tzBW31Uik-Q/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 21,
@@ -434,12 +434,12 @@
         "url": "https://www.youtube.com/watch?v=4CeqiqFTRkw",
         "thumbnail": "https://i.ytimg.com/vi/4CeqiqFTRkw/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 22,
@@ -451,12 +451,12 @@
         "url": "https://www.youtube.com/watch?v=sVPl6e6hhzo",
         "thumbnail": "https://i.ytimg.com/vi/sVPl6e6hhzo/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 23,
@@ -468,12 +468,12 @@
         "url": "https://www.youtube.com/watch?v=YE05mcHx6mY",
         "thumbnail": "https://i.ytimg.com/vi/YE05mcHx6mY/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 24,
@@ -519,12 +519,12 @@
         "url": "https://www.youtube.com/watch?v=HYLlCDh6jng",
         "thumbnail": "https://i.ytimg.com/vi/HYLlCDh6jng/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 26,
@@ -536,12 +536,12 @@
         "url": "https://www.youtube.com/watch?v=RCdPlnbhKsk",
         "thumbnail": "https://i.ytimg.com/vi/RCdPlnbhKsk/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 27,
@@ -553,12 +553,12 @@
         "url": "https://www.youtube.com/watch?v=EilmpiIJxvE",
         "thumbnail": "https://i.ytimg.com/vi/EilmpiIJxvE/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 28,
@@ -570,12 +570,12 @@
         "url": "https://www.youtube.com/watch?v=t4ovm5CGZkc",
         "thumbnail": "https://i.ytimg.com/vi/t4ovm5CGZkc/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 29,
@@ -587,12 +587,12 @@
         "url": "https://www.youtube.com/watch?v=Tm_9ZoK2-Ao",
         "thumbnail": "https://i.ytimg.com/vi/Tm_9ZoK2-Ao/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 30,
@@ -604,12 +604,12 @@
         "url": "https://www.youtube.com/watch?v=pOI_1plHGP4",
         "thumbnail": "https://i.ytimg.com/vi/pOI_1plHGP4/hqdefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 31,
@@ -621,12 +621,12 @@
         "url": "https://www.youtube.com/watch?v=-OM6fV1buCg",
         "thumbnail": "https://i.ytimg.com/vi/-OM6fV1buCg/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 32,
@@ -638,12 +638,12 @@
         "url": "https://www.youtube.com/watch?v=i5K5i6eqeFE",
         "thumbnail": "https://i.ytimg.com/vi/i5K5i6eqeFE/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 33,
@@ -655,12 +655,12 @@
         "url": "https://www.youtube.com/watch?v=OV6mhiIhp9s",
         "thumbnail": "https://i.ytimg.com/vi/OV6mhiIhp9s/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 34,
@@ -672,12 +672,12 @@
         "url": "https://www.youtube.com/watch?v=RX1O1Ja8heA",
         "thumbnail": "https://i.ytimg.com/vi/RX1O1Ja8heA/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 35,
@@ -689,12 +689,12 @@
         "url": "https://www.youtube.com/watch?v=vunfb39GIfc",
         "thumbnail": "https://i.ytimg.com/vi/vunfb39GIfc/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 36,
@@ -706,12 +706,12 @@
         "url": "https://www.youtube.com/watch?v=S8KWSP_fg7Q",
         "thumbnail": "https://i.ytimg.com/vi/S8KWSP_fg7Q/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 37,
@@ -723,12 +723,12 @@
         "url": "https://www.youtube.com/watch?v=1FPqgOaJI9w",
         "thumbnail": "https://i.ytimg.com/vi/1FPqgOaJI9w/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 38,
@@ -791,12 +791,12 @@
         "url": "https://www.youtube.com/watch?v=pfnUoA9XQV4",
         "thumbnail": "https://i.ytimg.com/vi/pfnUoA9XQV4/sddefault.jpg",
         "fTitle": "Bundesliga",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 41,
@@ -808,12 +808,12 @@
         "url": "https://www.youtube.com/watch?v=UmrePc7WIeA",
         "thumbnail": "https://i.ytimg.com/vi/UmrePc7WIeA/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 42,
@@ -825,12 +825,12 @@
         "url": "https://www.youtube.com/watch?v=f4NtebCdNF0",
         "thumbnail": "https://i.ytimg.com/vi/f4NtebCdNF0/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 43,
@@ -842,12 +842,12 @@
         "url": "https://www.youtube.com/watch?v=2w33H_2zRz0",
         "thumbnail": "https://i.ytimg.com/vi/2w33H_2zRz0/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 44,
@@ -859,12 +859,12 @@
         "url": "https://www.youtube.com/watch?v=2CJUpm4R60w",
         "thumbnail": "https://i.ytimg.com/vi/2CJUpm4R60w/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 45,
@@ -944,12 +944,12 @@
         "url": "https://www.youtube.com/watch?v=L0LhvRLhMIA",
         "thumbnail": "https://i.ytimg.com/vi/L0LhvRLhMIA/sddefault.jpg",
         "fTitle": "Kaasav",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 50,
@@ -995,12 +995,12 @@
         "url": "https://www.youtube.com/watch?v=hW59PV0WTW8",
         "thumbnail": "https://i.ytimg.com/vi/hW59PV0WTW8/sddefault.jpg",
         "fTitle": "#Aamis",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 53,
@@ -1012,12 +1012,12 @@
         "url": "https://www.youtube.com/watch?v=7wLJczGNRq4",
         "thumbnail": "https://i.ytimg.com/vi/7wLJczGNRq4/sddefault.jpg",
         "fTitle": "Britannia",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 54,
@@ -1063,12 +1063,12 @@
         "url": "https://www.youtube.com/watch?v=3EPibofKTj4",
         "thumbnail": "https://i.ytimg.com/vi/3EPibofKTj4/sddefault.jpg",
         "fTitle": "Women's Big Bash League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 57,
@@ -1097,12 +1097,12 @@
         "url": "https://www.youtube.com/watch?v=7psbVC6WRag",
         "thumbnail": "https://i.ytimg.com/vi/7psbVC6WRag/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 59,
@@ -1114,12 +1114,12 @@
         "url": "https://www.youtube.com/watch?v=3cZHx1BYoiY",
         "thumbnail": "https://i.ytimg.com/vi/3cZHx1BYoiY/hqdefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 60,
@@ -1131,12 +1131,12 @@
         "url": "https://www.youtube.com/watch?v=c5DX0OujkQg",
         "thumbnail": "https://i.ytimg.com/vi/c5DX0OujkQg/hqdefault.jpg",
         "fTitle": "UEFA Nations League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 61,
@@ -1148,12 +1148,12 @@
         "url": "https://www.youtube.com/watch?v=ijonEqB41Rg",
         "thumbnail": "https://i.ytimg.com/vi/ijonEqB41Rg/sddefault.jpg",
         "fTitle": "UEFA Nations League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 62,
@@ -1199,12 +1199,12 @@
         "url": "https://www.youtube.com/watch?v=pXHCJfhBtNA",
         "thumbnail": "https://i.ytimg.com/vi/pXHCJfhBtNA/sddefault.jpg",
         "fTitle": "UEFA Nations League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 65,
@@ -1216,12 +1216,12 @@
         "url": "https://www.youtube.com/watch?v=nvnJMY79b4g",
         "thumbnail": "https://i.ytimg.com/vi/nvnJMY79b4g/hqdefault.jpg",
         "fTitle": "UEFA Nations League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 66,
@@ -1233,12 +1233,12 @@
         "url": "https://www.youtube.com/watch?v=2CZIgZyQL8I",
         "thumbnail": "https://i.ytimg.com/vi/2CZIgZyQL8I/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 67,
@@ -1250,12 +1250,12 @@
         "url": "https://www.youtube.com/watch?v=Tn4bTej5g5Y",
         "thumbnail": "https://i.ytimg.com/vi/Tn4bTej5g5Y/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 68,
@@ -1267,12 +1267,12 @@
         "url": "https://www.youtube.com/watch?v=xcUdMEnnb4k",
         "thumbnail": "https://i.ytimg.com/vi/xcUdMEnnb4k/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 69,
@@ -1284,12 +1284,12 @@
         "url": "https://www.youtube.com/watch?v=w53NPbuHNe8",
         "thumbnail": "https://i.ytimg.com/vi/w53NPbuHNe8/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 70,
@@ -1301,12 +1301,12 @@
         "url": "https://www.youtube.com/watch?v=jgj9O36GeXI",
         "thumbnail": "https://i.ytimg.com/vi/jgj9O36GeXI/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 71,
@@ -1318,12 +1318,12 @@
         "url": "https://www.youtube.com/watch?v=yewOspi0WAc",
         "thumbnail": "https://i.ytimg.com/vi/yewOspi0WAc/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 72,
@@ -1335,12 +1335,12 @@
         "url": "https://www.youtube.com/watch?v=v_m3Rudqb60",
         "thumbnail": "https://i.ytimg.com/vi/v_m3Rudqb60/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 73,
@@ -1352,12 +1352,12 @@
         "url": "https://www.youtube.com/watch?v=NEq7Ef9_W1I",
         "thumbnail": "https://i.ytimg.com/vi/NEq7Ef9_W1I/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 74,
@@ -1369,12 +1369,12 @@
         "url": "https://www.youtube.com/watch?v=Ueyd2953WKA",
         "thumbnail": "https://i.ytimg.com/vi/Ueyd2953WKA/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 75,
@@ -1386,12 +1386,12 @@
         "url": "https://www.youtube.com/watch?v=wWlGs4Ac56Q",
         "thumbnail": "https://i.ytimg.com/vi/wWlGs4Ac56Q/hqdefault.jpg",
         "fTitle": "Its All Good- Music Video",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 76,
@@ -1403,12 +1403,12 @@
         "url": "https://www.youtube.com/watch?v=-FUTMgZic7w",
         "thumbnail": "https://i.ytimg.com/vi/-FUTMgZic7w/sddefault.jpg",
         "fTitle": "NADUVAN",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 77,
@@ -1437,12 +1437,12 @@
         "url": "https://www.youtube.com/watch?v=EetLSf6_MY4",
         "thumbnail": "https://i.ytimg.com/vi/EetLSf6_MY4/sddefault.jpg",
         "fTitle": "Raghu CNG",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 79,
@@ -1539,12 +1539,12 @@
         "url": "https://www.youtube.com/watch?v=UN3qkmqvTcE",
         "thumbnail": "https://i.ytimg.com/vi/UN3qkmqvTcE/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 85,
@@ -1556,12 +1556,12 @@
         "url": "https://www.youtube.com/watch?v=-y-C9EURMj0",
         "thumbnail": "https://i.ytimg.com/vi/-y-C9EURMj0/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 86,
@@ -1573,12 +1573,12 @@
         "url": "https://www.youtube.com/watch?v=OqBAUNl7w9o",
         "thumbnail": "https://i.ytimg.com/vi/OqBAUNl7w9o/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 87,
@@ -1590,12 +1590,12 @@
         "url": "https://www.youtube.com/watch?v=sAlTScNczfw",
         "thumbnail": "https://i.ytimg.com/vi/sAlTScNczfw/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 88,
@@ -1607,12 +1607,12 @@
         "url": "https://www.youtube.com/watch?v=M7_d_z4WKWw",
         "thumbnail": "https://i.ytimg.com/vi/M7_d_z4WKWw/sddefault.jpg",
         "fTitle": "UFC 266",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 89,
@@ -1624,12 +1624,12 @@
         "url": "https://www.youtube.com/watch?v=77y6O9NRnfM",
         "thumbnail": "https://i.ytimg.com/vi/77y6O9NRnfM/sddefault.jpg",
         "fTitle": "UFC 266",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 90,
@@ -1641,12 +1641,12 @@
         "url": "https://www.youtube.com/watch?v=gAEn1nvsybA",
         "thumbnail": "https://i.ytimg.com/vi/gAEn1nvsybA/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 91,
@@ -1658,12 +1658,12 @@
         "url": "https://www.youtube.com/watch?v=EyX-Uv8zGrI",
         "thumbnail": "https://i.ytimg.com/vi/EyX-Uv8zGrI/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 92,
@@ -1675,12 +1675,12 @@
         "url": "https://www.youtube.com/watch?v=54f7T2PNeGs",
         "thumbnail": "https://i.ytimg.com/vi/54f7T2PNeGs/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 93,
@@ -1692,12 +1692,12 @@
         "url": "https://www.youtube.com/watch?v=HLoIsQFJOSs",
         "thumbnail": "https://i.ytimg.com/vi/HLoIsQFJOSs/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 94,
@@ -1709,12 +1709,12 @@
         "url": "https://www.youtube.com/watch?v=U_hTa110yuc",
         "thumbnail": "https://i.ytimg.com/vi/U_hTa110yuc/sddefault.jpg",
         "fTitle": "UEFA Champions League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 95,
@@ -1726,12 +1726,12 @@
         "url": "https://www.youtube.com/watch?v=TSyfVV9U4H8",
         "thumbnail": "https://i.ytimg.com/vi/TSyfVV9U4H8/hqdefault.jpg",
         "fTitle": "Ronaldo Is Back",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 96,
@@ -1743,12 +1743,12 @@
         "url": "https://www.youtube.com/watch?v=CmPUrIupZ3M",
         "thumbnail": "https://i.ytimg.com/vi/CmPUrIupZ3M/sddefault.jpg",
         "fTitle": "Ronaldo Is Back",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 97,
@@ -1760,12 +1760,12 @@
         "url": "https://www.youtube.com/watch?v=s6K7gi0vh1o",
         "thumbnail": "https://i.ytimg.com/vi/s6K7gi0vh1o/hqdefault.jpg",
         "fTitle": "South Africa Tour of Sri Lanka",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 98,
@@ -1777,12 +1777,12 @@
         "url": "https://www.youtube.com/watch?v=bdCSqRlVdFo",
         "thumbnail": "https://i.ytimg.com/vi/bdCSqRlVdFo/sddefault.jpg",
         "fTitle": "New Zealand Tour of Pakistan",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 99,
@@ -1794,12 +1794,12 @@
         "url": "https://www.youtube.com/watch?v=eMhVgo65MFE",
         "thumbnail": "https://i.ytimg.com/vi/eMhVgo65MFE/hqdefault.jpg",
         "fTitle": "India Tour of England",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 100,
@@ -1811,12 +1811,12 @@
         "url": "https://www.youtube.com/watch?v=xFO3LoEt7yc",
         "thumbnail": "https://i.ytimg.com/vi/xFO3LoEt7yc/hqdefault.jpg",
         "fTitle": "India Tour of England",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 101,
@@ -1828,12 +1828,12 @@
         "url": "https://www.youtube.com/watch?v=pd7OlxdrNEI",
         "thumbnail": "https://i.ytimg.com/vi/pd7OlxdrNEI/hqdefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 102,
@@ -1845,12 +1845,12 @@
         "url": "https://www.youtube.com/watch?v=Z_1VA6YCvRo",
         "thumbnail": "https://i.ytimg.com/vi/Z_1VA6YCvRo/hqdefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 103,
@@ -1862,12 +1862,12 @@
         "url": "https://www.youtube.com/watch?v=NLdmrGGyGEY",
         "thumbnail": "https://i.ytimg.com/vi/NLdmrGGyGEY/sddefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 104,
@@ -1879,12 +1879,12 @@
         "url": "https://www.youtube.com/watch?v=izYAzcqASVU",
         "thumbnail": "https://i.ytimg.com/vi/izYAzcqASVU/hqdefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 105,
@@ -1913,12 +1913,12 @@
         "url": "https://www.youtube.com/watch?v=izYAzcqASVU",
         "thumbnail": "https://i.ytimg.com/vi/izYAzcqASVU/hqdefault.jpg",
         "fTitle": "European Qualifiers for the 2022 World Cup",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 107,
@@ -1947,12 +1947,12 @@
         "url": "https://www.youtube.com/watch?v=6Z0EM0Q2Uk4",
         "thumbnail": "https://i.ytimg.com/vi/6Z0EM0Q2Uk4/hqdefault.jpg",
         "fTitle": "Kasada Tabara",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 109,
@@ -2015,12 +2015,12 @@
         "url": "https://www.youtube.com/watch?v=TOshpjw9Imo",
         "thumbnail": "https://i.ytimg.com/vi/TOshpjw9Imo/hqdefault.jpg",
         "fTitle": "India Tour of England",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 113,
@@ -2049,12 +2049,12 @@
         "url": "https://www.youtube.com/watch?v=7UlZH-uB5VM",
         "thumbnail": "https://i.ytimg.com/vi/7UlZH-uB5VM/hqdefault.jpg",
         "fTitle": "Rocket Boys",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 115,
@@ -2100,12 +2100,12 @@
         "url": "https://www.youtube.com/watch?v=OlYOPRVeFlE",
         "thumbnail": "https://i.ytimg.com/vi/OlYOPRVeFlE/sddefault.jpg",
         "fTitle": "Shantit Kranti",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 117,
@@ -2117,12 +2117,12 @@
         "url": "https://www.youtube.com/watch?v=GaeVIlE6qhM",
         "thumbnail": "https://i.ytimg.com/vi/GaeVIlE6qhM/sddefault.jpg",
         "fTitle": "The Latest",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 118,
@@ -2151,12 +2151,12 @@
         "url": "https://www.youtube.com/watch?v=aaF70ztyfyA",
         "thumbnail": "https://i.ytimg.com/vi/aaF70ztyfyA/hqdefault.jpg",
         "fTitle": "Shantit Kranti",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 120,
@@ -2202,12 +2202,12 @@
         "url": "https://www.youtube.com/watch?v=2QWiDN-5eIs",
         "thumbnail": "https://i.ytimg.com/vi/2QWiDN-5eIs/sddefault.jpg",
         "fTitle": "India Tour of England",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 123,
@@ -2219,12 +2219,12 @@
         "url": "https://www.youtube.com/watch?v=M9nJKgmVxEo",
         "thumbnail": "https://i.ytimg.com/vi/M9nJKgmVxEo/hqdefault.jpg",
         "fTitle": "The Latest",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 124,
@@ -2236,12 +2236,12 @@
         "url": "https://www.youtube.com/watch?v=9Vo9Uyh8oJw",
         "thumbnail": "https://i.ytimg.com/vi/9Vo9Uyh8oJw/hqdefault.jpg",
         "fTitle": "Thittam Irandu/Plan B",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 125,
@@ -2253,12 +2253,12 @@
         "url": "https://www.youtube.com/watch?v=eZ91EjX2qQ0",
         "thumbnail": "https://i.ytimg.com/vi/eZ91EjX2qQ0/sddefault.jpg",
         "fTitle": "Shantit Kranti",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 126,
@@ -2321,12 +2321,12 @@
         "url": "https://www.youtube.com/watch?v=WCDdccSqEVk",
         "thumbnail": "https://i.ytimg.com/vi/WCDdccSqEVk/sddefault.jpg",
         "fTitle": "Olympic Games Tokyo 2020",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 130,
@@ -2338,12 +2338,12 @@
         "url": "https://www.youtube.com/watch?v=9Vo9Uyh8oJw",
         "thumbnail": "https://i.ytimg.com/vi/9Vo9Uyh8oJw/hqdefault.jpg",
         "fTitle": "Thittam Irandu/Plan B",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 131,
@@ -2406,19 +2406,19 @@
         "url": "https://www.youtube.com/watch?v=8xebLwgy3wQ",
         "thumbnail": "https://i.ytimg.com/vi/8xebLwgy3wQ/sddefault.jpg",
         "fTitle": "Kon Honaar Crorepati- Play Along",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 135,
         "plTitle": "NEW in June on SonyLIV",
         "title": "Thaen | Official Trailer (Tamil) | SonyLIV Exclusive | Streaming Now",
         "views": 1161383,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-06-24",
         "url": "https://www.youtube.com/watch?v=iR99Tcc2Id8",
         "thumbnail": "https://i.ytimg.com/vi/iR99Tcc2Id8/sddefault.jpg",
@@ -2440,12 +2440,12 @@
         "url": "https://www.youtube.com/watch?v=-HM-brt9boA",
         "thumbnail": "https://i.ytimg.com/vi/-HM-brt9boA/sddefault.jpg",
         "fTitle": "Sri Lanka Tour of England",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 137,
@@ -2457,12 +2457,12 @@
         "url": "https://www.youtube.com/watch?v=ihde4IJV3IY",
         "thumbnail": "https://i.ytimg.com/vi/ihde4IJV3IY/hqdefault.jpg",
         "fTitle": "I Dream of Jeannie",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2474,12 +2474,12 @@
         "url": "https://www.youtube.com/watch?v=4i5gx2FjH5E",
         "thumbnail": "https://i.ytimg.com/vi/4i5gx2FjH5E/sddefault.jpg",
         "fTitle": "Copa America 2021",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 139,
@@ -2491,12 +2491,12 @@
         "url": "https://www.youtube.com/watch?v=170zQ0bXT64",
         "thumbnail": "https://i.ytimg.com/vi/170zQ0bXT64/sddefault.jpg",
         "fTitle": "30 Nights of Football",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 140,
@@ -2508,12 +2508,12 @@
         "url": "https://www.youtube.com/watch?v=UaY2Zg6ilOw",
         "thumbnail": "https://i.ytimg.com/vi/UaY2Zg6ilOw/sddefault.jpg",
         "fTitle": "UEFA Euro 2020",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 141,
@@ -2593,12 +2593,12 @@
         "url": "https://www.youtube.com/watch?v=wsjTfJUo3Po",
         "thumbnail": "https://i.ytimg.com/vi/wsjTfJUo3Po/hqdefault.jpg",
         "fTitle": "Dithee",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 145,
@@ -2610,12 +2610,12 @@
         "url": "https://www.youtube.com/watch?v=5xby_03OV1o",
         "thumbnail": "https://i.ytimg.com/vi/5xby_03OV1o/sddefault.jpg",
         "fTitle": "Out Of Her Mind",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 146,
@@ -2661,12 +2661,12 @@
         "url": "https://www.youtube.com/watch?v=K5JHQliTs7E",
         "thumbnail": "https://i.ytimg.com/vi/K5JHQliTs7E/sddefault.jpg",
         "fTitle": "Riviera",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 148,
@@ -2729,12 +2729,12 @@
         "url": "https://www.youtube.com/watch?v=K5JHQliTs7E",
         "thumbnail": "https://i.ytimg.com/vi/K5JHQliTs7E/sddefault.jpg",
         "fTitle": "Riviera",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 152,
@@ -2746,12 +2746,12 @@
         "url": "https://www.youtube.com/watch?v=bDtmX01JI10",
         "thumbnail": "https://i.ytimg.com/vi/bDtmX01JI10/sddefault.jpg",
         "fTitle": "Sri Lanka vs Bangladesh",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 153,
@@ -2767,8 +2767,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 153,
@@ -2784,8 +2784,8 @@
         "titleType": "tvMovie",
         "startYear": 2021.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 153,
@@ -2831,12 +2831,12 @@
         "url": "https://www.youtube.com/watch?v=byr-XwFW57I",
         "thumbnail": "https://i.ytimg.com/vi/byr-XwFW57I/sddefault.jpg",
         "fTitle": "A Discovery Of Witches S2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 156,
@@ -2865,12 +2865,12 @@
         "url": "https://www.youtube.com/watch?v=8_1AshzwmEE",
         "thumbnail": "https://i.ytimg.com/vi/8_1AshzwmEE/sddefault.jpg",
         "fTitle": "Time To Bid Them Farewell",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 158,
@@ -2899,12 +2899,12 @@
         "url": "https://www.youtube.com/watch?v=kXDaI6G6RAo",
         "thumbnail": "https://i.ytimg.com/vi/kXDaI6G6RAo/sddefault.jpg",
         "fTitle": "Love JAction",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 160,
@@ -2916,12 +2916,12 @@
         "url": "https://www.youtube.com/watch?v=9TV31XgFfjw",
         "thumbnail": "https://i.ytimg.com/vi/9TV31XgFfjw/sddefault.jpg",
         "fTitle": "63rd GRAMMY Awards on SonyLIV",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 161,
@@ -2933,12 +2933,12 @@
         "url": "https://www.youtube.com/watch?v=GlX-9Ur4SpM",
         "thumbnail": "https://i.ytimg.com/vi/GlX-9Ur4SpM/sddefault.jpg",
         "fTitle": "Home of football",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 162,
@@ -2950,12 +2950,12 @@
         "url": "https://www.youtube.com/watch?v=5S30mYGGL14",
         "thumbnail": "https://i.ytimg.com/vi/5S30mYGGL14/sddefault.jpg",
         "fTitle": "European Qualifiers for World Cup 2022",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 163,
@@ -2967,12 +2967,12 @@
         "url": "https://www.youtube.com/watch?v=PYNXi3GGZzw",
         "thumbnail": "https://i.ytimg.com/vi/PYNXi3GGZzw/sddefault.jpg",
         "fTitle": "Girls Hostel 2.0",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 164,
@@ -2984,12 +2984,12 @@
         "url": "https://www.youtube.com/watch?v=P_4hQ5Gvnhw",
         "thumbnail": "https://i.ytimg.com/vi/P_4hQ5Gvnhw/sddefault.jpg",
         "fTitle": "Pakistan Super League",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 165,
@@ -3001,12 +3001,12 @@
         "url": "https://www.youtube.com/watch?v=HYrg1qpURvU",
         "thumbnail": "https://i.ytimg.com/vi/HYrg1qpURvU/sddefault.jpg",
         "fTitle": "Vida",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 166,
@@ -3018,12 +3018,12 @@
         "url": "https://www.youtube.com/watch?v=QTCOR8krc2U",
         "thumbnail": "https://i.ytimg.com/vi/QTCOR8krc2U/sddefault.jpg",
         "fTitle": "Presenting the WWE Network Pack",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 167,
@@ -3052,12 +3052,12 @@
         "url": "https://www.youtube.com/watch?v=sm9nxSjHA-Y",
         "thumbnail": "https://i.ytimg.com/vi/sm9nxSjHA-Y/sddefault.jpg",
         "fTitle": "Gullak New Season",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 169,
@@ -3069,12 +3069,12 @@
         "url": "https://www.youtube.com/watch?v=fsZbdKuYyeY",
         "thumbnail": "https://i.ytimg.com/vi/fsZbdKuYyeY/sddefault.jpg",
         "fTitle": "College Romance",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 170,
@@ -3120,12 +3120,12 @@
         "url": "https://www.youtube.com/watch?v=lgOXCkdNa6M",
         "thumbnail": "https://i.ytimg.com/vi/lgOXCkdNa6M/sddefault.jpg",
         "fTitle": "Zoey's Extraordinary Playlist S2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 173,
@@ -3137,12 +3137,12 @@
         "url": "https://www.youtube.com/watch?v=qdwHJZAMPGU",
         "thumbnail": "https://i.ytimg.com/vi/qdwHJZAMPGU/sddefault.jpg",
         "fTitle": "A Forbidden Love",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 174,
@@ -3154,12 +3154,12 @@
         "url": "https://www.youtube.com/watch?v=gTFKN2cjxZY",
         "thumbnail": "https://i.ytimg.com/vi/gTFKN2cjxZY/sddefault.jpg",
         "fTitle": "It's Time For New Beginnings",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 175,
@@ -3171,12 +3171,12 @@
         "url": "https://www.youtube.com/watch?v=oRkdMX6S3QY",
         "thumbnail": "https://i.ytimg.com/vi/oRkdMX6S3QY/sddefault.jpg",
         "fTitle": "Scam  1992",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 176,
@@ -3205,12 +3205,12 @@
         "url": "https://www.youtube.com/watch?v=BQZOjQODXs8",
         "thumbnail": "https://i.ytimg.com/vi/BQZOjQODXs8/sddefault.jpg",
         "fTitle": "The Spanish Princess S2 Premiere",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 178,
@@ -3222,12 +3222,12 @@
         "url": "https://www.youtube.com/watch?v=7yiWFtOVb-Y",
         "thumbnail": "https://i.ytimg.com/vi/7yiWFtOVb-Y/sddefault.jpg",
         "fTitle": "2nd ODI",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 179,
@@ -3239,12 +3239,12 @@
         "url": "https://www.youtube.com/watch?v=X8n2sWx_0dY",
         "thumbnail": "https://i.ytimg.com/vi/X8n2sWx_0dY/sddefault.jpg",
         "fTitle": "1st ODI",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 180,
@@ -3256,12 +3256,12 @@
         "url": "https://www.youtube.com/watch?v=BW_roymhPV0",
         "thumbnail": "https://i.ytimg.com/vi/BW_roymhPV0/sddefault.jpg",
         "fTitle": "The Commons",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 181,
@@ -3273,12 +3273,12 @@
         "url": "https://www.youtube.com/watch?v=ISORfez27og",
         "thumbnail": "https://i.ytimg.com/vi/ISORfez27og/sddefault.jpg",
         "fTitle": "Scam 1992 \u2013 The Harshad Mehta Story",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 182,
@@ -3290,11 +3290,11 @@
         "url": "https://www.youtube.com/watch?v=MS7FkOi_2dY",
         "thumbnail": "https://i.ytimg.com/vi/MS7FkOi_2dY/sddefault.jpg",
         "fTitle": "SCAM 1992",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     }
 ]

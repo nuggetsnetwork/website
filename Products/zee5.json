@@ -9,12 +9,12 @@
         "url": "https://www.youtube.com/watch?v=b-tyKR11EIM",
         "thumbnail": "https://i.ytimg.com/vi/b-tyKR11EIM/sddefault.jpg",
         "fTitle": "420 IPC",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -26,12 +26,12 @@
         "url": "https://www.youtube.com/watch?v=10C8BKuiX14",
         "thumbnail": "https://i.ytimg.com/vi/10C8BKuiX14/sddefault.jpg",
         "fTitle": "420 IPC",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -47,8 +47,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 3,
@@ -64,8 +64,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 4,
@@ -81,8 +81,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 5,
@@ -94,12 +94,12 @@
         "url": "https://www.youtube.com/watch?v=FBUFRYITPL0",
         "thumbnail": "https://i.ytimg.com/vi/FBUFRYITPL0/sddefault.jpg?v=60c6f666",
         "fTitle": "ZEE5 & TVF: The Union",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 6,
@@ -128,12 +128,12 @@
         "url": "https://www.youtube.com/watch?v=TJ78Nz6ddpE",
         "thumbnail": "https://i.ytimg.com/vi/TJ78Nz6ddpE/sddefault.jpg",
         "fTitle": "Broken But Beautiful",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 8,
@@ -145,11 +145,11 @@
         "url": "https://www.youtube.com/watch?v=VlqytCcER08",
         "thumbnail": "https://i.ytimg.com/vi/VlqytCcER08/sddefault.jpg",
         "fTitle": "The Test Case",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     }
 ]

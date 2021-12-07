@@ -9,12 +9,12 @@
         "url": "https://www.youtube.com/watch?v=nyJH8csVUcM",
         "thumbnail": "https://i.ytimg.com/vi/nyJH8csVUcM/sddefault.jpg",
         "fTitle": "New To Prime Video December 2021",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -26,12 +26,12 @@
         "url": "https://www.youtube.com/watch?v=fb01ds-4IC4",
         "thumbnail": "https://i.ytimg.com/vi/fb01ds-4IC4/sddefault.jpg",
         "fTitle": "The Expanse",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -47,8 +47,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Comedy,Romance",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 3,
@@ -60,12 +60,12 @@
         "url": "https://www.youtube.com/watch?v=SB44bZVe-c4",
         "thumbnail": "https://i.ytimg.com/vi/SB44bZVe-c4/sddefault.jpg",
         "fTitle": "Encounter \u2013 Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 4,
@@ -81,8 +81,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Biography,Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 5,
@@ -98,8 +98,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 6,
@@ -162,12 +162,12 @@
         "url": "https://www.youtube.com/watch?v=WJomaOzgKpc",
         "thumbnail": "https://i.ytimg.com/vi/WJomaOzgKpc/sddefault.jpg",
         "fTitle": "Hanna",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 10,
@@ -264,12 +264,12 @@
         "url": "https://www.youtube.com/watch?v=ZfcnjdcJ3qg",
         "thumbnail": "https://i.ytimg.com/vi/ZfcnjdcJ3qg/sddefault.jpg",
         "fTitle": "New to Prime Video US November 2021",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 16,
@@ -298,12 +298,12 @@
         "url": "https://www.youtube.com/watch?v=iuXnGbxTxDE",
         "thumbnail": "https://i.ytimg.com/vi/iuXnGbxTxDE/sddefault.jpg",
         "fTitle": "Black As Night",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 18,
@@ -400,12 +400,12 @@
         "url": "https://www.youtube.com/watch?v=mk08LKrdcd0",
         "thumbnail": "https://i.ytimg.com/vi/mk08LKrdcd0/sddefault.jpg",
         "fTitle": "Welcome To The Blumhouse LIVE (2021)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 24,
@@ -417,12 +417,12 @@
         "url": "https://www.youtube.com/watch?v=VQXqcILCMPw",
         "thumbnail": "https://i.ytimg.com/vi/VQXqcILCMPw/hqdefault.jpg",
         "fTitle": "All Or Nothing: Toronto Maple Leafs \u2013 Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 25,
@@ -434,12 +434,12 @@
         "url": "https://www.youtube.com/watch?v=cX8tE5XBVkE",
         "thumbnail": "https://i.ytimg.com/vi/cX8tE5XBVkE/hqdefault.jpg",
         "fTitle": "Welcome To The Blumhouse (2021)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 26,
@@ -468,12 +468,12 @@
         "url": "https://www.youtube.com/watch?v=GZfuWMDEJpw",
         "thumbnail": "https://i.ytimg.com/vi/GZfuWMDEJpw/sddefault.jpg",
         "fTitle": "EVANGELION: 3.0+1.01 THRICE UPON A TIME",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 28,
@@ -502,12 +502,12 @@
         "url": "https://www.youtube.com/watch?v=FxtVaM0CWHw",
         "thumbnail": "https://i.ytimg.com/vi/FxtVaM0CWHw/sddefault.jpg",
         "fTitle": "New To Prime Video US in August 2021",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 30,
@@ -536,12 +536,12 @@
         "url": "https://www.youtube.com/watch?v=7mYyAh_8WSs",
         "thumbnail": "https://i.ytimg.com/vi/7mYyAh_8WSs/sddefault.jpg",
         "fTitle": "New To Prime Video US July 2021",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 32,
@@ -553,12 +553,12 @@
         "url": "https://www.youtube.com/watch?v=RQjEbkV-9ZM",
         "thumbnail": "https://i.ytimg.com/vi/RQjEbkV-9ZM/sddefault.jpg",
         "fTitle": "THE TOMORROW WAR",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 33,
@@ -604,11 +604,11 @@
         "url": "https://www.youtube.com/watch?v=3BSSoD73TSk",
         "thumbnail": "https://i.ytimg.com/vi/3BSSoD73TSk/sddefault.jpg",
         "fTitle": "JOLT",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     }
 ]
