@@ -57,13 +57,36 @@ class Header extends React.Component {
     notifyDetails: [],
     notificationData: []
   };
-  componentDidMount() {
+  async componentDidMount() {
+      await getQuickNotifications().then(res => {
+        let array = [];
+        for(let j of res[6].data) {
+          switch (j.name) {
+            case 'Netflix': array['imdb_excel_2_json'] = j.img ;break;
+            case 'NetFlix_India': array['netflix_india'] = j.img ;break;
+            case 'Amazon_Prime': array['amazon_prime'] = j.img ;break;
+            case 'Amazon_India': array['amazon_india'] = j.img ;break;
+            case 'SonyLIV': array['sonyliv'] = j.img ;break;
+            case 'Zee5': array['zee5'] = j.img ;break;
+          }
+        }
+        console.log(array);
+        for (let i = 0; i < 6; i++) {
+          let split = (res[i].request.responseURL.split('https://nuggetsnetwork.com/Products/'))[1].split('.json');
+          console.log(split[0]);
+            if (i === 1 || i === 2) {
+              this.collectRecords(this.mapNotifyDetails1(res[i].data),array[split[0]]);
+            } else {
+              this.collectRecords(this.mapNotifyDetails(res[i].data),array[split[0]])
+            }
+        }
+      }).catch(err => {
+        console.log(err)
+      });
   }
   collectRecords(data, collectIcons) {
-    console.log(collectIcons);
     for (let i of data) {
       i['img'] = collectIcons;
-      // console.log(i);
       this.setState({ notificationData: this.state.notificationData.concat(i) })
     }
   }
@@ -79,47 +102,18 @@ class Header extends React.Component {
     }).reverse().slice(0, 2);
   }
 
-  toggleNotificationPopover = () => {
-    this.setState({
+  toggleNotificationPopover = async() => {
+    await this.setState({
       isOpenNotificationPopover: !this.state.isOpenNotificationPopover,
     });
-    if (!this.state.isOpenNotificationPopover) {
-      if (!this.state.notificationData.length) {
-        getQuickNotifications().then(res => {
-          let collectIcons = res[6].data;
-          let array = [];
-          for(let j of res[6].data) {
-            switch (j.name) {
-              case 'Netflix': array['imdb_excel_2_json'] = j.img ;break;
-              case 'NetFlix_India': array['netflix_india'] = j.img ;break;
-              case 'Amazon_Prime': array['amazon_prime'] = j.img ;break;
-              case 'Amazon_India': array['amazon_india'] = j.img ;break;
-              case 'SonyLIV': array['sonyliv'] = j.img ;break;
-              case 'Zee5': array['zee5'] = j.img ;break;
-            }
-          }
-          console.log(array);
-          for (let i = 0; i < 6; i++) {
-            let split = (res[i].request.responseURL.split('https://nuggetsnetwork.com/Products/'))[1].split('.json');
-            console.log(split[0]);
-              if (i === 1 || i === 2) {
-                this.collectRecords(this.mapNotifyDetails1(res[i].data),array[split[0]]);
-              } else {
-                this.collectRecords(this.mapNotifyDetails(res[i].data),array[split[0]])
-              }
-          }
-        }).catch(err => {
-          console.log(err)
-        });
-      }
-    }
+
     if (!this.state.isNotificationConfirmed) {
-      this.setState({ isNotificationConfirmed: true });
+     await this.setState({ isNotificationConfirmed: true });
     }
   };
 
-  toggleUserCardPopover = () => {
-    this.setState({
+  toggleUserCardPopover = async() => {
+   await this.setState({
       isOpenUserCardPopover: !this.state.isOpenUserCardPopover,
     });
   };
@@ -163,10 +157,12 @@ class Header extends React.Component {
               )}
             </NavLink>
             <Popover
-              placement="left"
+              placement="bottom-end"
               isOpen={this.state.isOpenNotificationPopover}
               toggle={this.toggleNotificationPopover}
               target="Popover1"
+              className="mt-1"
+              style={{top:'2rem'}}
             >
               <PopoverBody>
                 <Notifications notificationsData={this.state.notificationData} />
