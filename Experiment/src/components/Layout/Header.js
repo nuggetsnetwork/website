@@ -157,11 +157,11 @@ class Header extends React.Component {
               )}
             </NavLink>
             <Popover
-              placement="bottom-end"
+              placement="left"
               isOpen={this.state.isOpenNotificationPopover}
               toggle={this.toggleNotificationPopover}
               target="Popover1"
-              className="mt-1"
+              className="mt-1 can-click"
               style={{top:'2rem'}}
             >
               <PopoverBody>
