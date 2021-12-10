@@ -5,12 +5,12 @@ import { Media } from 'reactstrap';
 
 import Avatar from './Avatar';
 
-const Notifications = ({ notificationsData }) => {
-  return (
+const Notifications = ({ notificationsData,openModal }) => {
+  return ( 
     notificationsData &&
     notificationsData.length &&
-    notificationsData.map(({ index, avatar, fTitle, publish_date,url,img }) => (
-      <Media key={fTitle} className="pb-2" onClick={() => window.open(url)}>
+    notificationsData.map(({ index, avatar, fTitle, publish_date, url, img }) => (
+      <Media key={fTitle} className="pb-2" onClick={() => openModal(url,fTitle)}>
         <Media left className="align-self-center pr-3">
           <Avatar tag={Media} object src={img} alt="Avatar" />
         </Media>

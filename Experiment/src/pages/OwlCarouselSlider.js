@@ -48,7 +48,6 @@ const OwlCarouselSlider = ({ name }) => {
     }
     return (
         <>
-            {/* <Popup></Popup> */}
             <Carousel itemsToShow={4} breakPoints={breakPoints}>
                 {details && details.map(d => (
                     <Card onClick={() => openModal(d)}>
