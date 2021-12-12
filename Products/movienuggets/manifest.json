@@ -44,7 +44,7 @@
       "density": "4.0"
     }
   ],
-  "start_url": "./",
+  "start_url": "./dashboard",
   "scope": ".",
   "display": "standalone",
   "theme_color": "#000000",
