@@ -4,7 +4,7 @@
         "plTitle": "New in January 2022 | Netflix",
         "title": "Rebelde | Official Trailer | Netflix",
         "views": 188865,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-12-07",
         "url": "https://www.youtube.com/watch?v=BJYJksHREIc",
         "thumbnail": "https://i.ytimg.com/vi/BJYJksHREIc/sddefault.jpg",
@@ -13,8 +13,8 @@
         "titleType": "video",
         "startYear": 2021.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -30,8 +30,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Adventure,Drama,Mystery",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -43,12 +43,12 @@
         "url": "https://www.youtube.com/watch?v=I3uX4uwrAaY",
         "thumbnail": "https://i.ytimg.com/vi/I3uX4uwrAaY/sddefault.jpg",
         "fTitle": "Cobra Kai",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 3,
@@ -60,12 +60,12 @@
         "url": "https://www.youtube.com/watch?v=X_cGV9JMgTc",
         "thumbnail": "https://i.ytimg.com/vi/X_cGV9JMgTc/sddefault.jpg",
         "fTitle": "Twentysomethings: Austin",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 4,
@@ -77,12 +77,12 @@
         "url": "https://www.youtube.com/watch?v=ERGr036yF7Y",
         "thumbnail": "https://i.ytimg.com/vi/ERGr036yF7Y/sddefault.jpg",
         "fTitle": "Tiger King: The Doc Antle Story",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 5,
@@ -98,8 +98,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Crime,Drama,Mystery",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 6,
@@ -115,8 +115,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Comedy,Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 7,
@@ -128,12 +128,12 @@
         "url": "https://www.youtube.com/watch?v=uvuMXRzkM8k",
         "thumbnail": "https://i.ytimg.com/vi/uvuMXRzkM8k/sddefault.jpg",
         "fTitle": "The Club Part 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 8,
@@ -145,12 +145,12 @@
         "url": "https://www.youtube.com/watch?v=_InqQJRqGW4",
         "thumbnail": "https://i.ytimg.com/vi/_InqQJRqGW4/sddefault.jpg",
         "fTitle": "Money Heist",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 9,
@@ -162,12 +162,12 @@
         "url": "https://www.youtube.com/watch?v=wrhL2V1gOZo",
         "thumbnail": "https://i.ytimg.com/vi/wrhL2V1gOZo/sddefault.jpg",
         "fTitle": "The Claus Family 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 10,
@@ -183,8 +183,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Reality-TV",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 11,
@@ -200,8 +200,8 @@
         "titleType": "tvSpecial",
         "startYear": 2021.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 12,
@@ -217,8 +217,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Animation,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 13,
@@ -230,12 +230,12 @@
         "url": "https://www.youtube.com/watch?v=MNfGamlwy3Y",
         "thumbnail": "https://i.ytimg.com/vi/MNfGamlwy3Y/sddefault.jpg",
         "fTitle": "Stories Of A Generation with Pope Francis",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 14,
@@ -251,8 +251,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Reality-TV",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 15,
@@ -268,8 +268,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Documentary",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 16,
@@ -298,12 +298,12 @@
         "url": "https://www.youtube.com/watch?v=e0zDsvy_8UA",
         "thumbnail": "https://i.ytimg.com/vi/e0zDsvy_8UA/sddefault.jpg",
         "fTitle": "Elite: Short Stories 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 18,
@@ -315,12 +315,12 @@
         "url": "https://www.youtube.com/watch?v=RbIxYm3mKzI",
         "thumbnail": "https://i.ytimg.com/vi/RbIxYm3mKzI/sddefault.jpg",
         "fTitle": "DON'T LOOK UP",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 19,
@@ -336,8 +336,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Comedy,Drama,Family",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 20,
@@ -349,12 +349,12 @@
         "url": "https://www.youtube.com/watch?v=D_0vHst5670",
         "thumbnail": "https://i.ytimg.com/vi/D_0vHst5670/sddefault.jpg",
         "fTitle": "From David Fincher and David Prior",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 21,
@@ -383,12 +383,12 @@
         "url": "https://www.youtube.com/watch?v=kCQxxqdowOg",
         "thumbnail": "https://i.ytimg.com/vi/kCQxxqdowOg/sddefault.jpg",
         "fTitle": "Single All The Way",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 23,
@@ -400,12 +400,12 @@
         "url": "https://www.youtube.com/watch?v=4kHHN0cQS10",
         "thumbnail": "https://i.ytimg.com/vi/4kHHN0cQS10/sddefault.jpg",
         "fTitle": "Lost in Space",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 24,
@@ -421,8 +421,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Adventure,Animation,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 25,
@@ -451,12 +451,12 @@
         "url": "https://www.youtube.com/watch?v=uwsmkWh0S5Y",
         "thumbnail": "https://i.ytimg.com/vi/uwsmkWh0S5Y/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 27,
@@ -468,12 +468,12 @@
         "url": "https://www.youtube.com/watch?v=TJFVV2L8GKs",
         "thumbnail": "https://i.ytimg.com/vi/TJFVV2L8GKs/sddefault.jpg",
         "fTitle": "The Witcher",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 28,
@@ -519,12 +519,12 @@
         "url": "https://www.youtube.com/watch?v=TP_sfhQoUIQ",
         "thumbnail": "https://i.ytimg.com/vi/TP_sfhQoUIQ/sddefault.jpg",
         "fTitle": "Mo Amer: Mohammed In Texas",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 31,
@@ -536,12 +536,12 @@
         "url": "https://www.youtube.com/watch?v=ipvv92eesbY",
         "thumbnail": "https://i.ytimg.com/vi/ipvv92eesbY/sddefault.jpg",
         "fTitle": "The Great British Baking Show: Holidays",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 32,
@@ -553,12 +553,12 @@
         "url": "https://www.youtube.com/watch?v=RyJqGOLcNdo",
         "thumbnail": "https://i.ytimg.com/vi/RyJqGOLcNdo/sddefault.jpg",
         "fTitle": "F is for Family",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 33,
@@ -604,12 +604,12 @@
         "url": "https://www.youtube.com/watch?v=pyuqjHr5_9w",
         "thumbnail": "https://i.ytimg.com/vi/pyuqjHr5_9w/sddefault.jpg",
         "fTitle": "Selling Sunset",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 36,
@@ -676,8 +676,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Animation,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 39,
@@ -693,8 +693,8 @@
         "titleType": "tvMovie",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 40,
@@ -706,12 +706,12 @@
         "url": "https://www.youtube.com/watch?v=T_JbFba2i6s",
         "thumbnail": "https://i.ytimg.com/vi/T_JbFba2i6s/sddefault.jpg",
         "fTitle": "A Castle For Christmas",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 41,
@@ -829,8 +829,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 45,
@@ -854,7 +854,7 @@
         "plTitle": "New in November 2021 | Netflix",
         "title": "Masters of the Universe: Revelation - Part 2 | Official Trailer | Netflix",
         "views": 967964,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-10-27",
         "url": "https://www.youtube.com/watch?v=zYDjYKk8kf8",
         "thumbnail": "https://i.ytimg.com/vi/zYDjYKk8kf8/sddefault.jpg",
@@ -876,12 +876,12 @@
         "url": "https://www.youtube.com/watch?v=pT4NYto3abM",
         "thumbnail": "https://i.ytimg.com/vi/pT4NYto3abM/sddefault.jpg",
         "fTitle": "Tiger King 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 48,
@@ -897,8 +897,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 48,
@@ -914,8 +914,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 48,
@@ -999,8 +999,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Animation,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 51,
@@ -1063,12 +1063,12 @@
         "url": "https://www.youtube.com/watch?v=CfXzd8fgy6Q",
         "thumbnail": "https://i.ytimg.com/vi/CfXzd8fgy6Q/sddefault.jpg",
         "fTitle": "The Princess Switch 3: Romancing The Star",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 55,
@@ -1080,12 +1080,12 @@
         "url": "https://www.youtube.com/watch?v=Pj0wz7zu3Ms",
         "thumbnail": "https://i.ytimg.com/vi/Pj0wz7zu3Ms/sddefault.jpg",
         "fTitle": "RED NOTICE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 56,
@@ -1182,12 +1182,12 @@
         "url": "https://www.youtube.com/watch?v=aT7XzkO_CmM",
         "thumbnail": "https://i.ytimg.com/vi/aT7XzkO_CmM/sddefault.jpg",
         "fTitle": "Tear Along The Dotted Line",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 61,
@@ -1199,12 +1199,12 @@
         "url": "https://www.youtube.com/watch?v=ynONJOneEoM",
         "thumbnail": "https://i.ytimg.com/vi/ynONJOneEoM/sddefault.jpg",
         "fTitle": "Big Mouth",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 62,
@@ -1284,12 +1284,12 @@
         "url": "https://www.youtube.com/watch?v=hhZBDO0CKJo",
         "thumbnail": "https://i.ytimg.com/vi/hhZBDO0CKJo/sddefault.jpg",
         "fTitle": "Narcos: Mexico",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 67,
@@ -1390,8 +1390,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 72,
@@ -1420,12 +1420,12 @@
         "url": "https://www.youtube.com/watch?v=vupNkHJGBQ8",
         "thumbnail": "https://i.ytimg.com/vi/vupNkHJGBQ8/sddefault.jpg",
         "fTitle": "7 Prisoners (7 prisioneiros)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 74,
@@ -1471,12 +1471,12 @@
         "url": "https://www.youtube.com/watch?v=IWzkfBY982Y",
         "thumbnail": "https://i.ytimg.com/vi/IWzkfBY982Y/sddefault.jpg",
         "fTitle": "Prayers for the Stolen (Noche De Fuego)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 77,
@@ -1488,12 +1488,12 @@
         "url": "https://www.youtube.com/watch?v=R_wIaGkiUBI",
         "thumbnail": "https://i.ytimg.com/vi/R_wIaGkiUBI/sddefault.jpg",
         "fTitle": "Nobody Sleeps In The Woods Tonight 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 78,
@@ -1505,12 +1505,12 @@
         "url": "https://www.youtube.com/watch?v=ej42P9FTwZg",
         "thumbnail": "https://i.ytimg.com/vi/ej42P9FTwZg/sddefault.jpg",
         "fTitle": "Colin in Black and White",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 79,
@@ -1556,12 +1556,12 @@
         "url": "https://www.youtube.com/watch?v=r7i_E6zm8lM",
         "thumbnail": "https://i.ytimg.com/vi/r7i_E6zm8lM/sddefault.jpg",
         "fTitle": "FOUND",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 81,
@@ -1590,12 +1590,12 @@
         "url": "https://www.youtube.com/watch?v=o4KO4mN2_Fs",
         "thumbnail": "https://i.ytimg.com/vi/o4KO4mN2_Fs/sddefault.jpg",
         "fTitle": "Sex, Love & goop",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 83,
@@ -1624,12 +1624,12 @@
         "url": "https://www.youtube.com/watch?v=O48gSeQGMC8",
         "thumbnail": "https://i.ytimg.com/vi/O48gSeQGMC8/sddefault.jpg",
         "fTitle": "An astrological guide for broken hearts",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 85,
@@ -1658,12 +1658,12 @@
         "url": "https://www.youtube.com/watch?v=MJ8aqrED_P4",
         "thumbnail": "https://i.ytimg.com/vi/MJ8aqrED_P4/sddefault.jpg",
         "fTitle": "Watch This Before You See Idris Elba In The Harder They Fall",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 87,
@@ -1760,12 +1760,12 @@
         "url": "https://www.youtube.com/watch?v=Y68Hzhnf2PI",
         "thumbnail": "https://i.ytimg.com/vi/Y68Hzhnf2PI/sddefault.jpg",
         "fTitle": "Family Business, Final Season",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 93,
@@ -1862,12 +1862,12 @@
         "url": "https://www.youtube.com/watch?v=ldgpvlN8XL4",
         "thumbnail": "https://i.ytimg.com/vi/ldgpvlN8XL4/sddefault.jpg",
         "fTitle": "Escape The Undertaker",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 99,
@@ -1879,12 +1879,12 @@
         "url": "https://www.youtube.com/watch?v=5T1lvx5f2JQ",
         "thumbnail": "https://i.ytimg.com/vi/5T1lvx5f2JQ/sddefault.jpg",
         "fTitle": "Misfit: The series",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 100,
@@ -1896,12 +1896,12 @@
         "url": "https://www.youtube.com/watch?v=H65irEWSg9k",
         "thumbnail": "https://i.ytimg.com/vi/H65irEWSg9k/sddefault.jpg",
         "fTitle": "On My Block",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 101,
@@ -1934,8 +1934,8 @@
         "titleType": "video",
         "startYear": 2021.0,
         "genres": "Fantasy,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 103,
@@ -2032,12 +2032,12 @@
         "url": "https://www.youtube.com/watch?v=yqJFWS81Mf4",
         "thumbnail": "https://i.ytimg.com/vi/yqJFWS81Mf4/sddefault.jpg",
         "fTitle": "Colin In Black & White",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 109,
@@ -2049,12 +2049,12 @@
         "url": "https://www.youtube.com/watch?v=IdZ43OuZXjQ",
         "thumbnail": "https://i.ytimg.com/vi/IdZ43OuZXjQ/sddefault.jpg",
         "fTitle": "There\u2019s Someone Inside Your House",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 110,
@@ -2100,12 +2100,12 @@
         "url": "https://www.youtube.com/watch?v=yEYVA0YqYV0",
         "thumbnail": "https://i.ytimg.com/vi/yEYVA0YqYV0/sddefault.jpg",
         "fTitle": "Diana: The Musical",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 113,
@@ -2168,12 +2168,12 @@
         "url": "https://www.youtube.com/watch?v=BC_mPcjsh1M",
         "thumbnail": "https://i.ytimg.com/vi/BC_mPcjsh1M/sddefault.jpg",
         "fTitle": "Attack of the Hollywood Clich\u00e9s!",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 117,
@@ -2219,12 +2219,12 @@
         "url": "https://www.youtube.com/watch?v=b9dScJxWVhQ",
         "thumbnail": "https://i.ytimg.com/vi/b9dScJxWVhQ/sddefault.jpg",
         "fTitle": "Dear White People: Volumes 1-3 Series Look Back",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 120,
@@ -2236,12 +2236,12 @@
         "url": "https://www.youtube.com/watch?v=1Fwzw3X3EZ4",
         "thumbnail": "https://i.ytimg.com/vi/1Fwzw3X3EZ4/sddefault.jpg",
         "fTitle": "Sex Education",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 121,
@@ -2253,12 +2253,12 @@
         "url": "https://www.youtube.com/watch?v=pPnijLVIX2o",
         "thumbnail": "https://i.ytimg.com/vi/pPnijLVIX2o/sddefault.jpg",
         "fTitle": "TUDUM: A GLOBAL FAN EVENT",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 122,
@@ -2270,12 +2270,12 @@
         "url": "https://www.youtube.com/watch?v=tGtaHcqsSE8",
         "thumbnail": "https://i.ytimg.com/vi/tGtaHcqsSE8/sddefault.jpg",
         "fTitle": "MAID",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 123,
@@ -2355,12 +2355,12 @@
         "url": "https://www.youtube.com/watch?v=oWS8Rc06E-s",
         "thumbnail": "https://i.ytimg.com/vi/oWS8Rc06E-s/sddefault.jpg",
         "fTitle": "JAGUAR",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 128,
@@ -2406,19 +2406,19 @@
         "url": "https://www.youtube.com/watch?v=G6vrmPQ50qs",
         "thumbnail": "https://i.ytimg.com/vi/G6vrmPQ50qs/sddefault.jpg",
         "fTitle": "Jailbirds: New Orleans",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 131,
         "plTitle": "New in September 2021 | Netflix",
         "title": "No One Gets Out Alive | Official Trailer | Netflix",
         "views": 1585334,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-09-07",
         "url": "https://www.youtube.com/watch?v=sY2TLiK27g4",
         "thumbnail": "https://i.ytimg.com/vi/sY2TLiK27g4/sddefault.jpg",
@@ -2440,12 +2440,12 @@
         "url": "https://www.youtube.com/watch?v=zmgYlYw7Uwk",
         "thumbnail": "https://i.ytimg.com/vi/zmgYlYw7Uwk/hqdefault.jpg",
         "fTitle": "Sex Education",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 133,
@@ -2457,12 +2457,12 @@
         "url": "https://www.youtube.com/watch?v=ySlGTnmRHtk",
         "thumbnail": "https://i.ytimg.com/vi/ySlGTnmRHtk/sddefault.jpg",
         "fTitle": "My Heroes Were Cowboys",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 134,
@@ -2474,12 +2474,12 @@
         "url": "https://www.youtube.com/watch?v=D38W150h9a4",
         "thumbnail": "https://i.ytimg.com/vi/D38W150h9a4/sddefault.jpg",
         "fTitle": "Countdown: Inspiration4 Mission To Space",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 135,
@@ -2525,12 +2525,12 @@
         "url": "https://www.youtube.com/watch?v=DibCYmZbPvQ",
         "thumbnail": "https://i.ytimg.com/vi/DibCYmZbPvQ/sddefault.jpg",
         "fTitle": "You vs. Wild: Out Cold",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2563,8 +2563,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2580,8 +2580,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2597,8 +2597,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2627,12 +2627,12 @@
         "url": "https://www.youtube.com/watch?v=OQs9ZtdZjY0",
         "thumbnail": "https://i.ytimg.com/vi/OQs9ZtdZjY0/sddefault.jpg",
         "fTitle": "SCHUMACHER",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 140,
@@ -2699,8 +2699,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Crime,Drama,Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 143,
@@ -2712,12 +2712,12 @@
         "url": "https://www.youtube.com/watch?v=QJqBE1eqj8M",
         "thumbnail": "https://i.ytimg.com/vi/QJqBE1eqj8M/sddefault.jpg",
         "fTitle": "Jack Whitehall: Travels with My Father",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 144,
@@ -2746,12 +2746,12 @@
         "url": "https://www.youtube.com/watch?v=0jInNe4ZTBk",
         "thumbnail": "https://i.ytimg.com/vi/0jInNe4ZTBk/sddefault.jpg",
         "fTitle": "Love on the Spectrum",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 146,
@@ -2763,12 +2763,12 @@
         "url": "https://www.youtube.com/watch?v=XgHdBTeloek",
         "thumbnail": "https://i.ytimg.com/vi/XgHdBTeloek/sddefault.jpg",
         "fTitle": "Nailed It!",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 147,
@@ -2797,12 +2797,12 @@
         "url": "https://www.youtube.com/watch?v=78qOHrILufk",
         "thumbnail": "https://i.ytimg.com/vi/78qOHrILufk/sddefault.jpg",
         "fTitle": "Vendetta, truth lies and the mafia",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 149,
@@ -2848,12 +2848,12 @@
         "url": "https://www.youtube.com/watch?v=gvOAuxFCGeU",
         "thumbnail": "https://i.ytimg.com/vi/gvOAuxFCGeU/sddefault.jpg",
         "fTitle": "Blood Brothers",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 152,
@@ -2882,12 +2882,12 @@
         "url": "https://www.youtube.com/watch?v=oQ1XS3W4plU",
         "thumbnail": "https://i.ytimg.com/vi/oQ1XS3W4plU/sddefault.jpg",
         "fTitle": "Dear White People: Vol. 4",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 154,
@@ -2967,12 +2967,12 @@
         "url": "https://www.youtube.com/watch?v=k2NsSOVNC0U",
         "thumbnail": "https://i.ytimg.com/vi/k2NsSOVNC0U/sddefault.jpg",
         "fTitle": "Q-FORCE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 157,
@@ -3001,12 +3001,12 @@
         "url": "https://www.youtube.com/watch?v=ueMwVGBwqRo",
         "thumbnail": "https://i.ytimg.com/vi/ueMwVGBwqRo/sddefault.jpg",
         "fTitle": "Lucifer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 159,
@@ -3018,12 +3018,12 @@
         "url": "https://www.youtube.com/watch?v=OOAemeB9CAw",
         "thumbnail": "https://i.ytimg.com/vi/OOAemeB9CAw/sddefault.jpg",
         "fTitle": "WORTH",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 160,
@@ -3035,12 +3035,12 @@
         "url": "https://www.youtube.com/watch?v=MysGjRS9jFU",
         "thumbnail": "https://i.ytimg.com/vi/MysGjRS9jFU/sddefault.jpg",
         "fTitle": "KATE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 161,
@@ -3052,12 +3052,12 @@
         "url": "https://www.youtube.com/watch?v=rG1ZjYaS3eM",
         "thumbnail": "https://i.ytimg.com/vi/rG1ZjYaS3eM/sddefault.jpg",
         "fTitle": "How to Be a Cowboy",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 162,
@@ -3222,12 +3222,12 @@
         "url": "https://www.youtube.com/watch?v=wOzM3c33TVg",
         "thumbnail": "https://i.ytimg.com/vi/wOzM3c33TVg/sddefault.jpg",
         "fTitle": "Brand New Cherry Flavor: Limited Series",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 171,
@@ -3307,12 +3307,12 @@
         "url": "https://www.youtube.com/watch?v=UGM3eyAnRbc",
         "thumbnail": "https://i.ytimg.com/vi/UGM3eyAnRbc/sddefault.jpg",
         "fTitle": "Cooking With Paris",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 175,
@@ -3324,12 +3324,12 @@
         "url": "https://www.youtube.com/watch?v=j3IgmCgeMNo",
         "thumbnail": "https://i.ytimg.com/vi/j3IgmCgeMNo/sddefault.jpg",
         "fTitle": "UNTOLD Vol. 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 176,
@@ -3379,8 +3379,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 177,
@@ -3426,12 +3426,12 @@
         "url": "https://www.youtube.com/watch?v=1BN2HF1ZmFI",
         "thumbnail": "https://i.ytimg.com/vi/1BN2HF1ZmFI/sddefault.jpg",
         "fTitle": "Cocaine Cowboys: The Kings Of Miami",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 180,
@@ -3477,12 +3477,12 @@
         "url": "https://www.youtube.com/watch?v=2PmJX59vvXQ",
         "thumbnail": "https://i.ytimg.com/vi/2PmJX59vvXQ/sddefault.jpg",
         "fTitle": "Family Reunion Part 4",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 183,
@@ -3545,12 +3545,12 @@
         "url": "https://www.youtube.com/watch?v=fBXsqYci1ag",
         "thumbnail": "https://i.ytimg.com/vi/fBXsqYci1ag/sddefault.jpg",
         "fTitle": "Love is Blind: After the Altar",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 187,
@@ -3579,12 +3579,12 @@
         "url": "https://www.youtube.com/watch?v=slC_drCw1dA",
         "thumbnail": "https://i.ytimg.com/vi/slC_drCw1dA/sddefault.jpg",
         "fTitle": "Outer Banks 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 189,
@@ -3596,12 +3596,12 @@
         "url": "https://www.youtube.com/watch?v=dj3CXY8rKuY",
         "thumbnail": "https://i.ytimg.com/vi/dj3CXY8rKuY/sddefault.jpg",
         "fTitle": "FEAR STREET PART 3: 1666",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 190,
@@ -3613,12 +3613,12 @@
         "url": "https://www.youtube.com/watch?v=WgFlpw7eD40",
         "thumbnail": "https://i.ytimg.com/vi/WgFlpw7eD40/sddefault.jpg",
         "fTitle": "Explained (Season 3)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 191,
@@ -3630,12 +3630,12 @@
         "url": "https://www.youtube.com/watch?v=YTqz2QYsSeY",
         "thumbnail": "https://i.ytimg.com/vi/YTqz2QYsSeY/sddefault.jpg",
         "fTitle": "Kingdom: Ashin of the North",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 192,
@@ -3681,12 +3681,12 @@
         "url": "https://www.youtube.com/watch?v=RoRlXpi7NDs",
         "thumbnail": "https://i.ytimg.com/vi/RoRlXpi7NDs/sddefault.jpg",
         "fTitle": "How To Sell Drugs Online (Fast)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 195,
@@ -3715,12 +3715,12 @@
         "url": "https://www.youtube.com/watch?v=eR2KSY1fipo",
         "thumbnail": "https://i.ytimg.com/vi/eR2KSY1fipo/hqdefault.jpg",
         "fTitle": "FEAR STREET PART 2: 1978",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 197,
@@ -3749,12 +3749,12 @@
         "url": "https://www.youtube.com/watch?v=iXdEeRBh9Zk",
         "thumbnail": "https://i.ytimg.com/vi/iXdEeRBh9Zk/sddefault.jpg",
         "fTitle": "Masters of the Universe: Revelation Part 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 199,
@@ -3817,12 +3817,12 @@
         "url": "https://www.youtube.com/watch?v=clZK2PqLWpI",
         "thumbnail": "https://i.ytimg.com/vi/clZK2PqLWpI/sddefault.jpg",
         "fTitle": "FEAR STREET PART 1: 1994",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 203,
@@ -3834,12 +3834,12 @@
         "url": "https://www.youtube.com/watch?v=N_tPZTzFTo8",
         "thumbnail": "https://i.ytimg.com/vi/N_tPZTzFTo8/sddefault.jpg",
         "fTitle": "Sky Rojo 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 204,
@@ -3851,12 +3851,12 @@
         "url": "https://www.youtube.com/watch?v=HFxBX-mT_Pw",
         "thumbnail": "https://i.ytimg.com/vi/HFxBX-mT_Pw/sddefault.jpg",
         "fTitle": "I Think You Should Leave with Tim Robinson",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 205,
@@ -3902,12 +3902,12 @@
         "url": "https://www.youtube.com/watch?v=CI6MV7ZTCbg",
         "thumbnail": "https://i.ytimg.com/vi/CI6MV7ZTCbg/sddefault.jpg",
         "fTitle": "How I Became a Superhero",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 208,
@@ -3919,12 +3919,12 @@
         "url": "https://www.youtube.com/watch?v=8AmamhLvymw",
         "thumbnail": "https://i.ytimg.com/vi/8AmamhLvymw/sddefault.jpg",
         "fTitle": "Murder by the coast",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 209,
@@ -3940,8 +3940,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 209,
@@ -3957,8 +3957,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2020.0,
         "genres": "Crime,Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 209,
@@ -3974,8 +3974,8 @@
         "titleType": "video",
         "startYear": 2021.0,
         "genres": "Comedy,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 209,
@@ -4021,12 +4021,12 @@
         "url": "https://www.youtube.com/watch?v=xzCBBPf7g0Q",
         "thumbnail": "https://i.ytimg.com/vi/xzCBBPf7g0Q/sddefault.jpg",
         "fTitle": "Too Hot To Handle",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 212,
@@ -4055,12 +4055,12 @@
         "url": "https://www.youtube.com/watch?v=6H4Y21Hg2L8",
         "thumbnail": "https://i.ytimg.com/vi/6H4Y21Hg2L8/sddefault.jpg",
         "fTitle": "Trollhunters: Rise Of The Titans",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 214,
@@ -4072,12 +4072,12 @@
         "url": "https://www.youtube.com/watch?v=nsSJ-T-eyGs",
         "thumbnail": "https://i.ytimg.com/vi/nsSJ-T-eyGs/sddefault.jpg",
         "fTitle": "Atypical",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 215,
@@ -4106,12 +4106,12 @@
         "url": "https://www.youtube.com/watch?v=SzYU3kgMPEw",
         "thumbnail": "https://i.ytimg.com/vi/SzYU3kgMPEw/sddefault.jpg",
         "fTitle": "Virgin River:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 217,
@@ -4157,12 +4157,12 @@
         "url": "https://www.youtube.com/watch?v=G5htMIBhdGk",
         "thumbnail": "https://i.ytimg.com/vi/G5htMIBhdGk/sddefault.jpg",
         "fTitle": "Audible",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 220,
@@ -4174,12 +4174,12 @@
         "url": "https://www.youtube.com/watch?v=dv6DNPlYA88",
         "thumbnail": "https://i.ytimg.com/vi/dv6DNPlYA88/sddefault.jpg",
         "fTitle": "Biohackers S2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 221,
@@ -4208,12 +4208,12 @@
         "url": "https://www.youtube.com/watch?v=UyUuzCGblqc",
         "thumbnail": "https://i.ytimg.com/vi/UyUuzCGblqc/sddefault.jpg",
         "fTitle": "FEAR STREET",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 223,
@@ -4225,12 +4225,12 @@
         "url": "https://www.youtube.com/watch?v=MLomtcM4-j4",
         "thumbnail": "https://i.ytimg.com/vi/MLomtcM4-j4/sddefault.jpg",
         "fTitle": "We The People",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 224,
@@ -4259,12 +4259,12 @@
         "url": "https://www.youtube.com/watch?v=gMgg3v0fUOw",
         "thumbnail": "https://i.ytimg.com/vi/gMgg3v0fUOw/sddefault.jpg",
         "fTitle": "Generation 56k",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 226,
@@ -4327,12 +4327,12 @@
         "url": "https://www.youtube.com/watch?v=zGYOt0ZmifQ",
         "thumbnail": "https://i.ytimg.com/vi/zGYOt0ZmifQ/sddefault.jpg",
         "fTitle": "JIVA!",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 230,
@@ -4361,12 +4361,12 @@
         "url": "https://www.youtube.com/watch?v=H65oSNmSLmc",
         "thumbnail": "https://i.ytimg.com/vi/H65oSNmSLmc/sddefault.jpg",
         "fTitle": "Headspace: Unwind Your Mind: An Interactive Experience",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 232,
@@ -4395,12 +4395,12 @@
         "url": "https://www.youtube.com/watch?v=U58oFGixd5M",
         "thumbnail": "https://i.ytimg.com/vi/U58oFGixd5M/sddefault.jpg",
         "fTitle": "The House of Flowers, the Movie",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 234,
@@ -4412,12 +4412,12 @@
         "url": "https://www.youtube.com/watch?v=Cuaz6QaGdoE",
         "thumbnail": "https://i.ytimg.com/vi/Cuaz6QaGdoE/sddefault.jpg",
         "fTitle": "Fresh, Fried & Crispy",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 235,
@@ -4429,12 +4429,12 @@
         "url": "https://www.youtube.com/watch?v=D8PtrVhkRwE",
         "thumbnail": "https://i.ytimg.com/vi/D8PtrVhkRwE/sddefault.jpg",
         "fTitle": "The Naked Director",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 236,
@@ -4446,12 +4446,12 @@
         "url": "https://www.youtube.com/watch?v=gl6to9XVpw8",
         "thumbnail": "https://i.ytimg.com/vi/gl6to9XVpw8/sddefault.jpg",
         "fTitle": "Ali & Ratu Ratu Queens",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 237,
@@ -4463,12 +4463,12 @@
         "url": "https://www.youtube.com/watch?v=0-d7Xv6UaB8",
         "thumbnail": "https://i.ytimg.com/vi/0-d7Xv6UaB8/sddefault.jpg",
         "fTitle": "Summertime 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 238,
@@ -4480,12 +4480,12 @@
         "url": "https://www.youtube.com/watch?v=O67fpWFoz3w",
         "thumbnail": "https://i.ytimg.com/vi/O67fpWFoz3w/sddefault.jpg",
         "fTitle": "Elite",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 239,
@@ -4497,12 +4497,12 @@
         "url": "https://www.youtube.com/watch?v=O9-kJB8AVFA",
         "thumbnail": "https://i.ytimg.com/vi/O9-kJB8AVFA/sddefault.jpg",
         "fTitle": "Black Summer:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 240,
@@ -4514,12 +4514,12 @@
         "url": "https://www.youtube.com/watch?v=2fuowcxdrYc",
         "thumbnail": "https://i.ytimg.com/vi/2fuowcxdrYc/sddefault.jpg",
         "fTitle": "AWAKE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 241,
@@ -4565,12 +4565,12 @@
         "url": "https://www.youtube.com/watch?v=kJ6x279y8GI",
         "thumbnail": "https://i.ytimg.com/vi/kJ6x279y8GI/sddefault.jpg",
         "fTitle": "Lupin Part 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 244,
@@ -4633,12 +4633,12 @@
         "url": "https://www.youtube.com/watch?v=z_-_hIuE1YA",
         "thumbnail": "https://i.ytimg.com/vi/z_-_hIuE1YA/sddefault.jpg",
         "fTitle": "Good On Paper",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 248,
@@ -4650,12 +4650,12 @@
         "url": "https://www.youtube.com/watch?v=Mo6IF6qbYPE",
         "thumbnail": "https://i.ytimg.com/vi/Mo6IF6qbYPE/sddefault.jpg",
         "fTitle": "Feel Good:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 249,
@@ -4722,8 +4722,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 252,
@@ -4739,8 +4739,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Comedy,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 252,
@@ -4756,8 +4756,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 253,
@@ -4769,12 +4769,12 @@
         "url": "https://www.youtube.com/watch?v=Ofy4lTvNu1o",
         "thumbnail": "https://i.ytimg.com/vi/Ofy4lTvNu1o/sddefault.jpg",
         "fTitle": "Ragnarok 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 254,
@@ -4858,8 +4858,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Documentary",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 256,
@@ -4875,8 +4875,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 256,
@@ -4922,12 +4922,12 @@
         "url": "https://www.youtube.com/watch?v=T3mwUEoZdrI",
         "thumbnail": "https://i.ytimg.com/vi/T3mwUEoZdrI/sddefault.jpg",
         "fTitle": "FATHERHOOD starring Kevin Hart",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 258,
@@ -4939,12 +4939,12 @@
         "url": "https://www.youtube.com/watch?v=U0Wm0TZkMs4",
         "thumbnail": "https://i.ytimg.com/vi/U0Wm0TZkMs4/sddefault.jpg",
         "fTitle": "The Neighbor:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 259,
@@ -4973,12 +4973,12 @@
         "url": "https://www.youtube.com/watch?v=-0beFQnB5lY",
         "thumbnail": "https://i.ytimg.com/vi/-0beFQnB5lY/sddefault.jpg",
         "fTitle": "Lucifer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 261,
@@ -4990,12 +4990,12 @@
         "url": "https://www.youtube.com/watch?v=Aj8ua1zQPSs",
         "thumbnail": "https://i.ytimg.com/vi/Aj8ua1zQPSs/sddefault.jpg",
         "fTitle": "The Kominsky Method",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 262,
@@ -5024,12 +5024,12 @@
         "url": "https://www.youtube.com/watch?v=8ctRjR_DWAg",
         "thumbnail": "https://i.ytimg.com/vi/8ctRjR_DWAg/sddefault.jpg",
         "fTitle": "Who Killed Sara?:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 264,
@@ -5041,12 +5041,12 @@
         "url": "https://www.youtube.com/watch?v=BQqh6yZaRNI",
         "thumbnail": "https://i.ytimg.com/vi/BQqh6yZaRNI/sddefault.jpg",
         "fTitle": "Master of None S3",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 265,
@@ -5058,19 +5058,19 @@
         "url": "https://www.youtube.com/watch?v=Gj2iCJkp6Ko",
         "thumbnail": "https://i.ytimg.com/vi/Gj2iCJkp6Ko/sddefault.jpg",
         "fTitle": "LOVE DEATH + ROBOTS VOLUME 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 266,
         "plTitle": "New in May 2021 | Netflix",
         "title": "Ferry | Official Trailer | Netflix",
         "views": 353157,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-04-19",
         "url": "https://www.youtube.com/watch?v=MG6U7gduIwA",
         "thumbnail": "https://i.ytimg.com/vi/MG6U7gduIwA/sddefault.jpg",
@@ -5096,8 +5096,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 267,
@@ -5113,8 +5113,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Sci-Fi",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 267,
@@ -5130,8 +5130,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Drama,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 267,
@@ -5147,8 +5147,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 268,
@@ -5160,12 +5160,12 @@
         "url": "https://www.youtube.com/watch?v=wjJq4Hy8FxM",
         "thumbnail": "https://i.ytimg.com/vi/wjJq4Hy8FxM/sddefault.jpg",
         "fTitle": "Selena, The Series Part 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 269,
@@ -5211,12 +5211,12 @@
         "url": "https://www.youtube.com/watch?v=L44wjEGibbM",
         "thumbnail": "https://i.ytimg.com/vi/L44wjEGibbM/sddefault.jpg",
         "fTitle": "Special",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 271,
@@ -5228,12 +5228,12 @@
         "url": "https://www.youtube.com/watch?v=L7iWXfZzEMc",
         "thumbnail": "https://i.ytimg.com/vi/L7iWXfZzEMc/sddefault.jpg",
         "fTitle": "Castlevania",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 272,
@@ -5262,12 +5262,12 @@
         "url": "https://www.youtube.com/watch?v=yCgdWHwEnrg",
         "thumbnail": "https://i.ytimg.com/vi/yCgdWHwEnrg/sddefault.jpg",
         "fTitle": "HALSTON",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 274,
@@ -5313,12 +5313,12 @@
         "url": "https://www.youtube.com/watch?v=7MYzlgRQXBY",
         "thumbnail": "https://i.ytimg.com/vi/7MYzlgRQXBY/sddefault.jpg",
         "fTitle": "Chadwick Boseman: Portrait of an Artist",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 277,
@@ -5385,8 +5385,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 279,
@@ -5402,8 +5402,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 280,
@@ -5470,8 +5470,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 280,
@@ -5487,8 +5487,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 281,
@@ -5504,8 +5504,8 @@
         "titleType": "movie",
         "startYear": 2020.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 281,
@@ -5568,12 +5568,12 @@
         "url": "https://www.youtube.com/watch?v=WYj-7IrjC4c",
         "thumbnail": "https://i.ytimg.com/vi/WYj-7IrjC4c/sddefault.jpg",
         "fTitle": "Life in Color with David Attenborough",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 284,
@@ -5619,12 +5619,12 @@
         "url": "https://www.youtube.com/watch?v=DdIHtymX_Fc",
         "thumbnail": "https://i.ytimg.com/vi/DdIHtymX_Fc/sddefault.jpg",
         "fTitle": "Love and Monsters starring Dylan O\u2019Brien",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 287,
@@ -5653,12 +5653,12 @@
         "url": "https://www.youtube.com/watch?v=rq9MHCwiSCI",
         "thumbnail": "https://i.ytimg.com/vi/rq9MHCwiSCI/sddefault.jpg",
         "fTitle": "Luis Miguel, The Series (Season 2)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 289,
@@ -5670,12 +5670,12 @@
         "url": "https://www.youtube.com/watch?v=j-67K-KwHbA",
         "thumbnail": "https://i.ytimg.com/vi/j-67K-KwHbA/sddefault.jpg",
         "fTitle": "Two Distant Strangers",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 290,
@@ -5755,12 +5755,12 @@
         "url": "https://www.youtube.com/watch?v=b1WHQTbJ7vE",
         "thumbnail": "https://i.ytimg.com/vi/b1WHQTbJ7vE/sddefault.jpg",
         "fTitle": "\u200bShadow and Bone",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 295,
@@ -5772,12 +5772,12 @@
         "url": "https://www.youtube.com/watch?v=_ak5dFt8Ar0",
         "thumbnail": "https://i.ytimg.com/vi/_ak5dFt8Ar0/sddefault.jpg",
         "fTitle": "The Mitchells vs. The Machines",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 296,
@@ -5789,12 +5789,12 @@
         "url": "https://www.youtube.com/watch?v=HCAaonjgDEA",
         "thumbnail": "https://i.ytimg.com/vi/HCAaonjgDEA/sddefault.jpg",
         "fTitle": "Things Heard & Seen starring Amanda Seyfried",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 297,
@@ -5840,12 +5840,12 @@
         "url": "https://www.youtube.com/watch?v=__yMsNEndac",
         "thumbnail": "https://i.ytimg.com/vi/__yMsNEndac/sddefault.jpg",
         "fTitle": "Into The Beat",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 299,
@@ -5874,12 +5874,12 @@
         "url": "https://www.youtube.com/watch?v=GVzKqr3Dss0",
         "thumbnail": "https://i.ytimg.com/vi/GVzKqr3Dss0/sddefault.jpg",
         "fTitle": "Headspace Guide To Sleep",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 301,
@@ -5908,19 +5908,19 @@
         "url": "https://www.youtube.com/watch?v=OH18cKTmwZ8",
         "thumbnail": "https://i.ytimg.com/vi/OH18cKTmwZ8/sddefault.jpg",
         "fTitle": "This Is a Robbery: The World's Biggest Art Heist",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 303,
         "plTitle": "New in March 2021 | Netflix",
         "title": "The Wedding Coach | Official Trailer | Netflix",
         "views": 137727,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-03-09",
         "url": "https://www.youtube.com/watch?v=oDhgHDF9J9I",
         "thumbnail": "https://i.ytimg.com/vi/oDhgHDF9J9I/sddefault.jpg",
@@ -5959,29 +5959,29 @@
         "url": "https://www.youtube.com/watch?v=OsXyNcckpwM",
         "thumbnail": "https://i.ytimg.com/vi/OsXyNcckpwM/sddefault.jpg",
         "fTitle": "Bad Trip starring Eric Andre, Lil Rel Howery & Tiffany Haddish",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 306,
         "plTitle": "New in March 2021 | Netflix",
         "title": "Operation Varsity Blues: The College Admissions Scandal | Official Trailer | Netflix",
         "views": 1038036,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-03-01",
         "url": "https://www.youtube.com/watch?v=LFHj8e7mU_I",
         "thumbnail": "https://i.ytimg.com/vi/LFHj8e7mU_I/hqdefault.jpg",
         "fTitle": "Operation Varsity Blues: The College Admissions Scandal",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 307,
@@ -6129,12 +6129,12 @@
         "url": "https://www.youtube.com/watch?v=idhzD6M3QzA",
         "thumbnail": "https://i.ytimg.com/vi/idhzD6M3QzA/sddefault.jpg",
         "fTitle": "Paradise PD:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 315,
@@ -6167,8 +6167,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Reality-TV",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 316,
@@ -6192,17 +6192,17 @@
         "plTitle": "New in March 2021 | Netflix",
         "title": "Yes Day starring Jennifer Garner | Official Trailer | Netflix",
         "views": 1507796,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-02-10",
         "url": "https://www.youtube.com/watch?v=Y-3Vr8Ut8d0",
         "thumbnail": "https://i.ytimg.com/vi/Y-3Vr8Ut8d0/sddefault.jpg",
         "fTitle": "Yes Day starring Jennifer Garner",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 318,
@@ -6231,12 +6231,12 @@
         "url": "https://www.youtube.com/watch?v=4X8rNtEteMg",
         "thumbnail": "https://i.ytimg.com/vi/4X8rNtEteMg/sddefault.jpg",
         "fTitle": "Nailed It: Double Trouble!",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 320,
@@ -6303,8 +6303,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 322,
@@ -6354,8 +6354,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 322,
@@ -6371,8 +6371,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Action",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 323,
@@ -6418,12 +6418,12 @@
         "url": "https://www.youtube.com/watch?v=z7WccGNxKuU",
         "thumbnail": "https://i.ytimg.com/vi/z7WccGNxKuU/sddefault.jpg",
         "fTitle": "Prank Encounters (Season 2)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 326,
@@ -6435,12 +6435,12 @@
         "url": "https://www.youtube.com/watch?v=DxcBVAp9-JI",
         "thumbnail": "https://i.ytimg.com/vi/DxcBVAp9-JI/sddefault.jpg",
         "fTitle": "Magic for Humans Spain",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 327,
@@ -6503,12 +6503,12 @@
         "url": "https://www.youtube.com/watch?v=7MuQksaDZWI",
         "thumbnail": "https://i.ytimg.com/vi/7MuQksaDZWI/sddefault.jpg",
         "fTitle": "Buried By The Bernards",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 330,
@@ -6571,12 +6571,12 @@
         "url": "https://www.youtube.com/watch?v=Kcvb5jJK2M4",
         "thumbnail": "https://i.ytimg.com/vi/Kcvb5jJK2M4/sddefault.jpg",
         "fTitle": "Tiffany Haddish Presents: They Ready",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 334,
@@ -6605,12 +6605,12 @@
         "url": "https://www.youtube.com/watch?v=0MMXqjMe1WQ",
         "thumbnail": "https://i.ytimg.com/vi/0MMXqjMe1WQ/sddefault.jpg",
         "fTitle": "\"Strip Down, Rise Up\"",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 336,
@@ -6622,12 +6622,12 @@
         "url": "https://www.youtube.com/watch?v=Saby6UVF2j8",
         "thumbnail": "https://i.ytimg.com/vi/Saby6UVF2j8/sddefault.jpg",
         "fTitle": "Animals on the Loose: A You vs. Wild Interactive Movie",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 337,
@@ -6707,12 +6707,12 @@
         "url": "https://www.youtube.com/watch?v=2jPdejek5QA",
         "thumbnail": "https://i.ytimg.com/vi/2jPdejek5QA/sddefault.jpg",
         "fTitle": "To All The Boys: Always and Forever",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 342,
@@ -6724,12 +6724,12 @@
         "url": "https://www.youtube.com/watch?v=IhnKWwPcgN4",
         "thumbnail": "https://i.ytimg.com/vi/IhnKWwPcgN4/sddefault.jpg",
         "fTitle": "The Last Paradiso",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 343,
@@ -6758,12 +6758,12 @@
         "url": "https://www.youtube.com/watch?v=C0Kx3imGLvU",
         "thumbnail": "https://i.ytimg.com/vi/C0Kx3imGLvU/sddefault.jpg",
         "fTitle": "Bonding:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 345,
@@ -6775,12 +6775,12 @@
         "url": "https://www.youtube.com/watch?v=3D0PlwGIyW0",
         "thumbnail": "https://i.ytimg.com/vi/3D0PlwGIyW0/sddefault.jpg",
         "fTitle": "Penguin Bloom starring Naomi Watts and Andrew Lincoln",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 346,
@@ -6809,12 +6809,12 @@
         "url": "https://www.youtube.com/watch?v=LcDQqGJG8pA",
         "thumbnail": "https://i.ytimg.com/vi/LcDQqGJG8pA/sddefault.jpg",
         "fTitle": "Cobra Kai:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 348,
@@ -6826,12 +6826,12 @@
         "url": "https://www.youtube.com/watch?v=JZQz0rkNajo",
         "thumbnail": "https://i.ytimg.com/vi/JZQz0rkNajo/sddefault.jpg",
         "fTitle": "THE DIG starring Carey Mulligan and Ralph Fiennes",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 349,
@@ -6860,12 +6860,12 @@
         "url": "https://www.youtube.com/watch?v=WQnshKbalkE",
         "thumbnail": "https://i.ytimg.com/vi/WQnshKbalkE/sddefault.jpg",
         "fTitle": "Blown Away",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 351,
@@ -6911,12 +6911,12 @@
         "url": "https://www.youtube.com/watch?v=Mva2nGveYss",
         "thumbnail": "https://i.ytimg.com/vi/Mva2nGveYss/sddefault.jpg",
         "fTitle": "Night Stalker: The Hunt For a Serial Killer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 354,
@@ -6996,12 +6996,12 @@
         "url": "https://www.youtube.com/watch?v=LCmYC2qeqM0",
         "thumbnail": "https://i.ytimg.com/vi/LCmYC2qeqM0/sddefault.jpg",
         "fTitle": "Dream Home Makeover (Season 2)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 359,
@@ -7013,12 +7013,12 @@
         "url": "https://www.youtube.com/watch?v=H77PL7SlI1M",
         "thumbnail": "https://i.ytimg.com/vi/H77PL7SlI1M/sddefault.jpg",
         "fTitle": "Headspace Guide To Meditation",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 360,
@@ -7047,12 +7047,12 @@
         "url": "https://www.youtube.com/watch?v=b7oXr10I-Ho",
         "thumbnail": "https://i.ytimg.com/vi/b7oXr10I-Ho/sddefault.jpg",
         "fTitle": "Song Exploder (Volume 2)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 362,
@@ -7064,12 +7064,12 @@
         "url": "https://www.youtube.com/watch?v=qAogGAv1TgE",
         "thumbnail": "https://i.ytimg.com/vi/qAogGAv1TgE/sddefault.jpg",
         "fTitle": "How To Ruin Christmas: The Wedding",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 363,
@@ -7081,12 +7081,12 @@
         "url": "https://www.youtube.com/watch?v=_3j0qmWU5jo",
         "thumbnail": "https://i.ytimg.com/vi/_3j0qmWU5jo/sddefault.jpg",
         "fTitle": "Home for Christmas",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 364,
@@ -7255,8 +7255,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 374,
@@ -7268,12 +7268,12 @@
         "url": "https://www.youtube.com/watch?v=-0UOv6lOwmI",
         "thumbnail": "https://i.ytimg.com/vi/-0UOv6lOwmI/sddefault.jpg",
         "fTitle": "Big Mouth:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 375,
@@ -7285,12 +7285,12 @@
         "url": "https://www.youtube.com/watch?v=Edgq5q5Iq_Q",
         "thumbnail": "https://i.ytimg.com/vi/Edgq5q5Iq_Q/sddefault.jpg",
         "fTitle": "Mr. Iglesias Part 3",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 376,
@@ -7353,12 +7353,12 @@
         "url": "https://www.youtube.com/watch?v=DXUUqr3AFKs",
         "thumbnail": "https://i.ytimg.com/vi/DXUUqr3AFKs/sddefault.jpg",
         "fTitle": "THE MIDNIGHT SKY starring George Clooney",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 380,
@@ -7399,17 +7399,17 @@
         "plTitle": "New in December 2020 | Netflix",
         "title": "MANK | Official Trailer | Netflix",
         "views": 1942990,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2020-10-21",
         "url": "https://www.youtube.com/watch?v=aSfX-nrg-lI",
         "thumbnail": "https://i.ytimg.com/vi/aSfX-nrg-lI/sddefault.jpg",
         "fTitle": "MANK",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 383,
@@ -7433,7 +7433,7 @@
         "plTitle": "New in November 2020 | Netflix",
         "title": "Paranormal | Official Trailer | Netflix",
         "views": 924212,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2020-10-22",
         "url": "https://www.youtube.com/watch?v=LFtRkDC7aHc",
         "thumbnail": "https://i.ytimg.com/vi/LFtRkDC7aHc/sddefault.jpg",
@@ -7450,7 +7450,7 @@
         "plTitle": "New in November 2020 | Netflix",
         "title": "Paranormal | Official Trailer | Netflix",
         "views": 924212,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2020-10-22",
         "url": "https://www.youtube.com/watch?v=LFtRkDC7aHc",
         "thumbnail": "https://i.ytimg.com/vi/LFtRkDC7aHc/sddefault.jpg",
@@ -7459,8 +7459,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Adult,Fantasy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 385,
@@ -7489,12 +7489,12 @@
         "url": "https://www.youtube.com/watch?v=p_-_MPVg968",
         "thumbnail": "https://i.ytimg.com/vi/p_-_MPVg968/sddefault.jpg",
         "fTitle": "The Endless Trench (aka La trinchera infinita)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 387,
@@ -7574,12 +7574,12 @@
         "url": "https://www.youtube.com/watch?v=OiXEpminPms",
         "thumbnail": "https://i.ytimg.com/vi/OiXEpminPms/sddefault.jpg",
         "fTitle": "The Crown",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 392,
@@ -7591,12 +7591,12 @@
         "url": "https://www.youtube.com/watch?v=M5anWrBFPmY",
         "thumbnail": "https://i.ytimg.com/vi/M5anWrBFPmY/sddefault.jpg",
         "fTitle": "Dolly Parton's Christmas on The Square starring Christine Baranski",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 393,
@@ -7625,12 +7625,12 @@
         "url": "https://www.youtube.com/watch?v=KW_3aaoSOYg",
         "thumbnail": "https://i.ytimg.com/vi/KW_3aaoSOYg/sddefault.jpg",
         "fTitle": "Hillbilly Elegy a Ron Howard Film",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 395,
@@ -7642,12 +7642,12 @@
         "url": "https://www.youtube.com/watch?v=q0biQPyuthM",
         "thumbnail": "https://i.ytimg.com/vi/q0biQPyuthM/sddefault.jpg",
         "fTitle": "Suburra",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 396,
@@ -7710,12 +7710,12 @@
         "url": "https://www.youtube.com/watch?v=uaBJc1XZ8nU",
         "thumbnail": "https://i.ytimg.com/vi/uaBJc1XZ8nU/sddefault.jpg",
         "fTitle": "Unsolved Mysteries Volume 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 399,
@@ -7727,12 +7727,12 @@
         "url": "https://www.youtube.com/watch?v=6pqKsA6FQVc",
         "thumbnail": "https://i.ytimg.com/vi/6pqKsA6FQVc/sddefault.jpg",
         "fTitle": "Somebody Feed Phil (Season 4)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 400,
@@ -7744,12 +7744,12 @@
         "url": "https://www.youtube.com/watch?v=m_HeEjm-3CQ",
         "thumbnail": "https://i.ytimg.com/vi/m_HeEjm-3CQ/sddefault.jpg",
         "fTitle": "My Next Guest Needs No Introduction with David Letterman",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 401,
@@ -7761,12 +7761,12 @@
         "url": "https://www.youtube.com/watch?v=7jx_vdvxWu0",
         "thumbnail": "https://i.ytimg.com/vi/7jx_vdvxWu0/sddefault.jpg",
         "fTitle": "BLACKPINK: LIGHT UP THE SKY",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 402,
@@ -7795,12 +7795,12 @@
         "url": "https://www.youtube.com/watch?v=VD8SZEngVik",
         "thumbnail": "https://i.ytimg.com/vi/VD8SZEngVik/sddefault.jpg",
         "fTitle": "SOCIAL DISTANCE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 404,
@@ -7812,12 +7812,12 @@
         "url": "https://www.youtube.com/watch?v=DYY0QJhlXjc",
         "thumbnail": "https://i.ytimg.com/vi/DYY0QJhlXjc/sddefault.jpg",
         "fTitle": "HIS HOUSE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 405,
@@ -7846,12 +7846,12 @@
         "url": "https://www.youtube.com/watch?v=hxaaAoI57fk",
         "thumbnail": "https://i.ytimg.com/vi/hxaaAoI57fk/sddefault.jpg",
         "fTitle": "Holidate starring Emma Roberts",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 407,
@@ -7931,12 +7931,12 @@
         "url": "https://www.youtube.com/watch?v=htqXL94Rza4",
         "thumbnail": "https://i.ytimg.com/vi/htqXL94Rza4/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 412,
@@ -7999,12 +7999,12 @@
         "url": "https://www.youtube.com/watch?v=cDTg62vsV4U",
         "thumbnail": "https://i.ytimg.com/vi/cDTg62vsV4U/sddefault.jpg",
         "fTitle": "i'm thinking of ending things",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 416,
@@ -8016,12 +8016,12 @@
         "url": "https://www.youtube.com/watch?v=EIzazUv2gtI",
         "thumbnail": "https://i.ytimg.com/vi/EIzazUv2gtI/sddefault.jpg",
         "fTitle": "The Devil All The Time starring Tom Holland & Robert Pattinson",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 417,
@@ -8101,12 +8101,12 @@
         "url": "https://www.youtube.com/watch?v=1zTGntI3OJM",
         "thumbnail": "https://i.ytimg.com/vi/1zTGntI3OJM/sddefault.jpg",
         "fTitle": "The Taco Chronicles",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 421,
@@ -8118,12 +8118,12 @@
         "url": "https://www.youtube.com/watch?v=LCwwLxFRpC0",
         "thumbnail": "https://i.ytimg.com/vi/LCwwLxFRpC0/sddefault.jpg",
         "fTitle": "Felipe Esparza",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 422,
@@ -8169,12 +8169,12 @@
         "url": "https://www.youtube.com/watch?v=TKJwbsx1BSc",
         "thumbnail": "https://i.ytimg.com/vi/TKJwbsx1BSc/sddefault.jpg",
         "fTitle": "Jurassic World Camp Cretaceous",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 425,
@@ -8220,12 +8220,12 @@
         "url": "https://www.youtube.com/watch?v=WgUt8epzB8A",
         "thumbnail": "https://i.ytimg.com/vi/WgUt8epzB8A/sddefault.jpg",
         "fTitle": "The Gift S2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 428,
@@ -8237,12 +8237,12 @@
         "url": "https://www.youtube.com/watch?v=kfZJhAWLMC4",
         "thumbnail": "https://i.ytimg.com/vi/kfZJhAWLMC4/sddefault.jpg",
         "fTitle": "Freaks \u2013 You're One of Us",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 429,
@@ -8292,8 +8292,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 431,
@@ -8309,8 +8309,8 @@
         "titleType": "tvSpecial",
         "startYear": 2021.0,
         "genres": "Music",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 431,
@@ -8326,8 +8326,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 431,
@@ -8356,12 +8356,12 @@
         "url": "https://www.youtube.com/watch?v=XPg_BE6EA94",
         "thumbnail": "https://i.ytimg.com/vi/XPg_BE6EA94/sddefault.jpg",
         "fTitle": "Get Organized with The Home Edit",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 433,
@@ -8390,12 +8390,12 @@
         "url": "https://www.youtube.com/watch?v=xCvjaaqqVzU",
         "thumbnail": "https://i.ytimg.com/vi/xCvjaaqqVzU/sddefault.jpg",
         "fTitle": "A Love Song For Latasha",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 435,
@@ -8475,12 +8475,12 @@
         "url": "https://www.youtube.com/watch?v=RE-GwkeZQmI",
         "thumbnail": "https://i.ytimg.com/vi/RE-GwkeZQmI/sddefault.jpg",
         "fTitle": "Dirty John",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 440,
@@ -8492,12 +8492,12 @@
         "url": "https://www.youtube.com/watch?v=ZPHc_cpEP1o",
         "thumbnail": "https://i.ytimg.com/vi/ZPHc_cpEP1o/sddefault.jpg",
         "fTitle": "Alta Mar",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 441,
@@ -8547,8 +8547,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Crime,Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 443,
@@ -8564,8 +8564,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2020.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 444,
@@ -8594,12 +8594,12 @@
         "url": "https://www.youtube.com/watch?v=D2EcvFfzu-o",
         "thumbnail": "https://i.ytimg.com/vi/D2EcvFfzu-o/sddefault.jpg",
         "fTitle": "Sam Jay: 3 In The Morning",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 446,
@@ -8611,12 +8611,12 @@
         "url": "https://www.youtube.com/watch?v=OqcP_wkcl2I",
         "thumbnail": "https://i.ytimg.com/vi/OqcP_wkcl2I/sddefault.jpg",
         "fTitle": "Work It starring Sabrina Carpenter & Liza Koshy",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 447,
@@ -8628,12 +8628,12 @@
         "url": "https://www.youtube.com/watch?v=bdqTyvvSmqo",
         "thumbnail": "https://i.ytimg.com/vi/bdqTyvvSmqo/sddefault.jpg",
         "fTitle": "The Rain",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 448,
@@ -8645,12 +8645,12 @@
         "url": "https://www.youtube.com/watch?v=3mTh2joPPj8",
         "thumbnail": "https://i.ytimg.com/vi/3mTh2joPPj8/sddefault.jpg",
         "fTitle": "Lucifer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 449,
@@ -8662,12 +8662,12 @@
         "url": "https://www.youtube.com/watch?v=xw1vQgVaYNQ",
         "thumbnail": "https://i.ytimg.com/vi/xw1vQgVaYNQ/sddefault.jpg",
         "fTitle": "Project Power starring Jamie Foxx",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 450,
@@ -8696,12 +8696,12 @@
         "url": "https://www.youtube.com/watch?v=UksT5I1lvJM",
         "thumbnail": "https://i.ytimg.com/vi/UksT5I1lvJM/sddefault.jpg",
         "fTitle": "Transformers: War For Cybertron Trilogy",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 452,
@@ -8730,29 +8730,29 @@
         "url": "https://www.youtube.com/watch?v=Qfu7pEAtvHw",
         "thumbnail": "https://i.ytimg.com/vi/Qfu7pEAtvHw/sddefault.jpg",
         "fTitle": "The Claudia Kishi Club",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 454,
         "plTitle": "New in July 2020 | Netflix",
         "title": "Love on the Spectrum | Official Trailer | Netflix",
         "views": 759555,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2020-07-07",
         "url": "https://www.youtube.com/watch?v=kX-QbcXyZug",
         "thumbnail": "https://i.ytimg.com/vi/kX-QbcXyZug/sddefault.jpg",
         "fTitle": "Love on the Spectrum",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 455,
@@ -8832,12 +8832,12 @@
         "url": "https://www.youtube.com/watch?v=-wrTIWx_Z6k",
         "thumbnail": "https://i.ytimg.com/vi/-wrTIWx_Z6k/sddefault.jpg",
         "fTitle": "The Speed Cubers",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 460,
@@ -8866,12 +8866,12 @@
         "url": "https://www.youtube.com/watch?v=xLTdy6PfotA",
         "thumbnail": "https://i.ytimg.com/vi/xLTdy6PfotA/sddefault.jpg",
         "fTitle": "CURSED (Katherine Langford)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 462,
@@ -8883,12 +8883,12 @@
         "url": "https://www.youtube.com/watch?v=bxWPPrDpqr8",
         "thumbnail": "https://i.ytimg.com/vi/bxWPPrDpqr8/sddefault.jpg",
         "fTitle": "Fatal Affair Starring Nia Long + Omar Epps",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 463,
@@ -8951,12 +8951,12 @@
         "url": "https://www.youtube.com/watch?v=Wva0OyWVRsM",
         "thumbnail": "https://i.ytimg.com/vi/Wva0OyWVRsM/sddefault.jpg",
         "fTitle": "Jim Jefferies: 'Intolerant'",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 467,
@@ -8972,8 +8972,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Documentary",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 467,
@@ -9053,12 +9053,12 @@
         "url": "https://www.youtube.com/watch?v=tXU_XmDiOlI",
         "thumbnail": "https://i.ytimg.com/vi/tXU_XmDiOlI/sddefault.jpg",
         "fTitle": "How to Sell Drugs Online (Fast)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 471,
@@ -9070,12 +9070,12 @@
         "url": "https://www.youtube.com/watch?v=6XelS6fQbuo",
         "thumbnail": "https://i.ytimg.com/vi/6XelS6fQbuo/sddefault.jpg",
         "fTitle": "CURSED (Katherine Langford)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 472,
@@ -9142,8 +9142,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 476,
@@ -9155,29 +9155,29 @@
         "url": "https://www.youtube.com/watch?v=echLiKsNYr4",
         "thumbnail": "https://i.ytimg.com/vi/echLiKsNYr4/sddefault.jpg",
         "fTitle": "Cable Girls",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 477,
         "plTitle": "New in June 2020 | Netflix",
         "title": "Grace and Frankie Season 6 | Official Trailer | Netflix",
         "views": 885658,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2020-01-02",
         "url": "https://www.youtube.com/watch?v=useJWxOqbJI",
         "thumbnail": "https://i.ytimg.com/vi/useJWxOqbJI/sddefault.jpg",
         "fTitle": "Grace and Frankie",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 478,
@@ -9189,12 +9189,12 @@
         "url": "https://www.youtube.com/watch?v=poUq9ypynKs",
         "thumbnail": "https://i.ytimg.com/vi/poUq9ypynKs/sddefault.jpg",
         "fTitle": "13 Reasons Why: Final Season",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 479,
@@ -9206,12 +9206,12 @@
         "url": "https://www.youtube.com/watch?v=WechPJGpqS8",
         "thumbnail": "https://i.ytimg.com/vi/WechPJGpqS8/sddefault.jpg",
         "fTitle": "Queer Eye:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 480,
@@ -9223,12 +9223,12 @@
         "url": "https://www.youtube.com/watch?v=8HmQZxDTpe0",
         "thumbnail": "https://i.ytimg.com/vi/8HmQZxDTpe0/sddefault.jpg",
         "fTitle": "F is for Family",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 481,
@@ -9261,8 +9261,8 @@
         "titleType": "tvSpecial",
         "startYear": 2020.0,
         "genres": "\\N",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 482,
@@ -9308,12 +9308,12 @@
         "url": "https://www.youtube.com/watch?v=eaQDqhjyBng",
         "thumbnail": "https://i.ytimg.com/vi/eaQDqhjyBng/sddefault.jpg",
         "fTitle": "Baki: The Great Raitai Tournament Saga",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 485,
@@ -9342,12 +9342,12 @@
         "url": "https://www.youtube.com/watch?v=xSEeiSTjOhQ",
         "thumbnail": "https://i.ytimg.com/vi/xSEeiSTjOhQ/sddefault.jpg",
         "fTitle": "Spelling the Dream",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 487,
@@ -9363,8 +9363,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Fantasy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 488,
@@ -9376,12 +9376,12 @@
         "url": "https://www.youtube.com/watch?v=PG1gU7fjBUk",
         "thumbnail": "https://i.ytimg.com/vi/PG1gU7fjBUk/sddefault.jpg",
         "fTitle": "Farewell Season: Fuller House",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 489,
@@ -9393,12 +9393,12 @@
         "url": "https://www.youtube.com/watch?v=wfE6vwk8Sfs",
         "thumbnail": "https://i.ytimg.com/vi/wfE6vwk8Sfs/sddefault.jpg",
         "fTitle": "Babies Part 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 490,
@@ -9427,12 +9427,12 @@
         "url": "https://www.youtube.com/watch?v=Uj7uyeaJjFQ",
         "thumbnail": "https://i.ytimg.com/vi/Uj7uyeaJjFQ/sddefault.jpg",
         "fTitle": "WHITE LINES",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 492,
@@ -9444,12 +9444,12 @@
         "url": "https://www.youtube.com/watch?v=LZWmRUxOj9g",
         "thumbnail": "https://i.ytimg.com/vi/LZWmRUxOj9g/sddefault.jpg",
         "fTitle": "Unbreakable Kimmy Schmidt: Kimmy vs. The Reverend",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 493,
@@ -9478,12 +9478,12 @@
         "url": "https://www.youtube.com/watch?v=ZGosoC7q_po",
         "thumbnail": "https://i.ytimg.com/vi/ZGosoC7q_po/sddefault.jpg",
         "fTitle": "Into the Night I Official Trailer I Netflix",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 495,
@@ -9495,12 +9495,12 @@
         "url": "https://www.youtube.com/watch?v=ifpdZsZRFyc",
         "thumbnail": "https://i.ytimg.com/vi/ifpdZsZRFyc/sddefault.jpg",
         "fTitle": "Magic for Humans -",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 496,
@@ -9512,12 +9512,12 @@
         "url": "https://www.youtube.com/watch?v=HmU7ylnmn_M",
         "thumbnail": "https://i.ytimg.com/vi/HmU7ylnmn_M/sddefault.jpg",
         "fTitle": "Dead to Me",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 497,
@@ -9529,12 +9529,12 @@
         "url": "https://www.youtube.com/watch?v=Q3EASLgzOcM",
         "thumbnail": "https://i.ytimg.com/vi/Q3EASLgzOcM/sddefault.jpg",
         "fTitle": "HOLLYWOOD",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 498,
@@ -9563,12 +9563,12 @@
         "url": "https://www.youtube.com/watch?v=BC9Kk8Np9-Y",
         "thumbnail": "https://i.ytimg.com/vi/BC9Kk8Np9-Y/sddefault.jpg",
         "fTitle": "All Day and A Night Starring Jeffrey Wright & Ashton Sanders",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 500,
@@ -9631,11 +9631,11 @@
         "url": "https://www.youtube.com/watch?v=2JgPJpgnut4",
         "thumbnail": "https://i.ytimg.com/vi/2JgPJpgnut4/sddefault.jpg",
         "fTitle": "Too Hot To Handle",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     }
 ]

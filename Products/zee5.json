@@ -13,8 +13,8 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021.0,
         "genres": "Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -30,8 +30,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Crime,Drama,Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -47,8 +47,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Drama,Thriller",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 3,
@@ -128,12 +128,12 @@
         "url": "https://www.youtube.com/watch?v=5tUXwBER7zg",
         "thumbnail": "https://i.ytimg.com/vi/5tUXwBER7zg/sddefault.jpg",
         "fTitle": "Aafat-E-Ishq",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 8,
@@ -264,12 +264,12 @@
         "url": "https://www.youtube.com/watch?v=YTPBDxNq7XU",
         "thumbnail": "https://i.ytimg.com/vi/YTPBDxNq7XU/sddefault.jpg?v=6164ff43",
         "fTitle": "BREAK POINT",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 16,
@@ -332,12 +332,12 @@
         "url": "https://www.youtube.com/watch?v=pDfOe6H9BQg",
         "thumbnail": "https://i.ytimg.com/vi/pDfOe6H9BQg/sddefault.jpg",
         "fTitle": "Pavitra Rishta \u2013 It\u2019s Never too Late",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 20,
@@ -349,12 +349,12 @@
         "url": "https://www.youtube.com/watch?v=9rtsKcOUFs4",
         "thumbnail": "https://i.ytimg.com/vi/9rtsKcOUFs4/sddefault.jpg",
         "fTitle": "Kya Meri Sonam Gupta Bewafa Hai?",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 21,
@@ -383,12 +383,12 @@
         "url": "https://www.youtube.com/watch?v=y4RqQFvV8e0",
         "thumbnail": "https://i.ytimg.com/vi/y4RqQFvV8e0/sddefault.jpg",
         "fTitle": "NET",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 23,
@@ -404,8 +404,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Musical,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 23,
@@ -434,12 +434,12 @@
         "url": "https://www.youtube.com/watch?v=ezHRJaG0Ijk",
         "thumbnail": "https://i.ytimg.com/vi/ezHRJaG0Ijk/sddefault.jpg",
         "fTitle": "Engineering Girls 2.0",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 25,
@@ -451,12 +451,12 @@
         "url": "https://www.youtube.com/watch?v=hQSBhEGi-oU",
         "thumbnail": "https://i.ytimg.com/vi/hQSBhEGi-oU/sddefault.jpg",
         "fTitle": "200 Halla Ho",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 26,
@@ -468,12 +468,12 @@
         "url": "https://www.youtube.com/watch?v=mzTDiG8yXzo",
         "thumbnail": "https://i.ytimg.com/vi/mzTDiG8yXzo/sddefault.jpg",
         "fTitle": "India Shayari Project",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 27,
@@ -557,8 +557,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 31,
@@ -591,8 +591,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 32,
@@ -655,12 +655,12 @@
         "url": "https://www.youtube.com/watch?v=gso7gmZdvzY",
         "thumbnail": "https://i.ytimg.com/vi/gso7gmZdvzY/sddefault.jpg",
         "fTitle": "Silence\u2026 Can You Hear It?",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 36,
@@ -757,12 +757,12 @@
         "url": "https://www.youtube.com/watch?v=qqN_7gPaABk",
         "thumbnail": "https://i.ytimg.com/vi/qqN_7gPaABk/sddefault.jpg",
         "fTitle": "Jaago",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 42,
@@ -825,12 +825,12 @@
         "url": "https://www.youtube.com/watch?v=GorWoPjJ58g",
         "thumbnail": "https://i.ytimg.com/vi/GorWoPjJ58g/sddefault.jpg",
         "fTitle": "Jamai 2.0",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 46,
@@ -842,12 +842,12 @@
         "url": "https://www.youtube.com/watch?v=U6YVR6YNz_I",
         "thumbnail": "https://i.ytimg.com/vi/U6YVR6YNz_I/sddefault.jpg",
         "fTitle": "Dev DD 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 47,
@@ -927,12 +927,12 @@
         "url": "https://www.youtube.com/watch?v=cL-F8z_4mD4",
         "thumbnail": "https://i.ytimg.com/vi/cL-F8z_4mD4/sddefault.jpg",
         "fTitle": "LSD",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 51,
@@ -995,12 +995,12 @@
         "url": "https://www.youtube.com/watch?v=6DqSLijSY9I",
         "thumbnail": "https://i.ytimg.com/vi/6DqSLijSY9I/sddefault.jpg",
         "fTitle": "Kaagaz Movie Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 55,
@@ -1012,12 +1012,12 @@
         "url": "https://www.youtube.com/watch?v=1UH8tcKjIZk",
         "thumbnail": "https://i.ytimg.com/vi/1UH8tcKjIZk/sddefault.jpg",
         "fTitle": "Kaalidas",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 56,
@@ -1046,12 +1046,12 @@
         "url": "https://www.youtube.com/watch?v=Am7LuP0U0E0",
         "thumbnail": "https://i.ytimg.com/vi/Am7LuP0U0E0/sddefault.jpg?v=5fae54b7",
         "fTitle": "Shoot-out at Alair",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 58,
@@ -1114,12 +1114,12 @@
         "url": "https://www.youtube.com/watch?v=TLSjTuil09Q",
         "thumbnail": "https://i.ytimg.com/vi/TLSjTuil09Q/sddefault.jpg",
         "fTitle": "All New Episodes",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 62,
@@ -1165,12 +1165,12 @@
         "url": "https://www.youtube.com/watch?v=PU4PgmM9eNQ",
         "thumbnail": "https://i.ytimg.com/vi/PU4PgmM9eNQ/sddefault.jpg",
         "fTitle": "Comali",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 65,
@@ -1182,12 +1182,12 @@
         "url": "https://www.youtube.com/watch?v=IQFlWLjUmZc",
         "thumbnail": "https://i.ytimg.com/vi/IQFlWLjUmZc/sddefault.jpg",
         "fTitle": "Thanthu Vitten Ennai",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 66,
@@ -1199,12 +1199,12 @@
         "url": "https://www.youtube.com/watch?v=2UzMInAK5Y0",
         "thumbnail": "https://i.ytimg.com/vi/2UzMInAK5Y0/sddefault.jpg",
         "fTitle": "Meka Suri 2 ",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 67,
@@ -1216,12 +1216,12 @@
         "url": "https://www.youtube.com/watch?v=hLYJhtmuqiM",
         "thumbnail": "https://i.ytimg.com/vi/hLYJhtmuqiM/sddefault.jpg",
         "fTitle": "PUBGOA",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 68,
@@ -1284,12 +1284,12 @@
         "url": "https://www.youtube.com/watch?v=IWY5Qa6TAYo",
         "thumbnail": "https://i.ytimg.com/vi/IWY5Qa6TAYo/sddefault.jpg",
         "fTitle": "Taish Movie",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 72,
@@ -1318,12 +1318,12 @@
         "url": "https://www.youtube.com/watch?v=d7rhloDcDD4",
         "thumbnail": "https://i.ytimg.com/vi/d7rhloDcDD4/sddefault.jpg",
         "fTitle": "Poison 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 74,
@@ -1335,12 +1335,12 @@
         "url": "https://www.youtube.com/watch?v=5eo4Rhp7LGk",
         "thumbnail": "https://i.ytimg.com/vi/5eo4Rhp7LGk/sddefault.jpg",
         "fTitle": "New Episodes",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 75,
@@ -1369,12 +1369,12 @@
         "url": "https://www.youtube.com/watch?v=0anKho2PSv4",
         "thumbnail": "https://i.ytimg.com/vi/0anKho2PSv4/sddefault.jpg",
         "fTitle": "Abhay 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 77,
@@ -1386,12 +1386,12 @@
         "url": "https://www.youtube.com/watch?v=GhQbNc4e1F8",
         "thumbnail": "https://i.ytimg.com/vi/GhQbNc4e1F8/sddefault.jpg",
         "fTitle": "London Confidential",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 78,

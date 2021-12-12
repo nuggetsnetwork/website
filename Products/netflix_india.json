@@ -9,12 +9,12 @@
         "url": "https://www.youtube.com/watch?v=_0WvqBfZweY",
         "thumbnail": "https://i.ytimg.com/vi/_0WvqBfZweY/sddefault.jpg",
         "fTitle": "Cobra Kai",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 1,
@@ -30,8 +30,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 2,
@@ -43,12 +43,12 @@
         "url": "https://www.youtube.com/watch?v=wGlXX5rbPIU",
         "thumbnail": "https://i.ytimg.com/vi/wGlXX5rbPIU/sddefault.jpg",
         "fTitle": "DON\u2019T LOOK UP",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 3,
@@ -81,8 +81,8 @@
         "titleType": "video",
         "startYear": 2020.0,
         "genres": "Animation,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 4,
@@ -98,8 +98,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Crime,Drama,Mystery",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 5,
@@ -128,12 +128,12 @@
         "url": "https://www.youtube.com/watch?v=zYfu4HmfBwI",
         "thumbnail": "https://i.ytimg.com/vi/zYfu4HmfBwI/sddefault.jpg",
         "fTitle": "Elite: Short Stories 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 7,
@@ -145,12 +145,12 @@
         "url": "https://www.youtube.com/watch?v=XOf46XeU7jo",
         "thumbnail": "https://i.ytimg.com/vi/XOf46XeU7jo/sddefault.jpg",
         "fTitle": "DON\u2019T LOOK UP",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 8,
@@ -166,8 +166,8 @@
         "titleType": "tvSeries",
         "startYear": 2021.0,
         "genres": "Comedy,Drama",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 9,
@@ -179,12 +179,12 @@
         "url": "https://www.youtube.com/watch?v=D57ZNDi0lKQ",
         "thumbnail": "https://i.ytimg.com/vi/D57ZNDi0lKQ/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 10,
@@ -196,12 +196,12 @@
         "url": "https://www.youtube.com/watch?v=M-tpi-Cwsak",
         "thumbnail": "https://i.ytimg.com/vi/M-tpi-Cwsak/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 11,
@@ -213,12 +213,12 @@
         "url": "https://www.youtube.com/watch?v=RLUIZFS5y0k",
         "thumbnail": "https://i.ytimg.com/vi/RLUIZFS5y0k/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 12,
@@ -230,12 +230,12 @@
         "url": "https://www.youtube.com/watch?v=T0nTzf1DOXw",
         "thumbnail": "https://i.ytimg.com/vi/T0nTzf1DOXw/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 13,
@@ -247,12 +247,12 @@
         "url": "https://www.youtube.com/watch?v=TrSqCGl9txY",
         "thumbnail": "https://i.ytimg.com/vi/TrSqCGl9txY/sddefault.jpg",
         "fTitle": "The Witcher",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 14,
@@ -268,8 +268,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 15,
@@ -285,8 +285,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 16,
@@ -302,8 +302,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 17,
@@ -319,8 +319,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 18,
@@ -336,8 +336,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Action,Adventure,Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 19,
@@ -349,12 +349,12 @@
         "url": "https://www.youtube.com/watch?v=Pgk9sxbXM_Q",
         "thumbnail": "https://i.ytimg.com/vi/Pgk9sxbXM_Q/sddefault.jpg",
         "fTitle": "Tiger King 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 20,
@@ -366,12 +366,12 @@
         "url": "https://www.youtube.com/watch?v=0qRwrs3_j90",
         "thumbnail": "https://i.ytimg.com/vi/0qRwrs3_j90/sddefault.jpg",
         "fTitle": "RED NOTICE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 21,
@@ -383,12 +383,12 @@
         "url": "https://www.youtube.com/watch?v=AHRQ3cpslIY",
         "thumbnail": "https://i.ytimg.com/vi/AHRQ3cpslIY/sddefault.jpg",
         "fTitle": "RED NOTICE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 22,
@@ -400,12 +400,12 @@
         "url": "https://www.youtube.com/watch?v=sGsabVSiPXY",
         "thumbnail": "https://i.ytimg.com/vi/sGsabVSiPXY/sddefault.jpg",
         "fTitle": "RED NOTICE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 23,
@@ -417,12 +417,12 @@
         "url": "https://www.youtube.com/watch?v=ZzpLS6h2Jq0",
         "thumbnail": "https://i.ytimg.com/vi/ZzpLS6h2Jq0/sddefault.jpg",
         "fTitle": "RED NOTICE",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 24,
@@ -485,12 +485,12 @@
         "url": "https://www.youtube.com/watch?v=z5zG4yAh6Ow",
         "thumbnail": "https://i.ytimg.com/vi/z5zG4yAh6Ow/sddefault.jpg",
         "fTitle": "MAID",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 27,
@@ -574,8 +574,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 32,
@@ -587,12 +587,12 @@
         "url": "https://www.youtube.com/watch?v=8_SDE0knJuA",
         "thumbnail": "https://i.ytimg.com/vi/8_SDE0knJuA/sddefault.jpg",
         "fTitle": "Road to",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 33,
@@ -621,12 +621,12 @@
         "url": "https://www.youtube.com/watch?v=YYKi6quLMZs",
         "thumbnail": "https://i.ytimg.com/vi/YYKi6quLMZs/sddefault.jpg",
         "fTitle": "Escape The Undertaker",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 35,
@@ -638,12 +638,12 @@
         "url": "https://www.youtube.com/watch?v=DpdjD27qknI",
         "thumbnail": "https://i.ytimg.com/vi/DpdjD27qknI/sddefault.jpg",
         "fTitle": "TUDUM: India Spotlight",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 36,
@@ -655,12 +655,12 @@
         "url": "https://www.youtube.com/watch?v=I022OHEzxvE",
         "thumbnail": "https://i.ytimg.com/vi/I022OHEzxvE/sddefault.jpg",
         "fTitle": "Sex Education",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 37,
@@ -672,12 +672,12 @@
         "url": "https://www.youtube.com/watch?v=gGlZiJVifo8",
         "thumbnail": "https://i.ytimg.com/vi/gGlZiJVifo8/sddefault.jpg",
         "fTitle": "TUDUM: A GLOBAL FAN EVENT",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 38,
@@ -689,12 +689,12 @@
         "url": "https://www.youtube.com/watch?v=1f-uHsfO7GM",
         "thumbnail": "https://i.ytimg.com/vi/1f-uHsfO7GM/sddefault.jpg",
         "fTitle": "Sex Education",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 39,
@@ -723,12 +723,12 @@
         "url": "https://www.youtube.com/watch?v=aG8KWYko8VY",
         "thumbnail": "https://i.ytimg.com/vi/aG8KWYko8VY/sddefault.jpg",
         "fTitle": "Kota Factory 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 41,
@@ -757,12 +757,12 @@
         "url": "https://www.youtube.com/watch?v=zm_PXo1E8iI",
         "thumbnail": "https://i.ytimg.com/vi/zm_PXo1E8iI/sddefault.jpg",
         "fTitle": "Sex Education",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 43,
@@ -812,8 +812,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Crime,Drama,Horror",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 45,
@@ -825,12 +825,12 @@
         "url": "https://www.youtube.com/watch?v=Nj26w5E3Tc0",
         "thumbnail": "https://i.ytimg.com/vi/Nj26w5E3Tc0/sddefault.jpg",
         "fTitle": "Elite",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 46,
@@ -842,12 +842,12 @@
         "url": "https://www.youtube.com/watch?v=nopQrpYBNFs",
         "thumbnail": "https://i.ytimg.com/vi/nopQrpYBNFs/sddefault.jpg",
         "fTitle": "Elite",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 47,
@@ -859,12 +859,12 @@
         "url": "https://www.youtube.com/watch?v=Lv8D0Ora8-4",
         "thumbnail": "https://i.ytimg.com/vi/Lv8D0Ora8-4/sddefault.jpg",
         "fTitle": "Aryan & Meera: A Netflix India YouTube Show",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 48,
@@ -910,12 +910,12 @@
         "url": "https://www.youtube.com/watch?v=8nbCECPxTmI",
         "thumbnail": "https://i.ytimg.com/vi/8nbCECPxTmI/hqdefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 51,
@@ -927,12 +927,12 @@
         "url": "https://www.youtube.com/watch?v=1ZwtG1ncftc",
         "thumbnail": "https://i.ytimg.com/vi/1ZwtG1ncftc/hqdefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 1 ",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 52,
@@ -944,12 +944,12 @@
         "url": "https://www.youtube.com/watch?v=v7QUpsUiut0",
         "thumbnail": "https://i.ytimg.com/vi/v7QUpsUiut0/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 53,
@@ -961,12 +961,12 @@
         "url": "https://www.youtube.com/watch?v=bsLP_tFMDxo",
         "thumbnail": "https://i.ytimg.com/vi/bsLP_tFMDxo/sddefault.jpg",
         "fTitle": "Money Heist: Part 5 Vol. 1",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 54,
@@ -1033,8 +1033,8 @@
         "titleType": "movie",
         "startYear": 2021.0,
         "genres": "Comedy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 57,
@@ -1165,12 +1165,12 @@
         "url": "https://www.youtube.com/watch?v=fG9GyEjPq2A",
         "thumbnail": "https://i.ytimg.com/vi/fG9GyEjPq2A/sddefault.jpg",
         "fTitle": "Alma Matters: Inside The IIT Dream",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 65,
@@ -1199,12 +1199,12 @@
         "url": "https://www.youtube.com/watch?v=9LGrzIRR6Hc",
         "thumbnail": "https://i.ytimg.com/vi/9LGrzIRR6Hc/sddefault.jpg",
         "fTitle": "Searching For Sheela",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 67,
@@ -1250,12 +1250,12 @@
         "url": "https://www.youtube.com/watch?v=eJPAd72e8k4",
         "thumbnail": "https://i.ytimg.com/vi/eJPAd72e8k4/sddefault.jpg",
         "fTitle": "The Big Day: Collection 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 70,
@@ -1296,7 +1296,7 @@
         "plTitle": "Official Trailers",
         "title": "Pagglait | Official Trailer | Sanya Malhotra, Sayani Gupta & Ashutosh Rana",
         "views": 5219579,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-03-15",
         "url": "https://www.youtube.com/watch?v=0xVqPbvLzX4",
         "thumbnail": "https://i.ytimg.com/vi/0xVqPbvLzX4/sddefault.jpg",
@@ -1335,12 +1335,12 @@
         "url": "https://www.youtube.com/watch?v=e7HDLJMtwww",
         "thumbnail": "https://i.ytimg.com/vi/e7HDLJMtwww/sddefault.jpg",
         "fTitle": "Eeb Allay Ooo!",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 75,
@@ -1386,12 +1386,12 @@
         "url": "https://www.youtube.com/watch?v=IuxkqjSydUo",
         "thumbnail": "https://i.ytimg.com/vi/IuxkqjSydUo/sddefault.jpg",
         "fTitle": "Doob: No Bed of Roses",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 78,
@@ -1415,17 +1415,17 @@
         "plTitle": "Official Trailers",
         "title": "The Girl On The Train | Official Trailer | Parineeti Chopra, Aditi Rao Hydari & Kirti Kulhari",
         "views": 7685297,
-        "likes": NaN,
+        "likes": "",
         "publish_date": "2021-02-03",
         "url": "https://www.youtube.com/watch?v=LE8-4aRf5VQ",
         "thumbnail": "https://i.ytimg.com/vi/LE8-4aRf5VQ/sddefault.jpg",
         "fTitle": "The Girl On The Train",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 80,
@@ -1437,12 +1437,12 @@
         "url": "https://www.youtube.com/watch?v=7vD70_5Xadc",
         "thumbnail": "https://i.ytimg.com/vi/7vD70_5Xadc/sddefault.jpg",
         "fTitle": "Is Love Enough? Sir",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 81,
@@ -1607,12 +1607,12 @@
         "url": "https://www.youtube.com/watch?v=rtGIq9Xjnrw",
         "thumbnail": "https://i.ytimg.com/vi/rtGIq9Xjnrw/sddefault.jpg?v=5f22b712",
         "fTitle": "GUNJAN SAXENA: The Kargil Girl",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 91,
@@ -1624,12 +1624,12 @@
         "url": "https://www.youtube.com/watch?v=4qXoR6MrVwg",
         "thumbnail": "https://i.ytimg.com/vi/4qXoR6MrVwg/sddefault.jpg",
         "fTitle": "Mighty Little Bheem",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 92,
@@ -1641,12 +1641,12 @@
         "url": "https://www.youtube.com/watch?v=bABh0-x6GPI",
         "thumbnail": "https://i.ytimg.com/vi/bABh0-x6GPI/hqdefault.jpg",
         "fTitle": "Mighty Little Bheem",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 93,
@@ -1658,12 +1658,12 @@
         "url": "https://www.youtube.com/watch?v=alOqFkI85WE",
         "thumbnail": "https://i.ytimg.com/vi/alOqFkI85WE/sddefault.jpg",
         "fTitle": "Mighty Little Bheem Festival of Colors",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 94,
@@ -1675,12 +1675,12 @@
         "url": "https://www.youtube.com/watch?v=RqsEdMfXv-E",
         "thumbnail": "https://i.ytimg.com/vi/RqsEdMfXv-E/sddefault.jpg",
         "fTitle": "Beyond The Boundary: ICC Women's T20 World Cup Australia 2020",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 95,
@@ -1692,12 +1692,12 @@
         "url": "https://www.youtube.com/watch?v=jUJ7N_ahv4Y",
         "thumbnail": "https://i.ytimg.com/vi/jUJ7N_ahv4Y/sddefault.jpg",
         "fTitle": "\u090f\u0928\u094b\u0932\u093e \u0939\u094b\u092e\u094d\u0938 \u0939\u093f\u0902\u0926\u0940 \u091f\u094d\u0930\u0947\u0932\u0930",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 96,
@@ -1709,12 +1709,12 @@
         "url": "https://www.youtube.com/watch?v=8-3xEpIIsCM",
         "thumbnail": "https://i.ytimg.com/vi/8-3xEpIIsCM/sddefault.jpg",
         "fTitle": "\u090f \u0938\u0942\u091f\u0947\u092c\u0932 \u092c\u094c\u0910 \u0939\u093f\u0928\u094d\u0926\u0940 \u091f\u094d\u0930\u0947\u0932\u0930",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 97,
@@ -1743,12 +1743,12 @@
         "url": "https://www.youtube.com/watch?v=ww44r3aXs48",
         "thumbnail": "https://i.ytimg.com/vi/ww44r3aXs48/sddefault.jpg",
         "fTitle": "Emily In Paris",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 99,
@@ -1760,12 +1760,12 @@
         "url": "https://www.youtube.com/watch?v=TQI8HLPQnT0",
         "thumbnail": "https://i.ytimg.com/vi/TQI8HLPQnT0/sddefault.jpg",
         "fTitle": "The Umbrella Academy:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 100,
@@ -1811,12 +1811,12 @@
         "url": "https://www.youtube.com/watch?v=wlVAQMB7TDY",
         "thumbnail": "https://i.ytimg.com/vi/wlVAQMB7TDY/sddefault.jpg?v=5fcf4960",
         "fTitle": "Class of \u201983",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 103,
@@ -1828,12 +1828,12 @@
         "url": "https://www.youtube.com/watch?v=oDBQ5lCJ4Tc",
         "thumbnail": "https://i.ytimg.com/vi/oDBQ5lCJ4Tc/sddefault.jpg",
         "fTitle": "\u091a\u0932\u094b \u091a\u0932\u0947\u0902 \u091a\u0902\u0926\u093e \u092a\u0930",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 104,
@@ -1913,12 +1913,12 @@
         "url": "https://www.youtube.com/watch?v=IA8GXpQDtSA",
         "thumbnail": "https://i.ytimg.com/vi/IA8GXpQDtSA/sddefault.jpg",
         "fTitle": "Rooting for Roona",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 109,
@@ -1947,12 +1947,12 @@
         "url": "https://www.youtube.com/watch?v=as3YLG5DmL0",
         "thumbnail": "https://i.ytimg.com/vi/as3YLG5DmL0/sddefault.jpg",
         "fTitle": "Dolly Kitty Aur Woh Chamakte Sitare",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 111,
@@ -2032,12 +2032,12 @@
         "url": "https://www.youtube.com/watch?v=OuNJ8bkkoJM",
         "thumbnail": "https://i.ytimg.com/vi/OuNJ8bkkoJM/sddefault.jpg",
         "fTitle": "17 Upcoming Netflix Originals",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 115,
@@ -2066,12 +2066,12 @@
         "url": "https://www.youtube.com/watch?v=YSEVaVc-nOo",
         "thumbnail": "https://i.ytimg.com/vi/YSEVaVc-nOo/sddefault.jpg",
         "fTitle": "Betaal Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 117,
@@ -2100,12 +2100,12 @@
         "url": "https://www.youtube.com/watch?v=mSzmNFTlyrc",
         "thumbnail": "https://i.ytimg.com/vi/mSzmNFTlyrc/sddefault.jpg",
         "fTitle": "Malang Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 119,
@@ -2117,12 +2117,12 @@
         "url": "https://www.youtube.com/watch?v=1Upgl-MYCFM",
         "thumbnail": "https://i.ytimg.com/vi/1Upgl-MYCFM/sddefault.jpg",
         "fTitle": "Kenny Sebastian: The Most Interesting Person In The Room",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 120,
@@ -2151,12 +2151,12 @@
         "url": "https://www.youtube.com/watch?v=9Gg6rVq8H-0",
         "thumbnail": "https://i.ytimg.com/vi/9Gg6rVq8H-0/sddefault.jpg",
         "fTitle": "Hasmukh Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 122,
@@ -2185,12 +2185,12 @@
         "url": "https://www.youtube.com/watch?v=6sQ85MrpOPI",
         "thumbnail": "https://i.ytimg.com/vi/6sQ85MrpOPI/sddefault.jpg",
         "fTitle": "Guilty Official Trailer",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 124,
@@ -2202,12 +2202,12 @@
         "url": "https://www.youtube.com/watch?v=C7b0TAg0xMU",
         "thumbnail": "https://i.ytimg.com/vi/C7b0TAg0xMU/sddefault.jpg",
         "fTitle": "Amit Tandon: Family Tandoncies",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 125,
@@ -2236,12 +2236,12 @@
         "url": "https://www.youtube.com/watch?v=LwqYVSWQX-I",
         "thumbnail": "https://i.ytimg.com/vi/LwqYVSWQX-I/hqdefault.jpg",
         "fTitle": "Vir Das- For India",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 127,
@@ -2253,12 +2253,12 @@
         "url": "https://www.youtube.com/watch?v=AlOlJ7sZ9Zk",
         "thumbnail": "https://i.ytimg.com/vi/AlOlJ7sZ9Zk/sddefault.jpg",
         "fTitle": "Sex Education:",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 128,
@@ -2270,12 +2270,12 @@
         "url": "https://www.youtube.com/watch?v=XXHb9i-xXMU",
         "thumbnail": "https://i.ytimg.com/vi/XXHb9i-xXMU/sddefault.jpg",
         "fTitle": "Jamtara",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 129,
@@ -2287,12 +2287,12 @@
         "url": "https://www.youtube.com/watch?v=OnBN5b48HBc",
         "thumbnail": "https://i.ytimg.com/vi/OnBN5b48HBc/sddefault.jpg",
         "fTitle": "The Sky Is Pink",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 130,
@@ -2308,8 +2308,8 @@
         "titleType": "tvSeries",
         "startYear": 2020.0,
         "genres": "Fantasy",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 130,
@@ -2359,8 +2359,8 @@
         "titleType": "video",
         "startYear": 2021.0,
         "genres": "Music,Short",
-        "averageRating": NaN,
-        "numVotes": NaN
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 131,
@@ -2372,12 +2372,12 @@
         "url": "https://www.youtube.com/watch?v=P39ewgMDyZw",
         "thumbnail": "https://i.ytimg.com/vi/P39ewgMDyZw/sddefault.jpg",
         "fTitle": "Little Things 3",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 132,
@@ -2389,12 +2389,12 @@
         "url": "https://www.youtube.com/watch?v=kgnJFZZV728",
         "thumbnail": "https://i.ytimg.com/vi/kgnJFZZV728/sddefault.jpg",
         "fTitle": "Samantha Akkineni in Oh! Baby",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 133,
@@ -2406,12 +2406,12 @@
         "url": "https://www.youtube.com/watch?v=fMCTQ3ZKDdw",
         "thumbnail": "https://i.ytimg.com/vi/fMCTQ3ZKDdw/sddefault.jpg",
         "fTitle": "Upstarts",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 134,
@@ -2423,12 +2423,12 @@
         "url": "https://www.youtube.com/watch?v=xHWQiok-ei0",
         "thumbnail": "https://i.ytimg.com/vi/xHWQiok-ei0/sddefault.jpg",
         "fTitle": "Badla",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 135,
@@ -2440,12 +2440,12 @@
         "url": "https://www.youtube.com/watch?v=uDEDWhU7un0",
         "thumbnail": "https://i.ytimg.com/vi/uDEDWhU7un0/sddefault.jpg",
         "fTitle": "Lust Stories",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 136,
@@ -2457,12 +2457,12 @@
         "url": "https://www.youtube.com/watch?v=XuIVa_K59QE",
         "thumbnail": "https://i.ytimg.com/vi/XuIVa_K59QE/sddefault.jpg",
         "fTitle": "Dangal",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 137,
@@ -2474,12 +2474,12 @@
         "url": "https://www.youtube.com/watch?v=dxbCuuc-jp4",
         "thumbnail": "https://i.ytimg.com/vi/dxbCuuc-jp4/sddefault.jpg",
         "fTitle": "Chopsticks",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 138,
@@ -2491,12 +2491,12 @@
         "url": "https://www.youtube.com/watch?v=3eeCdA7O-6U",
         "thumbnail": "https://i.ytimg.com/vi/3eeCdA7O-6U/sddefault.jpg",
         "fTitle": "Leila",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 139,
@@ -2508,12 +2508,12 @@
         "url": "https://www.youtube.com/watch?v=bcsjQTOjaSY",
         "thumbnail": "https://i.ytimg.com/vi/bcsjQTOjaSY/sddefault.jpg",
         "fTitle": "Typewriter",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 140,
@@ -2525,12 +2525,12 @@
         "url": "https://www.youtube.com/watch?v=rNvbCx0dFiA",
         "thumbnail": "https://i.ytimg.com/vi/rNvbCx0dFiA/sddefault.jpg",
         "fTitle": "Bard of Blood",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 141,
@@ -2542,12 +2542,12 @@
         "url": "https://www.youtube.com/watch?v=Nme0it4iX94",
         "thumbnail": "https://i.ytimg.com/vi/Nme0it4iX94/hqdefault.jpg",
         "fTitle": "Article 15",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 142,
@@ -2559,12 +2559,12 @@
         "url": "https://www.youtube.com/watch?v=Gvu0daBJOW8",
         "thumbnail": "https://i.ytimg.com/vi/Gvu0daBJOW8/hqdefault.jpg",
         "fTitle": "Game Over (Hindi)",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 143,
@@ -2576,12 +2576,12 @@
         "url": "https://www.youtube.com/watch?v=1teWMRGOZwQ",
         "thumbnail": "https://i.ytimg.com/vi/1teWMRGOZwQ/sddefault.jpg",
         "fTitle": "Rubaru Roshni",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     },
     {
         "index": 144,
@@ -2593,11 +2593,11 @@
         "url": "https://www.youtube.com/watch?v=w-Xe8gLBc5I",
         "thumbnail": "https://i.ytimg.com/vi/w-Xe8gLBc5I/sddefault.jpg",
         "fTitle": "Sacred Games 2",
-        "tconst": NaN,
-        "titleType": NaN,
-        "startYear": NaN,
-        "genres": NaN,
-        "averageRating": NaN,
-        "numVotes": NaN
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0.0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0.0
     }
 ]
