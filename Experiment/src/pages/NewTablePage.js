@@ -9,17 +9,14 @@ import Icon from "@material-tailwind/react/Icon";
 
 import { useMediaQuery } from 'react-responsive';
 import { getMoviesData } from '../services/appService';
+import Popup from './Popup';
 const tableTypes = ['', 'bordered', 'striped', 'hover'];
 
 const NewTablePage = () => {
-  // const classes = useStyles();
   const [movie, setMovie] = useState([]);
-  const [search, setSearch] = useState("");
-  const [searchmonth, setSearchmonth] = useState("");
-
+  const [modalData,setModalData] = useState({isOpen: false,fTitle: '',imgUrl: ''});
   const isMobile = useMediaQuery({ query: `(max-width: 760px)` });
   const isTablet = useMediaQuery({ minWidth: 768, maxWidth: 991 })
-  console.log(isMobile);
   const options = {
     filtering: true,
     filterCellStyle: {
@@ -30,8 +27,10 @@ const NewTablePage = () => {
     pageSize: 10,
     pageSizeOptions: [25, 50, 100, 250],
     exportButton: true,
-
   };
+  const openModal = (rowData) => {
+    setModalData({isOpen: true,ftitle: rowData.fTitle,imgUrl: rowData.url})
+  }
 
   const columns = [
     {
@@ -88,15 +87,15 @@ const NewTablePage = () => {
 
       render: (rowData) => (
         <>
-          <a
+          {/* <a
             href={rowData.url}
             target="_blank"
             style={{ textDecoration: 'none' }}
-          >
+          > */}
             <div className="text-center">
-              <img width="100px" height="100px" class="rounded mr-2 mb-2 media-object" src={rowData.thumbnail} />
+              <img width="100px" height="100px" onClick={() => openModal(rowData)} className="rounded mr-2 mb-2 media-object" src={rowData.thumbnail} />
             </div>
-          </a>
+          {/* </a> */}
         </>
       ),
 
@@ -146,6 +145,8 @@ const NewTablePage = () => {
         columns={columns}
         options={options}
       />
+    {modalData.isOpen && <Popup isOpenModal={modalData.isOpen} ftitle={modalData.ftitle} imgUrl={modalData.imgUrl} closeModal={()=> setModalData({isOpen: false,fTitle: '',imgUrl: ''})}></Popup>
+}
 
       {tableTypes.map((tableType, index) => (
         <Row key={index}>

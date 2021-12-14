@@ -34,6 +34,7 @@ import bn from '../../utils/bemnames';
 import ReactPlayer from 'react-player';
 
 import { Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
+import Popup from '../../pages/Popup.js';
 const bem = bn.create('header');
 
 let noOfCallsNotifications = 0;
@@ -160,16 +161,16 @@ class Header extends React.Component {
 
     document.querySelector('.cr-sidebar').classList.toggle('cr-sidebar--open');
   };
-  openInModal = (url,ftitle) => {
+  openInModal = (url, ftitle) => {
     if (this.state.isOpenModal) {
 
     } else {
       this.setState({
         isOpenModal: !this.state.isOpenModal,
         imgUrl: url,
-        ftitle:ftitle
+        ftitle: ftitle
       });
-      this.setState({isOpenNotificationPopover: !this.state.isOpenNotificationPopover});
+      this.setState({ isOpenNotificationPopover: !this.state.isOpenNotificationPopover });
     }
   }
   render() {
@@ -213,7 +214,7 @@ class Header extends React.Component {
                 style={{ top: '2rem' }}
               >
                 <PopoverBody>
-                  <Notifications notificationsData={this.state.notificationData} openModal={(url,ftitle) => this.openInModal(url,ftitle)} />
+                  <Notifications notificationsData={this.state.notificationData} openModal={(url, ftitle) => this.openInModal(url, ftitle)} />
                 </PopoverBody>
               </Popover>
             </NavItem>
@@ -266,23 +267,8 @@ class Header extends React.Component {
             </NavItem>
           </Nav>
         </Navbar>
-        <Modal
-          isOpen={this.state.isOpenModal}
-          scrollable={false}
-          centered={true}
-          keyboard={true} toggle={() => this.setState({isOpenModal: !this.state.isOpenModal})}>
-          <ModalHeader toggle={() => this.setState({isOpenModal: !this.state.isOpenModal})}>
-          {this.state.ftitle}
-          </ModalHeader>
-          <ModalBody>
-            <div className='player-wrapper'>
-              <ReactPlayer className='react-player'
-                width='100%'
-                height='100%' controls={true} playing={true} url={this.state.imgUrl} />
-            </div>
-          </ModalBody>
-
-        </Modal>
+        {this.state.isOpenModal && <Popup isOpenModal={this.state.isOpenModal} ftitle={this.state.ftitle} imgUrl={this.state.imgUrl} closeModal={() => this.setState({ isOpenModal: !this.state.isOpenModal })}></Popup>
+        }
       </>
 
     );

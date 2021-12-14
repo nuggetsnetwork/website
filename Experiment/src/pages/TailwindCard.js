@@ -38,7 +38,6 @@ const TailwindCard = ({ title, subscribers, image, color, link, viewCountMillion
     focus:outline-none mt-4 ease-linear transition-all duration-150" type="button"
                         > <i class="fas fa-location-arrow"></i></button>
                     </Col>
-
                 </Row>
             </Card>
         </>
