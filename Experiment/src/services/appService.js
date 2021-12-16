@@ -4,7 +4,7 @@ import axios from 'axios'
 const details = [
     // 'yt_channels',
     'sonyliv',
-    'imdb_excel_2_json', ////netflix
+    'Netflix', ////netflix
     'netflix_india',
     'amazon_india',
     'amazon_prime',

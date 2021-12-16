@@ -39,6 +39,8 @@ const bem = bn.create('header');
 
 let noOfCallsNotifications = 0;
 let noOfCallsProfileCard = 0;
+let response = [];
+
 const MdNotificationsActiveWithBadge = withBadge({
   size: 'md',
   color: 'primary',
@@ -49,7 +51,7 @@ const MdNotificationsActiveWithBadge = withBadge({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  children: <small>12</small>,
+  children: <small>10</small>,
 })(MdNotificationsActive);
 // const isMobile = useMediaQuery({ maxWidth: 768 })
 var isMobile = window.navigator.userAgent.toLowerCase().match(/mobile/i);
@@ -70,7 +72,7 @@ class Header extends React.Component {
       let array = [];
       for (let j of res[6].data) {
         switch (j.name) {
-          case 'Netflix': array['imdb_excel_2_json'] = j.img; break;
+          case 'Netflix': array['Netflix'] = j.img; break;
           case 'NetFlix_India': array['netflix_india'] = j.img; break;
           case 'Amazon_Prime': array['amazon_prime'] = j.img; break;
           case 'Amazon_India': array['amazon_india'] = j.img; break;
@@ -79,15 +81,12 @@ class Header extends React.Component {
         }
       }
       console.log(array);
-      for (let i = 0; i < 5; i++) {
+      for (let i = 0; i < 6; i++) {
         let split = (res[i].request.responseURL.split('https://nuggetsnetwork.com/Products/'))[1].split('.json');
-        console.log(split[0]);
-        if (i === 1 || i === 2) {
-          this.collectRecords(this.mapNotifyDetails1(res[i].data), array[split[0]]);
-        } else {
-          this.collectRecords(this.mapNotifyDetails(res[i].data), array[split[0]])
-        }
+          this.collectRecords(this.mapNotifyDetails1(res[i].data,2), array[split[0]])
       }
+      console.log(response);
+      this.setState({notificationData: this.mapNotifyDetails1(response,10)})
     }).catch(err => {
       console.log(err)
     });
@@ -95,19 +94,19 @@ class Header extends React.Component {
   collectRecords(data, collectIcons) {
     for (let i of data) {
       i['img'] = collectIcons;
-      this.setState({ notificationData: this.state.notificationData.concat(i) })
+      response.push(i);
     }
   }
-  mapNotifyDetails = (array) => {
+  mapNotifyDetails = (array,numOfRecords) => {
     /// the date formate is  11/12/21 <= sorting and giving latest 5 results
-    return array.sort((a, b) => new Date(...b['publish_date'].split('/').reverse()) - new Date(...a['publish_date'].split('/').reverse())).slice(0, 2);
+    return array.sort((a, b) => new Date(...b['publish_date'].split('/').reverse()) - new Date(...a['publish_date'].split('/').reverse())).slice(0, numOfRecords);
   }
-  mapNotifyDetails1 = (array) => {
+  mapNotifyDetails1 = (array,numOfRecords) => {
     /// the date formate is  2021-01-12 <= sorting and giving latest 5 results
     return array.sort((a, b) => {
       return new Date(a.publish_date).getTime() -
         new Date(b.publish_date).getTime()
-    }).reverse().slice(0, 2);
+    }).reverse().slice(0, numOfRecords);
   }
 
   toggleNotificationPopover = () => {
