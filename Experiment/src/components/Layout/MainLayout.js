@@ -94,9 +94,9 @@ class MainLayout extends React.Component {
     const { children } = this.props;
     return (
       <main className="cr-app bg-light">
-        <Sidebar />
+        <Sidebar isMainLayout="Y" />
         <Content fluid onClick={this.handleContentClick}>
-          <Header />
+          <Header isMainLayout="Y"/>
           {children}
           <Footer />
         </Content>

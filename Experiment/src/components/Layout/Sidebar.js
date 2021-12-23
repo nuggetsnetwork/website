@@ -80,7 +80,16 @@ const pageContents = [
     Icon: MdViewCarousel,
   },
 ];
-
+const publicContents = [
+  { to: '/login', name: 'login', exact: false, Icon: MdAccountCircle },
+  { to: '/signUp', name: 'sign Up', exact: false, Icon: MdAccountCircle },
+  {
+    to: '/resetpassword',
+    name: 'Forgot password',
+    exact: false,
+    Icon: MdViewCarousel,
+  },
+];
 const navItems = [
   { to: '/', name: 'dashboard', exact: true, Icon: MdDashboard },
   { to: '/', name: 'netflix', exact: true, Icon: MdNotificationsActive },
@@ -92,6 +101,9 @@ const navItems = [
 const bem = bn.create('sidebar');
 
 class Sidebar extends React.Component {
+  constructor(props) {
+    super(props);
+  }
   state = {
     isOpenComponents: true,
     isOpenContents: true,
@@ -127,7 +139,7 @@ class Sidebar extends React.Component {
               </span>
             </SourceLink>
           </Navbar>
-          <Nav vertical>
+        {this.props.isMainLayout === 'Y' ?  <Nav vertical>
             {navItems.map(({ to, name, exact, Icon }, index) => (
               <NavItem key={index} className={bem.e('nav-item')}>
                 <BSNavLink
@@ -263,7 +275,24 @@ class Sidebar extends React.Component {
                 </NavItem>
               ))}
             </Collapse>
-          </Nav>
+          </Nav> : 
+          <Nav vertical>
+            {publicContents.map(({ to, name, exact, Icon }, index) => (
+                <NavItem key={index} className={bem.e('nav-item')}>
+                  <BSNavLink
+                    id={`navItem-${name}-${index}`}
+                    className="text-uppercase"
+                    tag={NavLink}
+                    to={to}
+                    activeClassName="active"
+                    exact={exact}
+                  >
+                    <Icon className={bem.e('nav-item-icon')} />
+                    <span className="">{name}</span>
+                  </BSNavLink>
+                </NavItem>
+              ))}
+          </Nav>}
         </div>
       </aside>
     );

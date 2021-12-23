@@ -2,8 +2,9 @@ import logo200Image from '../assets/img/logo/logo_200.png';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Button, Form, FormGroup, Input, Label, FormFeedback, FormText } from 'reactstrap';
+import { Card, Col, Row, Alert } from 'reactstrap';
 
-class AuthForm extends React.Component {
+class LoginForm extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -17,18 +18,18 @@ class AuthForm extends React.Component {
       errors: []
     };
   }
-  get isLogin() {
-    return this.props.authState === STATE_LOGIN;
-  }
+//   get isLogin() {
+//     return this.props.authState === STATE_LOGIN;
+//   }
 
-  get isSignup() {
-    return this.props.authState === STATE_SIGNUP;
-  }
+//   get isSignup() {
+//     return this.props.authState === STATE_SIGNUP;
+//   }
 
-  changeAuthState = authState => event => {
-    event.preventDefault();
-    this.props.onChangeAuthState(authState);
-  };
+//   changeAuthState = authState => event => {
+//     event.preventDefault();
+//     // this.props.onChangeAuthState(authState);
+//   };
 
   handleSubmit = event => {
     event.preventDefault();
@@ -36,7 +37,7 @@ class AuthForm extends React.Component {
     this.setState({ submitted: true });
     console.log('calling')
     console.log(this.state);
-    this.props.handleSubmit(this.isLogin, this.state);
+    // this.props.handleSubmit(this.isLogin, this.state);
   };
   handleChange = (e) => {
     const { name, value } = e.target;
@@ -46,19 +47,19 @@ class AuthForm extends React.Component {
   };
 
 
-  renderButtonText() {
-    const { buttonText } = this.props;
+//   renderButtonText() {
+//     const { buttonText } = this.props;
 
-    if (!buttonText && this.isLogin) {
-      return 'Login';
-    }
+//     if (!buttonText && this.isLogin) {
+//       return 'Login';
+//     }
 
-    if (!buttonText && this.isSignup) {
-      return 'Signup';
-    }
+//     if (!buttonText && this.isSignup) {
+//       return 'Signup';
+//     }
 
-    return buttonText;
-  }
+//     return buttonText;
+//   }
   validateEmail(e) {
     const emailRegex = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
@@ -107,7 +108,20 @@ class AuthForm extends React.Component {
     } = this.props;
 
     return (
-      <Form>
+        <Row
+        style={{
+          height: '100vh',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}>
+  
+        <Col md={6} lg={4}>
+  
+          <Card body>
+            {/* {errors && <Alert color="danger">
+              {errors}
+            </Alert>} */}
+                 <Form>
         {showLogo && (
           <div className="text-center pb-4">
             <img
@@ -156,10 +170,24 @@ class AuthForm extends React.Component {
           block type="submit"
           onClick={this.handleSubmit}
           >
-          {this.renderButtonText()}
+         Login
         </Button>
+        <div className="text-center pt-1">
+          <h6>or</h6>
+        </div>
+        <Button
+            size="lg"
+            className="bg-gradient-theme-left border-0 pt-1"
+            block type="button"
+            // onClick={loginWGoogle}
+          >
+            Login with Google
+          </Button>
         {children}
       </Form>
+          </Card>
+        </Col>
+      </Row>
     );
   }
 }
@@ -167,7 +195,7 @@ class AuthForm extends React.Component {
 export const STATE_LOGIN = 'LOGIN';
 export const STATE_SIGNUP = 'SIGNUP';
 
-AuthForm.propTypes = {
+LoginForm.propTypes = {
   authState: PropTypes.oneOf([STATE_LOGIN, STATE_SIGNUP]).isRequired,
   showLogo: PropTypes.bool,
   emailLabel: PropTypes.string,
@@ -179,7 +207,7 @@ AuthForm.propTypes = {
   onLogoClick: PropTypes.func,
 };
 
-AuthForm.defaultProps = {
+LoginForm.defaultProps = {
   authState: 'LOGIN',
   showLogo: true,
   emailLabel: 'Email',
@@ -200,4 +228,4 @@ AuthForm.defaultProps = {
   onLogoClick: () => { },
 };
 
-export default AuthForm;
+export default LoginForm;
