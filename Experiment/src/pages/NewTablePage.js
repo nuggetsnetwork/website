@@ -1,106 +1,154 @@
-import Page from 'components/Page';
+import Page from '../components/Page';
 import React from 'react';
 import { Card, CardBody, CardHeader, Col, Row, Table } from 'reactstrap';
 import axios from "axios";
 import { useEffect, useState } from "react";
 import MaterialTable from 'material-table';
 // import { withStyles, makeStyles } from "@material-ui/core/styles";
+import Icon from "@material-tailwind/react/Icon";
 
+import { useMediaQuery } from 'react-responsive';
+import { getMoviesData } from '../services/appService';
+import Popup from './Popup';
 const tableTypes = ['', 'bordered', 'striped', 'hover'];
 
 const NewTablePage = () => {
-    // const classes = useStyles();
-    const [movie, setMovie] = useState([]);
-    const [search, setSearch] = useState("");
-    const [searchmonth, setSearchmonth] = useState("");
-  
-    const getMovieData = async () => {
-      try {
-        const data = await axios.get(
-          "https://nuggetsnetwork.com/Products/imdb_excel_2_json.json"
-          // "http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
-        );
-        console.log(data.data);
-        setMovie(data.data);
-      } catch (e) {
-        console.log(e);
-      }
-    };
-    
-    const columns=[
-        {
-            title:'Movie Name',field:'fTitle',
-            cellStyle:{
-                backgroundColor: '#039be5',
-                color:'#FFF'
-            },
-            headerStyle: {
-                backgroundColor: '#039be5',
-                color:'#FFF',
-                fontSize:25
-              }
-        },
-        {
-            title:'Month',field:'plTitle',
-            headerStyle: {
-                backgroundColor: '#039be5',
-                color:'#FFF',
-                fontSize:25
-              }
-        },
-        {
-            title:'Views',field:'views', defaultSort:'desc',
-            headerStyle: {
-                backgroundColor: '#039be5',
-                color:'#FFF',
-                fontSize:25,
-              }
-        },
-        {
-            title:'Likes',field:'likes',
-            headerStyle: {
-                backgroundColor: '#039be5',
-                color:'#FFF',
-                fontSize:25
-              }
-        },
-        {
-            title:'IMDB Rating',field:'Rating',
-            headerStyle: {
-                backgroundColor: '#039be5',
-                color:'#FFF',
-                fontSize:25
-              }
-        }
-    ]
+  const [movie, setMovie] = useState([]);
+  const [modalData,setModalData] = useState({isOpen: false,fTitle: '',imgUrl: ''});
+  const isMobile = useMediaQuery({ query: `(max-width: 760px)` });
+  const isTablet = useMediaQuery({ minWidth: 768, maxWidth: 991 })
+  const options = {
+    filtering: true,
+    filterCellStyle: {
+      backgroundColor: '#A9E3FF',
+      color: '#FFF'
+    },
+    paging: true,
+    pageSize: 10,
+    pageSizeOptions: [25, 50, 100, 250],
+    exportButton: true,
+  };
+  const openModal = (rowData) => {
+    setModalData({isOpen: true,ftitle: rowData.fTitle,imgUrl: rowData.url})
+  }
 
-    useEffect(() => {
-      getMovieData();
-    }, []);
+  const columns = [
+    {
+      title: 'Movie Name',
+      field: 'title',
+      cellStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF'
+      },
+      headerStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF',
+      },
+      render: (rowData) => (
+        rowData && (
+          <><img width="24" height="24" src={rowData.thumbnail} /> {rowData.title}</>
+        )
+      )
+    },
+    {
+      title: 'New Series', field: 'plTitle',
+      headerStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF',
+      }
+    },
+    {
+      title: 'Views', field: 'views', defaultSort: 'desc',
+      headerStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF',
+      }
+    },
+    {
+      title: 'Likes', field: 'likes',
+      headerStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF',
+      }
+    },
+    // {
+    //   title: 'IMDB Rating', field: 'Rating',
+    //   headerStyle: {
+    //     backgroundColor: '#039be5',
+    //     color: '#FFF',
+    //   }
+    // },
+    {
+      title: 'Link', field: 'url',
+      headerStyle: {
+        backgroundColor: '#039be5',
+        color: '#FFF',
+      },
+
+      render: (rowData) => (
+        <>
+          {/* <a
+            href={rowData.url}
+            target="_blank"
+            style={{ textDecoration: 'none' }}
+          > */}
+            <div className="text-center">
+              <img width="100px" height="100px" onClick={() => openModal(rowData)} className="rounded mr-2 mb-2 media-object" src={rowData.thumbnail} />
+            </div>
+          {/* </a> */}
+        </>
+      ),
+
+    }
+  ]
+  // if(isMobile) {
+  //   options['headerStyle'] = {
+  //     fontSize: columns.length >5 ? 10 : 12,
+  //       padding:5
+  //   }
+  //   options['rowStyle'] = {
+  //     fontSize:columns.length >5 ? 9 : 10,
+  //     padding: 5
+  //   }
+  //   options['cellStyle'] = {
+  //     padding: 3
+  //   }
+  // }
+  // if(isTablet) {
+  //   options['headerStyle'] = {
+  //     fontSize: columns.length >5 ? 12 : 16,
+  //       padding:8
+  //   }
+  //   options['rowStyle'] = {
+  //     fontSize:columns.length >5 ? 12 : 14,
+  //     padding: 8
+  //   }
+  //   options['cellStyle'] = {
+  //     padding: 5
+  //   }
+  // }
+  useEffect(() => {
+    getMoviesData().then(res => {
+      setMovie(res.data);
+    }).catch(error => {
+      console.log(error);
+    })
+  }, []);
   return (
     <Page
       title="NetFlix"
       breadcrumbs={[{ name: 'netflix', active: true }]}
       className="NewTablePage"
     >
-    
-    <MaterialTable title="Movie Trailers Tracker"
+      <MaterialTable title="Movie Trailers Tracker"
         data={movie}
         columns={columns}
-        options={{
-            filtering:true,
-            filterCellStyle:{
-                backgroundColor: '#A9E3FF',
-                color:'#FFF'
-            },
-            paging:true,
-            pageSize:10,
-            pageSizeOptions: [25, 50, 100, 250],
-            exportButton:true
-        }}
-        />
-     
-      {/* {tableTypes.map((tableType, index) => (
+        options={options}
+      />
+    {modalData.isOpen && <Popup isOpenModal={modalData.isOpen} ftitle={modalData.ftitle} imgUrl={modalData.imgUrl} closeModal={()=> setModalData({isOpen: false,fTitle: '',imgUrl: ''})}></Popup>
+}
+
+      {tableTypes.map((tableType, index) => (
         <Row key={index}>
           <Col>
             <Card className="mb-3">
@@ -183,7 +231,7 @@ const NewTablePage = () => {
         </Row>
       ))}
 
-      <Row>
+      {/* <Row>
         <Col>
           <Card className="mb-3">
             <CardHeader>Contextual</CardHeader>
@@ -448,7 +496,7 @@ const NewTablePage = () => {
         </Col>
       </Row> */}
     </Page>
-    
+
   );
 };
 
