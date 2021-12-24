@@ -1,9 +1,7 @@
-import axios from 'axios';
 import React from 'react'
 // Testing Firebase
 import { signInWithPopup, GoogleAuthProvider, signOut } from "firebase/auth";
 import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
-// import { firebaseapp, auth, googleProvider, db } from '../authFirebase/firebase';
 import { firebaseapp, auth, googleProvider, db } from '../authFirebase/firebase';
 import {
     collection, addDoc, getDoc, setDoc, doc, updateDoc,
@@ -64,8 +62,6 @@ export const loginWithGoogle = (props) => async (dispatch) => {
             dispatch({ type: USER_LOGIN_SUCCESS, payload: data });
             await setDoc(doc(db, "googleUsers", user['email']), data);
             localStorage.setItem('userInfo', JSON.stringify(data));
-            // props.history.push('/dashboard');
-            // window.location.reload();
         }).catch((error) => {
             // Handle Errors here.
             const errorCode = error.code;
@@ -75,9 +71,6 @@ export const loginWithGoogle = (props) => async (dispatch) => {
             // The AuthCredential type that was used.
             const credential = GoogleAuthProvider.credentialFromError(error);
             dispatch({ type: USER_LOGIN_FAIL, payload: { message: 'AuthCredential type Error. Please try again later.' } });
-            // ...
-            console.log(error);
-
         });
 }
 export const logout = () => async (dispatch) => {
@@ -107,7 +100,6 @@ export const register = ({ email, password }) => async (dispatch) => {
                 isLoggedInWithGoogle: 'No'
             });
             await dispatch({ type: USER_REGISTER_SUCCESS, payload: { uid: user.uid, accessToken: user.accessToken, email: user.email, displayName: user.displayName } });
-            // localStorage.setItem('userInfo', JSON.stringify(user));
         })
         .catch((error) => {
             const errorCode = error.code;
@@ -116,16 +108,13 @@ export const register = ({ email, password }) => async (dispatch) => {
             dispatch({ type: USER_REGISTER_FAIL, payload: { message: 'Please signup with another account. User may exist already.' } });
         });
 }
-
-export const changePassword = async ({ email, password }) => {
+/////// Reset password change password forgot password
+export const isUserExists = async (email) => {
     const docRef = doc(db, "users", email);
-    // return await getDoc(docRef);
-    const docSnap = await getDoc(docRef);
-    let data = docSnap.data();
-
-    console.log(data);
-
+    return await getDoc(docRef);
+}
+export const resetPassword = async ({ email, password }, data) => {
     data['password'] = password;
     return await setDoc(doc(db, "users", email), data);
-
 }
+

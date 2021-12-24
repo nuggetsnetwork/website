@@ -24,8 +24,8 @@ const AuthPage = (props) => {
   const [errors, setErrors] = useState('');
 
   useEffect(() => {
+    setErrors(null)
     if (userLogin.userInfo) {
-      setErrors('');
       props.history.push('/dashboard');
     } else if (userLogin.error) {
       setErrors(userLogin.error.message);
@@ -41,9 +41,12 @@ const AuthPage = (props) => {
     console.log(userRegister)
     // return () => { setErrors(''); userLogin.userInfo = null; userRegister.loading = true; };
   }, [history, userRegister]);
-
+// useEffect(() => {
+// setErrors('')
+// }, [])
   const handleAuthState = authState => {
     console.log(userRegister);
+    setErrors(null);
     setAuthState(authState);
     if (authState === STATE_LOGIN) {
       props.history.push('/login');
@@ -59,6 +62,7 @@ const AuthPage = (props) => {
     dispatch(loginWithGoogle(props));
   }
   const submit = async (isLogin, data) => {
+    setErrors('');
     if (authState === STATE_LOGIN) {
       await dispatch(login(data));
       await new Promise((resolve, reject) => setTimeout(() => resolve(), 1500));
@@ -72,12 +76,6 @@ const AuthPage = (props) => {
       } else if (err !== null) {
         setErrors(err.message);
       }
-      // if (userLogin.userInfo) {
-      //   setErrors('');
-      //   props.history.push('/dashboard');
-      // } else if (userLogin.error) {
-      //   setErrors(userLogin.error.message);
-      // }
     } else {
       await dispatch(register(data));
     }

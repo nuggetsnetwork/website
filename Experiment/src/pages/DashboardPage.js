@@ -17,6 +17,7 @@ import {
   todosData,
   userProgressTableData,
 } from '../demos/dashboardPage';
+import { Spinner,Start,Stop } from '../components/spinner';
 import React from 'react';
 import { Bar, Line } from 'react-chartjs-2';
 import {
@@ -50,22 +51,10 @@ import TailwindCard from './TailwindCard';
 import { getProductDetails } from '../services/appService';
 
 import OwlCarouselSlider from './OwlCarouselSlider.js';
-import Typography from '../components/Typography';
-// import fireAuth  from '../authFirebase/firebase';
-// import firebase from 'firebase';
 
-// Testing Firebase
-import { signInWithPopup, GoogleAuthProvider, signOut } from "firebase/auth";
-import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
-import { firebaseapp, auth, googleProvider, db } from '../authFirebase/firebase';
-import {
-  collection, addDoc, getDoc, setDoc, doc, updateDoc,
-  arrayUnion, arrayRemove, increment, deleteDoc, deleteField
-} from "firebase/firestore";
 import { useDispatch, useSelector } from 'react-redux';
 import { useEffect, useState } from 'react';
-import { login, logout } from '../actions/userActions';
-import { history } from '../store';
+
 const today = new Date();
 const lastWeek = new Date(
   today.getFullYear(),
@@ -80,23 +69,23 @@ const DashboardPage = (props) => {
   const dispatch = useDispatch()
   const userLogin = useSelector((state) => state.userLogin);
   const { loading, error, userInfo } = userLogin;
-
+  const { isSpin, setSpinner } =useState(false);
   useEffect(() => {
     // this is needed, because InfiniteCalendar forces window scroll
     window.scrollTo(0, 0);
+    document.getElementById('spinner').style.display = 'none';
     getProductDetails().then(res => {
       setCardData(res.data);
     });
   }, [userInfo]);
  
-
-
   return (
     <Page
       className="DashboardPage"
       title="Dashboard"
       breadcrumbs={[{ name: 'Dashboard', active: true }]}
     >
+     {isSpin &&  <Spinner/> }
       <Row className="my-3">
         {cardData.map((c) => (
           <Col lg={3} md={6} sm={6} xs={12} key={c.index}>

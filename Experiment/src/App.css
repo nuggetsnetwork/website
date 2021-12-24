@@ -83,6 +83,13 @@
   outline: none;
   box-shadow: inset 0 0 1px 1px lightgrey;
 }
+
+/* to load animation for a specific spinner */
+@import "~spinners-react/lib/SpinnerCircular.css";
+
+/* to load animations for all spinners at once */
+@import "~spinners-react/lib/index.css";
+
 button.rec-dot{
   display: none;
   background-color: rgb(235, 16, 16);
@@ -102,4 +109,15 @@ button.rec-dot:hover, button.rec-dot:active, button.rec-dot:focus  {
   position: absolute;
   top: 0;
   left: 0;
+}
+#overlay {
+  position: absolute;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+  cursor: pointer;
 }

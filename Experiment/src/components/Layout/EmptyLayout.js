@@ -4,11 +4,13 @@ import Sidebar from './Sidebar.js';
 import Avatar from '../Avatar.js';
 import React, { useState, useEffect } from 'react';
 import {
-  MdClearAll,MdExitToApp,MdHelp,MdInsertChart,
-  MdMessage,MdNotificationsActive,MdNotificationsNone,MdPersonPin,MdSettingsApplications,} from 'react-icons/md';
-import { Button, Nav, Navbar} from 'reactstrap';
+  MdClearAll, MdExitToApp, MdHelp, MdInsertChart,
+  MdMessage, MdNotificationsActive, MdNotificationsNone, MdPersonPin, MdSettingsApplications,
+} from 'react-icons/md';
+import { Button, Nav, Navbar } from 'reactstrap';
 import bn from '../../utils/bemnames';
 import componentQueries from 'react-component-queries';
+import { Spinner, Start, Stop } from '../spinner';
 const bem = bn.create('header');
 
 class EmptyLayout extends React.Component {
@@ -30,6 +32,9 @@ class EmptyLayout extends React.Component {
 
   componentDidMount() {
     this.checkBreakpoint(this.props.breakpoint);
+    setTimeout(() => {
+      Stop()
+    }, 3000)
   }
 
   // close sidebar when
@@ -76,19 +81,23 @@ class EmptyLayout extends React.Component {
   render() {
     const { children } = this.props;
     return (
-      <main className="cr-app bg-light">
-        <Sidebar isMainLayout="N" />
-        <Content fluid onClick={this.handleContentClick}>
-        <Navbar light expand className={bem.b('bg-white')}>
-        <Nav navbar className="mr-2">
-          <Button outline onClick={this.handleSidebarControlButton}>
-            <MdClearAll size={25} />
-          </Button>
-        </Nav>
-      </Navbar>
-          {children}
-        </Content>
-      </main>
+      <>
+        <Spinner></Spinner>
+        <main className="cr-app bg-light">
+          <Sidebar isMainLayout="N" />
+          <Content fluid onClick={this.handleContentClick}>
+            <Navbar light expand className={bem.b('bg-white')}>
+              <Nav navbar className="mr-2">
+                <Button outline onClick={this.handleSidebarControlButton}>
+                  <MdClearAll size={25} />
+                </Button>
+              </Nav>
+            </Navbar>
+            {children}
+          </Content>
+        </main>
+      </>
+
     );
   }
 }

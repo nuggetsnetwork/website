@@ -1,52 +1,49 @@
 import logo200Image from '../assets/img/logo/logo_200.png';
 import PropTypes from 'prop-types';
 import React, { useState, useEffect } from 'react';
-import { Button, Form, FormGroup, Input, Label, FormText } from 'reactstrap';
+import { Button, Form, FormGroup, Input, Label, FormFeedback, FormText } from 'reactstrap';
 import { Card, Col, Row, Alert } from 'reactstrap';
+import { history } from '../store';
 import { useDispatch, useSelector } from 'react-redux';
-import { login, loginWithGoogle } from '../actions/userActions';
-import { validateEmail, validatePassword, validateLoginFields,isEmpty } from '../services/validate';
-import { Spinner, Start, Stop } from './spinner';
-const LoginForm = (props) => {
+import { register } from '../actions/userActions';
+import { isEmptyFields,validateFields,validateEmail,validatePassword, validateConfirmPassword} from '../services/validate';
+
+const RegisterPage = (props) => {
     const dispatch = useDispatch()
-    const userLogin = useSelector((state) => state.userLogin);
-    const { userInfo, error } = userLogin;
-    const [data, setData] = useState({email: '',password: ''});
+    const userRegister = useSelector((state) => state.userRegister);
+    const { error, loading } = userRegister;
+    const [data, setData] = useState({ email: '', password: '', confirmPassword: '' });
     const [validate, setValidate] = useState({});
     const [errors, setErrors] = useState('');
-    const [isSpin, setSpinner] = useState(false);
     useEffect(() => {
-        console.log(userLogin);
-        if (userInfo) {
+        console.log(userRegister);
+        if (loading === false) {
             setErrors('');
-            setSpinner(false);
-
-            props.history.push('/dashboard');
-        } else if (error) {
-            setSpinner(false);
+            props.history.push('/login');
+        }
+        if (error) {
             setErrors(error.message);
         }
         return () => {
-            setSpinner(false);
-            // userInfo = null;
+            userRegister['loading'] = true;
         }
-    }, [userLogin]);
-    const submit = async (event) => {
+    }, [userRegister]);
+    const handleRegister = async (event) => {
+        const { message, status } = validateFields(validate['email'], validate['password'], validate['confirmPassword']);
+        const checkInputs = isEmptyFields(data['email'], data['password'], data['confirmPassword']);
         event.preventDefault();
-        const { message, status } = validateLoginFields(validate['email'], validate['password']);
-        const checkInputs = isEmpty(data['email'], data['password']);
+        
         if (status === 'failed') {
             setErrors(message);
         } else if (checkInputs) {
             setErrors('All fields are required.');
         } else {
-            await dispatch(login(data));
+            await dispatch(register(data));
             setErrors('');
         }
+
     }
-    const loginWGoogle = async () => {
-        dispatch(loginWithGoogle(props));
-    }
+
     const handleChange = (e) => {
         const { name, value } = e.target;
         const checkboxvalue = e.target.type === 'checkbox' ? e.target.checked : e.target.value;
@@ -57,6 +54,9 @@ const LoginForm = (props) => {
     }
     const passwordValidation = (e) => {
         setValidate({ password: validatePassword(e) });
+    }
+    const confirmPassword = (e) => {
+        setValidate({ confirmPassword: validateConfirmPassword(data['password'], e) })
     }
 
     const {
@@ -77,9 +77,9 @@ const LoginForm = (props) => {
                 justifyContent: 'center',
                 alignItems: 'center',
             }}>
-            {isSpin && <Spinner />}
 
             <Col md={6} lg={4}>
+
                 <Card body>
                     {errors && <Alert color="danger">
                         {errors}
@@ -117,26 +117,24 @@ const LoginForm = (props) => {
                                 }} />
                             <FormText>Password must contains atleast one uppercase,lowercase & special character letters</FormText>
                         </FormGroup>
-
+                        <FormGroup>
+                            <Label for={confirmPasswordLabel}>{confirmPasswordLabel}</Label>
+                            <Input {...confirmPasswordInputProps} name='confirmPassword'
+                                valid={validate.confirmPassword === 'has-success'}
+                                invalid={validate.confirmPassword === 'has-danger'}
+                                onChange={(e) => {
+                                    handleChange(e);
+                                    confirmPassword(e)
+                                }} />
+                        </FormGroup>
                         <hr />
                         <Button
                             size="lg"
                             className="bg-gradient-theme-left border-0"
                             block type="submit"
-                            onClick={submit}
+                            onClick={handleRegister}
                         >
-                            Login
-                        </Button>
-                        <div className="text-center pt-1">
-                            <h6>or</h6>
-                        </div>
-                        <Button
-                            size="lg"
-                            className="bg-gradient-theme-left border-0 pt-1"
-                            block type="button"
-                            onClick={loginWGoogle}
-                        >
-                            Login with Google
+                            SignUP
                         </Button>
                         {children}
                     </Form>
@@ -149,7 +147,7 @@ const LoginForm = (props) => {
 export const STATE_LOGIN = 'LOGIN';
 export const STATE_SIGNUP = 'SIGNUP';
 
-LoginForm.propTypes = {
+RegisterPage.propTypes = {
     authState: PropTypes.oneOf([STATE_LOGIN, STATE_SIGNUP]).isRequired,
     showLogo: PropTypes.bool,
     emailLabel: PropTypes.string,
@@ -161,7 +159,7 @@ LoginForm.propTypes = {
     onLogoClick: PropTypes.func,
 };
 
-LoginForm.defaultProps = {
+RegisterPage.defaultProps = {
     authState: 'LOGIN',
     showLogo: true,
     emailLabel: 'Email',
@@ -182,4 +180,5 @@ LoginForm.defaultProps = {
     onLogoClick: () => { },
 };
 
-export default LoginForm;
+export default RegisterPage;
+

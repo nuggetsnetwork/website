@@ -41,6 +41,7 @@
     "redux": "^4.1.2",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
+    "spinners-react": "^1.0.6",
     "validator": "^13.7.0",
     "victory": "^32.0.0"
   },

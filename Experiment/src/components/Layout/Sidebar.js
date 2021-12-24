@@ -81,18 +81,18 @@ const pageContents = [
   },
 ];
 const publicContents = [
-  { to: '/login', name: 'login', exact: false, Icon: MdAccountCircle },
-  { to: '/signUp', name: 'sign Up', exact: false, Icon: MdAccountCircle },
+  { to: '/login', name: 'login', exact: true, Icon: MdAccountCircle },
+  { to: '/signUp', name: 'sign Up', exact: true, Icon: MdAccountCircle },
   {
     to: '/resetpassword',
     name: 'Forgot password',
-    exact: false,
+    exact: true,
     Icon: MdViewCarousel,
   },
 ];
 const navItems = [
-  { to: '/', name: 'dashboard', exact: true, Icon: MdDashboard },
-  { to: '/', name: 'netflix', exact: true, Icon: MdNotificationsActive },
+  { to: '/dashboard', name: 'dashboard', exact: true, Icon: MdDashboard },
+  { to: '/dashboard', name: 'netflix', exact: true, Icon: MdNotificationsActive },
   { to: '/cards', name: 'cards', exact: false, Icon: MdWeb },
   { to: '/charts', name: 'charts', exact: false, Icon: MdInsertChart },
   { to: '/widgets', name: 'widgets', exact: false, Icon: MdWidgets },

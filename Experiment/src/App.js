@@ -20,6 +20,9 @@ import { useDispatch, useSelector } from 'react-redux';
 import { history } from './store';
 import PrivateRoute from './PrivateRoutes';
 import ChangePasswordPage from './pages/ChangePasswordPage';
+import LoginForm from './components/LoginPage';
+import RegisterPage from './components/RegisterPage';
+import { SpinnerCircular } from 'spinners-react';
 
 const AlertPage = React.lazy(() => import('./pages/AlertPage'));
 const AuthModalPage = React.lazy(() => import('./pages/AuthModalPage'));
@@ -65,7 +68,7 @@ const App = (props) => {
             path="/login"
             layout={EmptyLayout}
             component={props => (
-              <AuthPage {...props} authState={STATE_LOGIN} />
+              <LoginForm {...props} authState={STATE_LOGIN} />
             )}
             breakpoint={props.breakpoint}
           />
@@ -74,7 +77,7 @@ const App = (props) => {
             path="/signup"
             layout={EmptyLayout}
             component={props => (
-              <AuthPage {...props} authState={STATE_SIGNUP} />
+              <RegisterPage {...props} authState={STATE_SIGNUP} />
             )}
           />
           <LayoutRoute
@@ -137,104 +140,6 @@ const App = (props) => {
     </BrowserRouter>
   );
 }
-// class App extends React.Component {
-//   constructor(props) {
-//     super(props);
-
-//     // Set initial state (ONLY ALLOWED IN CONSTRUCTOR)
-//     this.state = {
-//       isLoggedIn: false
-//     };
-//   }
-//   componentDidMount() {
-//     // auth.onAuthStateChanged((user) => {
-//     //   if (user) {
-//     //     // setIsLoggedIn(true);
-//     //     this.setState({ isLoggedIn: true });
-//     //     console.log("User is logged in");
-//     //     console.log(user);
-//     //     // history.push('/dashboard');
-//     //   } else {
-//     //     // setIsLoggedIn(false);
-//     //     this.setState({ isLoggedIn: false });
-//     //     console.log("User is logged out");
-//     //   }
-//     // });
-//   }
-//   render() {
-//     return (
-//       <BrowserRouter basename={getBasename()} history={history}>
-//         <GAListener>
-//           <Switch>
-//             <LayoutRoute
-//               exact
-//               path="/login"
-//               layout={EmptyLayout}
-//               component={props => (
-//                 <AuthPage {...props} authState={STATE_LOGIN} />
-//               )}
-//             />
-//             <LayoutRoute
-//               exact
-//               path="/signup"
-//               layout={EmptyLayout}
-//               component={props => (
-//                 <AuthPage {...props} authState={STATE_SIGNUP} />
-//               )}
-//             />
-
-//             <MainLayout breakpoint={this.props.breakpoint}>
-//               <React.Suspense fallback={<PageSpinner />}>
-//                 <PrivateRoute
-//                   exact
-//                   path="/"
-//                   component={DashboardPage}
-//                 ></PrivateRoute>
-//                 <PrivateRoute
-//                   exact
-//                   path="/dashboard"
-//                   component={DashboardPage}
-//                 ></PrivateRoute>
-//                 {/* <Route exact path="/dashboard" component={DashboardPage} /> */}
-//                 {/* <Route exact path="/" component={DashboardPage} /> */}
-//                 {/* <Route exact path="/">
-//                   <Redirect to="/dashboard" />
-//                 </Route> */}
-//                 <Route exact path="/login-modal" component={AuthModalPage} />
-//                 <Route exact path="/buttons" component={ButtonPage} />
-//                 <Route exact path="/cards" component={CardPage} />
-//                 <Route exact path="/widgets" component={WidgetPage} />
-//                 <Route exact path="/typography" component={TypographyPage} />
-//                 <Route exact path="/alerts" component={AlertPage} />
-//                 <Route exact path="/tables" component={TablePage} />
-//                 <PrivateRoute
-//                   exact
-//                   path="/newtables"
-//                   component={NewTablePage}
-//                 ></PrivateRoute>
-//                 {/* <Route exact path="/newtables" component={NewTablePage} /> */}
-//                 <Route exact path="/badges" component={BadgePage} />
-//                 <Route
-//                   exact
-//                   path="/button-groups"
-//                   component={ButtonGroupPage}
-//                 />
-//                 <Route exact path="/dropdowns" component={DropdownPage} />
-//                 <Route exact path="/progress" component={ProgressPage} />
-//                 <Route exact path="/modals" component={ModalPage} />
-//                 <Route exact path="/forms" component={FormPage} />
-//                 <Route exact path="/input-groups" component={InputGroupPage} />
-//                 <Route exact path="/charts" component={ChartPage} />
-//                 <PrivateRoute exact path="**" component={AuthPage}></PrivateRoute>
-//               </React.Suspense>
-//             </MainLayout>
-//             <Redirect to="/" />
-//           </Switch>
-//         </GAListener>
-//       </BrowserRouter>
-//     );
-//   }
-// }
 
 const query = ({ width }) => {
   if (width < 575) {
