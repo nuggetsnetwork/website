@@ -11,10 +11,10 @@
         "fTitle": "Keshu Ee Veedinte Nadhan",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 1,
@@ -28,10 +28,10 @@
         "fTitle": "Anbarivu",
         "tconst": "tt13648270",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Drama",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 2,
@@ -45,10 +45,10 @@
         "fTitle": "Parampara",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 3,
@@ -62,10 +62,10 @@
         "fTitle": "Keshu Ee Veedinte Nadhan",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 4,
@@ -79,10 +79,10 @@
         "fTitle": "Encanto",
         "tconst": "tt2953050",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Animation,Comedy",
         "averageRating": 7.7,
-        "numVotes": 5538.0
+        "numVotes": 5538
     },
     {
         "index": 5,
@@ -96,10 +96,10 @@
         "fTitle": "Encanto",
         "tconst": "tt2953050",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Animation,Comedy",
         "averageRating": 7.7,
-        "numVotes": 5538.0
+        "numVotes": 5538
     },
     {
         "index": 6,
@@ -113,10 +113,10 @@
         "fTitle": "Encanto",
         "tconst": "tt2953050",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Animation,Comedy",
         "averageRating": 7.7,
-        "numVotes": 5538.0
+        "numVotes": 5538
     },
     {
         "index": 7,
@@ -130,10 +130,10 @@
         "fTitle": "Aarya S2",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 8,
@@ -147,10 +147,10 @@
         "fTitle": "Galatta Kalyaanam",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 9,
@@ -164,10 +164,10 @@
         "fTitle": "Atrangi Re",
         "tconst": "tt9766332",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Drama,Romance",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 10,
@@ -181,10 +181,10 @@
         "fTitle": "Dil Bekaraar",
         "tconst": "tt15892034",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 8.2,
-        "numVotes": 137.0
+        "numVotes": 137
     },
     {
         "index": 11,
@@ -198,10 +198,10 @@
         "fTitle": "Sneakerella",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 12,
@@ -215,10 +215,10 @@
         "fTitle": "Limitless with Chris Hemsworth",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 13,
@@ -232,10 +232,10 @@
         "fTitle": "Welcome to Earth",
         "tconst": "tt13623992",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Documentary",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 14,
@@ -249,10 +249,10 @@
         "fTitle": "Baymax",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 15,
@@ -266,10 +266,10 @@
         "fTitle": "The Ice Age Adventures of Buck Wild",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 16,
@@ -283,10 +283,10 @@
         "fTitle": "Pon Manickavel",
         "tconst": "tt8983306",
         "titleType": "movie",
-        "startYear": 2020.0,
+        "startYear": 2020,
         "genres": "Action",
         "averageRating": 4.5,
-        "numVotes": 354.0
+        "numVotes": 354
     },
     {
         "index": 17,
@@ -300,10 +300,10 @@
         "fTitle": "Adbhutham",
         "tconst": "tt14994064",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Romance,Sci-Fi",
         "averageRating": 7.7,
-        "numVotes": 611.0
+        "numVotes": 611
     },
     {
         "index": 18,
@@ -317,27 +317,10 @@
         "fTitle": "Cash",
         "tconst": "tt12070274",
         "titleType": "tvSeries",
-        "startYear": 2020.0,
+        "startYear": 2020,
         "genres": "Short",
         "averageRating": 0.0,
-        "numVotes": 0.0
-    },
-    {
-        "index": 18,
-        "plTitle": "Trailers",
-        "title": "Cash | Official Trailer | Amol Parashar, Kavin Dave, Smriti Kalra, Vishesh Bhatt | 19th November",
-        "views": 1340158,
-        "likes": 22044,
-        "publish_date": "2021-11-08T09:30:05Z",
-        "url": "https://www.youtube.com/watch?v=IFAVGXWTeIc",
-        "thumbnail": "https://i.ytimg.com/vi/IFAVGXWTeIc/hqdefault.jpg",
-        "fTitle": "Cash",
-        "tconst": "tt15831978",
-        "titleType": "movie",
-        "startYear": 2021.0,
-        "genres": "Comedy,Drama",
-        "averageRating": 7.4,
-        "numVotes": 1661.0
+        "numVotes": 0
     },
     {
         "index": 19,
@@ -351,10 +334,10 @@
         "fTitle": "The Book Of Boba Fett",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 20,
@@ -368,10 +351,10 @@
         "fTitle": "Shang-Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 21,
@@ -385,10 +368,10 @@
         "fTitle": "Shang-Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 22,
@@ -402,10 +385,10 @@
         "fTitle": "Shang-Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 23,
@@ -419,10 +402,10 @@
         "fTitle": "Shang- Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 24,
@@ -436,10 +419,10 @@
         "fTitle": "Shang-Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 25,
@@ -453,10 +436,10 @@
         "fTitle": "Shang-Chi & The Legend of Ten Rings",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 26,
@@ -470,10 +453,10 @@
         "fTitle": "Jungle Cruise",
         "tconst": "tt0870154",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 6.6,
-        "numVotes": 143949.0
+        "numVotes": 143949
     },
     {
         "index": 27,
@@ -487,10 +470,10 @@
         "fTitle": "Jungle Cruise",
         "tconst": "tt0870154",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 6.6,
-        "numVotes": 143949.0
+        "numVotes": 143949
     },
     {
         "index": 28,
@@ -504,10 +487,10 @@
         "fTitle": "Jungle Cruise",
         "tconst": "tt0870154",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 6.6,
-        "numVotes": 143949.0
+        "numVotes": 143949
     },
     {
         "index": 29,
@@ -521,10 +504,10 @@
         "fTitle": "Jungle Cruise",
         "tconst": "tt0870154",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 6.6,
-        "numVotes": 143949.0
+        "numVotes": 143949
     },
     {
         "index": 30,
@@ -538,10 +521,10 @@
         "fTitle": "Jungle Cruise",
         "tconst": "tt0870154",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 6.6,
-        "numVotes": 143949.0
+        "numVotes": 143949
     },
     {
         "index": 31,
@@ -555,10 +538,10 @@
         "fTitle": "Gully Rowdy",
         "tconst": "tt13672658",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 5.9,
-        "numVotes": 361.0
+        "numVotes": 361
     },
     {
         "index": 32,
@@ -572,10 +555,10 @@
         "fTitle": "Sanak",
         "tconst": "tt13912632",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Thriller",
         "averageRating": 7.0,
-        "numVotes": 7472.0
+        "numVotes": 7472
     },
     {
         "index": 33,
@@ -589,10 +572,10 @@
         "fTitle": "Sanak",
         "tconst": "tt13912632",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Thriller",
         "averageRating": 7.0,
-        "numVotes": 7472.0
+        "numVotes": 7472
     },
     {
         "index": 34,
@@ -606,27 +589,10 @@
         "fTitle": "Diary of a Wimpy Kid",
         "tconst": "tt13623944",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Animation",
         "averageRating": 0.0,
-        "numVotes": 0.0
-    },
-    {
-        "index": 34,
-        "plTitle": "Trailers",
-        "title": "Diary of a Wimpy Kid | Official Trailer | Disney+ Hotstar",
-        "views": 19527,
-        "likes": 511,
-        "publish_date": "2021-10-20T04:21:46Z",
-        "url": "https://www.youtube.com/watch?v=6EI9sd_vY1E",
-        "thumbnail": "https://i.ytimg.com/vi/6EI9sd_vY1E/hqdefault.jpg",
-        "fTitle": "Diary of a Wimpy Kid",
-        "tconst": "tt13834480",
-        "titleType": "movie",
-        "startYear": 2021.0,
-        "genres": "Animation,Comedy,Drama",
-        "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 35,
@@ -640,10 +606,10 @@
         "fTitle": "Special Ops 1.5",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 36,
@@ -657,10 +623,10 @@
         "fTitle": "Olaf Presents",
         "tconst": "tt15475608",
         "titleType": "tvMiniSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Animation,Comedy,Family",
         "averageRating": 7.4,
-        "numVotes": 1199.0
+        "numVotes": 1199
     },
     {
         "index": 37,
@@ -674,10 +640,10 @@
         "fTitle": "HOME SWEET HOME ALONE",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 38,
@@ -691,10 +657,10 @@
         "fTitle": "HOME SWEET HOME ALONE",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 39,
@@ -708,10 +674,10 @@
         "fTitle": "HOME SWEET HOME ALONE",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 40,
@@ -725,10 +691,10 @@
         "fTitle": "Seetimaarr",
         "tconst": "tt11580944",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Drama,Sport",
         "averageRating": 5.5,
-        "numVotes": 993.0
+        "numVotes": 993
     },
     {
         "index": 41,
@@ -742,10 +708,10 @@
         "fTitle": "Hum Do Hamare Do -",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 42,
@@ -759,10 +725,10 @@
         "fTitle": "Sanak",
         "tconst": "tt13912632",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Thriller",
         "averageRating": 7.0,
-        "numVotes": 7472.0
+        "numVotes": 7472
     },
     {
         "index": 43,
@@ -776,10 +742,10 @@
         "fTitle": "FAUCI",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 44,
@@ -793,10 +759,10 @@
         "fTitle": "Free Guy",
         "tconst": "tt6264654",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 7.2,
-        "numVotes": 218578.0
+        "numVotes": 218578
     },
     {
         "index": 45,
@@ -810,10 +776,10 @@
         "fTitle": "Free Guy",
         "tconst": "tt6264654",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Comedy",
         "averageRating": 7.2,
-        "numVotes": 218578.0
+        "numVotes": 218578
     },
     {
         "index": 46,
@@ -827,10 +793,10 @@
         "fTitle": "Welcome to Earth",
         "tconst": "tt13623992",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Documentary",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 47,
@@ -844,10 +810,10 @@
         "fTitle": "LIFT",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 48,
@@ -861,10 +827,10 @@
         "fTitle": "Shiddat -",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 49,
@@ -878,27 +844,10 @@
         "fTitle": "Unheard",
         "tconst": "tt15176226",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Documentary",
         "averageRating": 7.6,
-        "numVotes": 22.0
-    },
-    {
-        "index": 49,
-        "plTitle": "Trailers",
-        "title": "Hotstar Specials Unheard | Official Trailer | All Episodes Streaming September 17",
-        "views": 4551578,
-        "likes": 1271,
-        "publish_date": "2021-09-10T06:29:49Z",
-        "url": "https://www.youtube.com/watch?v=lofGhNt3_Ak",
-        "thumbnail": "https://i.ytimg.com/vi/lofGhNt3_Ak/hqdefault.jpg",
-        "fTitle": "Unheard",
-        "tconst": "tt15381296",
-        "titleType": "tvSeries",
-        "startYear": 2021.0,
-        "genres": "Drama,History",
-        "averageRating": 8.1,
-        "numVotes": 47.0
+        "numVotes": 22
     },
     {
         "index": 50,
@@ -912,10 +861,10 @@
         "fTitle": "Twenty Something + Nona Combo",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 51,
@@ -929,27 +878,10 @@
         "fTitle": "Unheard",
         "tconst": "tt15176226",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Documentary",
         "averageRating": 7.6,
-        "numVotes": 22.0
-    },
-    {
-        "index": 51,
-        "plTitle": "Trailers",
-        "title": "Hotstar Specials Unheard | Official Trailer | All Episodes Streaming September 17",
-        "views": 1360562,
-        "likes": 3658,
-        "publish_date": "2021-09-07T08:31:14Z",
-        "url": "https://www.youtube.com/watch?v=nb5uoQq9SD4",
-        "thumbnail": "https://i.ytimg.com/vi/nb5uoQq9SD4/hqdefault.jpg",
-        "fTitle": "Unheard",
-        "tconst": "tt15381296",
-        "titleType": "tvSeries",
-        "startYear": 2021.0,
-        "genres": "Drama,History",
-        "averageRating": 8.1,
-        "numVotes": 47.0
+        "numVotes": 22
     },
     {
         "index": 52,
@@ -963,10 +895,10 @@
         "fTitle": "Annabelle Sethupathi",
         "tconst": "tt15302290",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Fantasy,Horror",
         "averageRating": 3.6,
-        "numVotes": 1975.0
+        "numVotes": 1975
     },
     {
         "index": 53,
@@ -980,10 +912,10 @@
         "fTitle": "Annabelle Rathore",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 54,
@@ -997,10 +929,10 @@
         "fTitle": "Annabelle Sethupathi",
         "tconst": "tt15302290",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Fantasy,Horror",
         "averageRating": 3.6,
-        "numVotes": 1975.0
+        "numVotes": 1975
     },
     {
         "index": 55,
@@ -1014,10 +946,10 @@
         "fTitle": "Annabelle Sethupathi",
         "tconst": "tt15302290",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Fantasy,Horror",
         "averageRating": 3.6,
-        "numVotes": 1975.0
+        "numVotes": 1975
     },
     {
         "index": 56,
@@ -1031,10 +963,10 @@
         "fTitle": "Annabelle Sethupathi",
         "tconst": "tt15302290",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Fantasy,Horror",
         "averageRating": 3.6,
-        "numVotes": 1975.0
+        "numVotes": 1975
     },
     {
         "index": 57,
@@ -1048,10 +980,10 @@
         "fTitle": "Dug Days",
         "tconst": "tt13624054",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Animation,Comedy",
         "averageRating": 8.2,
-        "numVotes": 2718.0
+        "numVotes": 2718
     },
     {
         "index": 58,
@@ -1065,10 +997,10 @@
         "fTitle": "Happier Than Ever: A Love Letter to LA",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 59,
@@ -1082,10 +1014,10 @@
         "fTitle": "Maestro",
         "tconst": "tt13130400",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Crime,Drama,Music",
         "averageRating": 7.1,
-        "numVotes": 1027.0
+        "numVotes": 1027
     },
     {
         "index": 60,
@@ -1099,10 +1031,10 @@
         "fTitle": "Cruella",
         "tconst": "tt3228774",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Comedy,Crime",
         "averageRating": 7.4,
-        "numVotes": 192338.0
+        "numVotes": 192338
     },
     {
         "index": 61,
@@ -1116,10 +1048,10 @@
         "fTitle": "Cruella",
         "tconst": "tt3228774",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Comedy,Crime",
         "averageRating": 7.4,
-        "numVotes": 192338.0
+        "numVotes": 192338
     },
     {
         "index": 62,
@@ -1133,10 +1065,10 @@
         "fTitle": "Cruella",
         "tconst": "tt3228774",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Comedy,Crime",
         "averageRating": 7.4,
-        "numVotes": 192338.0
+        "numVotes": 192338
     },
     {
         "index": 63,
@@ -1150,10 +1082,10 @@
         "fTitle": "Cruella",
         "tconst": "tt3228774",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Adventure,Comedy,Crime",
         "averageRating": 7.4,
-        "numVotes": 192338.0
+        "numVotes": 192338
     },
     {
         "index": 64,
@@ -1167,10 +1099,10 @@
         "fTitle": "Marvel Studio\u2019s Black Widow",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 65,
@@ -1184,10 +1116,10 @@
         "fTitle": "Marvel Studio\u2019s Black Widow",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 66,
@@ -1201,10 +1133,10 @@
         "fTitle": "Black Widow",
         "tconst": "tt3480822",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Sci-Fi",
         "averageRating": 6.7,
-        "numVotes": 288049.0
+        "numVotes": 288049
     },
     {
         "index": 67,
@@ -1218,10 +1150,10 @@
         "fTitle": "Marvel Studio\u2019s Black Widow",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 68,
@@ -1235,10 +1167,10 @@
         "fTitle": "Black Widow",
         "tconst": "tt3480822",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Adventure,Sci-Fi",
         "averageRating": 6.7,
-        "numVotes": 288049.0
+        "numVotes": 288049
     },
     {
         "index": 69,
@@ -1252,10 +1184,10 @@
         "fTitle": "Marvel Studio\u2019s Black Widow",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 70,
@@ -1269,10 +1201,10 @@
         "fTitle": "The Empire",
         "tconst": "tt15012366",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Drama,History",
         "averageRating": 4.1,
-        "numVotes": 16114.0
+        "numVotes": 16114
     },
     {
         "index": 71,
@@ -1286,10 +1218,10 @@
         "fTitle": "Bhoot Police",
         "tconst": "tt10083640",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Comedy,Horror",
         "averageRating": 7.1,
-        "numVotes": 25076.0
+        "numVotes": 25076
     },
     {
         "index": 72,
@@ -1303,10 +1235,10 @@
         "fTitle": "The Empire",
         "tconst": "tt15012366",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Drama,History",
         "averageRating": 4.1,
-        "numVotes": 16114.0
+        "numVotes": 16114
     },
     {
         "index": 73,
@@ -1320,10 +1252,10 @@
         "fTitle": "The Empire",
         "tconst": "tt15012366",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Drama,History",
         "averageRating": 4.1,
-        "numVotes": 16114.0
+        "numVotes": 16114
     },
     {
         "index": 74,
@@ -1337,10 +1269,10 @@
         "fTitle": "The Empire",
         "tconst": "tt15012366",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Action,Drama,History",
         "averageRating": 4.1,
-        "numVotes": 16114.0
+        "numVotes": 16114
     },
     {
         "index": 75,
@@ -1354,10 +1286,10 @@
         "fTitle": "Bhuj: The Pride Of India -",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 76,
@@ -1371,10 +1303,10 @@
         "fTitle": "The Legend of Hanuman",
         "tconst": "tt13854248",
         "titleType": "tvSeries",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Animation",
         "averageRating": 9.0,
-        "numVotes": 6204.0
+        "numVotes": 6204
     },
     {
         "index": 77,
@@ -1388,10 +1320,10 @@
         "fTitle": "Netrikann",
         "tconst": "tt10973118",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Crime,Drama,Mystery",
         "averageRating": 6.0,
-        "numVotes": 3234.0
+        "numVotes": 3234
     },
     {
         "index": 78,
@@ -1405,10 +1337,10 @@
         "fTitle": "Netrikann",
         "tconst": "tt10973118",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Crime,Drama,Mystery",
         "averageRating": 6.0,
-        "numVotes": 3234.0
+        "numVotes": 3234
     },
     {
         "index": 79,
@@ -1422,10 +1354,10 @@
         "fTitle": "Netrikann",
         "tconst": "tt10973118",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Crime,Drama,Mystery",
         "averageRating": 6.0,
-        "numVotes": 3234.0
+        "numVotes": 3234
     },
     {
         "index": 80,
@@ -1439,10 +1371,10 @@
         "fTitle": "Netrikann",
         "tconst": "tt10973118",
         "titleType": "movie",
-        "startYear": 2021.0,
+        "startYear": 2021,
         "genres": "Crime,Drama,Mystery",
         "averageRating": 6.0,
-        "numVotes": 3234.0
+        "numVotes": 3234
     },
     {
         "index": 81,
@@ -1456,10 +1388,10 @@
         "fTitle": "City Of Dreams",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 82,
@@ -1473,10 +1405,10 @@
         "fTitle": "Ray And The Last Dragon",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 83,
@@ -1490,10 +1422,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Ankahi Ansuni",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 84,
@@ -1507,10 +1439,10 @@
         "fTitle": "Bhuj: The Pride Of India -",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 85,
@@ -1524,10 +1456,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Shit Yaar",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 86,
@@ -1541,10 +1473,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 87,
@@ -1558,10 +1490,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Six",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 88,
@@ -1575,10 +1507,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Bhopal to Vegas",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 89,
@@ -1592,10 +1524,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Chattis Aur Maina",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 90,
@@ -1609,10 +1541,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Murder Meri Jaan",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 91,
@@ -1626,10 +1558,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Teen Do Paanch",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 92,
@@ -1643,10 +1575,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Hamara Bar Happy Hour",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 93,
@@ -1660,10 +1592,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Bamini and Boys",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 94,
@@ -1677,10 +1609,10 @@
         "fTitle": "Disney+ Hotstar Quix Presents Mukesh Jasoos",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 95,
@@ -1694,10 +1626,10 @@
         "fTitle": "1962 The War In The Hills",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     },
     {
         "index": 96,
@@ -1711,9 +1643,9 @@
         "fTitle": "Hotstar Premium",
         "tconst": "",
         "titleType": "",
-        "startYear": 0.0,
+        "startYear": 0,
         "genres": "",
         "averageRating": 0.0,
-        "numVotes": 0.0
+        "numVotes": 0
     }
 ]
