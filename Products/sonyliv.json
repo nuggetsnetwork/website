@@ -1,31 +1,31 @@
 [
     {
         "index": 0,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Rocket Boys | Official Trailer | SonyLIV Originals | Web Series | 4th February",
-        "views": 15524683,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Rocket Boys | SonyLIV Originals | Web Series | Streaming Now",
+        "views": 6322,
         "likes": 0,
-        "publish_date": "2022-01-20",
-        "url": "https://www.youtube.com/watch?v=rOD-78_0pPU",
-        "thumbnail": "https://i.ytimg.com/vi/rOD-78_0pPU/sddefault.jpg",
+        "publish_date": "2022-02-03",
+        "url": "https://www.youtube.com/watch?v=h3NnhRokX_0",
+        "thumbnail": "https://i.ytimg.com/vi/h3NnhRokX_0/sddefault.jpg",
         "fTitle": "Rocket Boys",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
         "averageRating": 0.0,
         "numVotes": 0
     },
     {
         "index": 1,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Bhoothakaalam | Malayalam Film | Official Trailer | SonyLIV | Streaming Now",
-        "views": 1879,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Narai Ezhuthum Suyasaritham | Tamil Movie | Official Trailer | SonyLIV | Streaming Now",
+        "views": 1566,
         "likes": 0,
-        "publish_date": "2022-01-20",
-        "url": "https://www.youtube.com/watch?v=EZUa-Ely3Ek",
-        "thumbnail": "https://i.ytimg.com/vi/EZUa-Ely3Ek/sddefault.jpg",
-        "fTitle": "Bhoothakaalam",
+        "publish_date": "2022-02-03",
+        "url": "https://www.youtube.com/watch?v=WKzuW3WdDMo",
+        "thumbnail": "https://i.ytimg.com/vi/WKzuW3WdDMo/sddefault.jpg",
+        "fTitle": "Narai Ezhuthum Suyasaritham",
         "tconst": "",
         "titleType": "",
         "startYear": 0,
@@ -35,26 +35,485 @@
     },
     {
         "index": 2,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Bachelor | Tamil Film | Official Trailer | SonyLIV  | Streaming Now",
-        "views": 1268824,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Pandrikku Nandri Solli | Tamil Movie | Official Trailer | SonyLIV | Streaming Now",
+        "views": 219913,
         "likes": 0,
-        "publish_date": "2022-01-20",
-        "url": "https://www.youtube.com/watch?v=7e1SNwaSC9o",
-        "thumbnail": "https://i.ytimg.com/vi/7e1SNwaSC9o/hqdefault.jpg",
-        "fTitle": "Bachelor",
-        "tconst": "tt11396290",
+        "publish_date": "2022-02-03",
+        "url": "https://www.youtube.com/watch?v=kLzKZHYpOoc",
+        "thumbnail": "https://i.ytimg.com/vi/kLzKZHYpOoc/hqdefault.jpg",
+        "fTitle": "Pandrikku Nandri Solli",
+        "tconst": "tt11355334",
         "titleType": "movie",
-        "startYear": 2021,
-        "genres": "Drama",
+        "startYear": 2020,
+        "genres": "Comedy,Drama,Thriller",
         "averageRating": 0.0,
         "numVotes": 0
     },
     {
         "index": 3,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | Nottingham Forest vs Leicester City | Streaming LIVE on SonyLIV",
+        "views": 2655,
+        "likes": 0,
+        "publish_date": "2022-02-03",
+        "url": "https://www.youtube.com/watch?v=nk_50xjAuZ8",
+        "thumbnail": "https://i.ytimg.com/vi/nk_50xjAuZ8/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 4,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | 4th Round | Liverpool vs Cardiff City | Streaming LIVE on SonyLIV",
+        "views": 1362,
+        "likes": 0,
+        "publish_date": "2022-02-03",
+        "url": "https://www.youtube.com/watch?v=2eSpe2qEfSE",
+        "thumbnail": "https://i.ytimg.com/vi/2eSpe2qEfSE/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 5,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | 4th Round | Tottenham vs Brighton | Streaming LIVE on SonyLIV",
+        "views": 3493,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=v3gpQjrC6K4",
+        "thumbnail": "https://i.ytimg.com/vi/v3gpQjrC6K4/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 6,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | 4th Round | Manchester City vs Fulham | Streaming LIVE on SonyLIV",
+        "views": 7024,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=saF7N3GpBQs",
+        "thumbnail": "https://i.ytimg.com/vi/saF7N3GpBQs/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 7,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | 4th Round | Chelsea vs Plymouth Argyle | Streaming LIVE on SonyLIV",
+        "views": 7971,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=9dNFvwpKilk",
+        "thumbnail": "https://i.ytimg.com/vi/9dNFvwpKilk/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 8,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | Manchester United vs Middlesbrough | Streaming LIVE on SonyLIV",
+        "views": 2552,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=Gfapbun8eAQ",
+        "thumbnail": "https://i.ytimg.com/vi/Gfapbun8eAQ/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 9,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Emirates FA Cup | 4th Round | All Matches | Streaming LIVE on SonyLIV",
+        "views": 8696,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=Uq2uV8ri7Ko",
+        "thumbnail": "https://i.ytimg.com/vi/Uq2uV8ri7Ko/hqdefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 10,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Bundesliga | Bayern Munich vs RB Leipzig | 5th February - 11 PM IST | Streaming LIVE on SonyLIV",
+        "views": 1223,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=BJJLb80c8fU",
+        "thumbnail": "https://i.ytimg.com/vi/BJJLb80c8fU/hqdefault.jpg",
+        "fTitle": "Bundesliga",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 11,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Bundesliga | Borussia Dortmund vs Bayer Leverkusen |6th February 8 PM IST |Streaming LIVE on SonyLIV",
+        "views": 1080,
+        "likes": 0,
+        "publish_date": "2022-02-02",
+        "url": "https://www.youtube.com/watch?v=0lN3UwYXru4",
+        "thumbnail": "https://i.ytimg.com/vi/0lN3UwYXru4/hqdefault.jpg",
+        "fTitle": "Bundesliga",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 12,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Homecoming | Official Trailer | SonyLIV Exclusive | Streaming on 18th Feb",
+        "views": 25802,
+        "likes": 0,
+        "publish_date": "2022-02-01",
+        "url": "https://www.youtube.com/watch?v=_YlQshwHLaU",
+        "thumbnail": "https://i.ytimg.com/vi/_YlQshwHLaU/sddefault.jpg",
+        "fTitle": "Homecoming",
+        "tconst": "tt12603626",
+        "titleType": "tvSeries",
+        "startYear": 2020,
+        "genres": "Short",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 13,
+        "plTitle": "NEW in February on SonyLIV",
+        "title": "Rocket Boys | Official Trailer | SonyLIV Originals | Web Series | 4th February",
+        "views": 25898548,
+        "likes": 0,
+        "publish_date": "2022-01-20",
+        "url": "https://www.youtube.com/watch?v=rOD-78_0pPU",
+        "thumbnail": "https://i.ytimg.com/vi/rOD-78_0pPU/sddefault.jpg",
+        "fTitle": "Rocket Boys",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 14,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Rocket Boys | Official Trailer | SonyLIV Originals | Web Series | 4th February",
+        "views": 25898548,
+        "likes": 0,
+        "publish_date": "2022-01-20",
+        "url": "https://www.youtube.com/watch?v=rOD-78_0pPU",
+        "thumbnail": "https://i.ytimg.com/vi/rOD-78_0pPU/sddefault.jpg",
+        "fTitle": "Rocket Boys",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 15,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Pandrikku Nandri Solli | Tamil Movie | Official Teaser | SonyLIV | Streaming on 4th Feb",
+        "views": 1247433,
+        "likes": 0,
+        "publish_date": "2022-01-27",
+        "url": "https://www.youtube.com/watch?v=qvNfijCfEig",
+        "thumbnail": "https://i.ytimg.com/vi/qvNfijCfEig/hqdefault.jpg",
+        "fTitle": "Pandrikku Nandri Solli",
+        "tconst": "tt11355334",
+        "titleType": "movie",
+        "startYear": 2020,
+        "genres": "Comedy,Drama,Thriller",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 16,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Freedom Fight | Malayalam Movie | Official Trailer | SonyLIV | Streaming Soon",
+        "views": 157694,
+        "likes": 0,
+        "publish_date": "2022-01-25",
+        "url": "https://www.youtube.com/watch?v=wR_dxIUMJ7A",
+        "thumbnail": "https://i.ytimg.com/vi/wR_dxIUMJ7A/sddefault.jpg",
+        "fTitle": "Freedom Fight",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 17,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Pakistan Super League | 27th January - 27th February | Streaming LIVE on SonyLIV",
+        "views": 7776,
+        "likes": 0,
+        "publish_date": "2022-01-25",
+        "url": "https://www.youtube.com/watch?v=i4afdpxMJFo",
+        "thumbnail": "https://i.ytimg.com/vi/i4afdpxMJFo/hqdefault.jpg",
+        "fTitle": "Pakistan Super League",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 18,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Final | Rafael Nadal vs Daniil Medvedev | Streaming LIVE on SonyLIV",
+        "views": 2827,
+        "likes": 0,
+        "publish_date": "2022-01-29",
+        "url": "https://www.youtube.com/watch?v=x7-v7h21I7k",
+        "thumbnail": "https://i.ytimg.com/vi/x7-v7h21I7k/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 19,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Final | Rafael Nadal vs Daniil Medvedev | 30th January | LIVE on SonyLIV",
+        "views": 5476,
+        "likes": 0,
+        "publish_date": "2022-01-28",
+        "url": "https://www.youtube.com/watch?v=0U4z2ua0B2s",
+        "thumbnail": "https://i.ytimg.com/vi/0U4z2ua0B2s/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 20,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Final | Ashleigh Barty vs Danielle Collins | 29th January | LIVE on SonyLIV",
+        "views": 1505,
+        "likes": 0,
+        "publish_date": "2022-01-28",
+        "url": "https://www.youtube.com/watch?v=fhpCGLqqhIk",
+        "thumbnail": "https://i.ytimg.com/vi/fhpCGLqqhIk/hqdefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 21,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "The Big Bash League | Final | Perth Scorchers vs Sydney Sixers | 28th January | LIVE on SonyLIV",
+        "views": 8123,
+        "likes": 0,
+        "publish_date": "2022-01-27",
+        "url": "https://www.youtube.com/watch?v=rFEXinN9guM",
+        "thumbnail": "https://i.ytimg.com/vi/rFEXinN9guM/sddefault.jpg",
+        "fTitle": "The Big Bash League",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 22,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Semi-Final | Stefanos Tsitsipas vs Daniil Medvedev | LIVE on SonyLIV",
+        "views": 1759,
+        "likes": 0,
+        "publish_date": "2022-01-27",
+        "url": "https://www.youtube.com/watch?v=P3cVCjXwYXY",
+        "thumbnail": "https://i.ytimg.com/vi/P3cVCjXwYXY/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 23,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Semi-Final | Matteo Berrettini vs Rafael Nadal | LIVE on SonyLIV",
+        "views": 2291,
+        "likes": 0,
+        "publish_date": "2022-01-26",
+        "url": "https://www.youtube.com/watch?v=kj3S5Ey8xG4",
+        "thumbnail": "https://i.ytimg.com/vi/kj3S5Ey8xG4/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 24,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Semi-Final | Ashleigh Barty vs Madison Keys | 27th January | LIVE on SonyLIV",
+        "views": 3055,
+        "likes": 0,
+        "publish_date": "2022-01-26",
+        "url": "https://www.youtube.com/watch?v=s8-yNE9YUpo",
+        "thumbnail": "https://i.ytimg.com/vi/s8-yNE9YUpo/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 25,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | Semi-Final | Danielle Collins vs Iga \u015awi\u0105tek | 27th January | LIVE on SonyLIV",
+        "views": 1335,
+        "likes": 0,
+        "publish_date": "2022-01-26",
+        "url": "https://www.youtube.com/watch?v=WH0chgrzTd0",
+        "thumbnail": "https://i.ytimg.com/vi/WH0chgrzTd0/sddefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 26,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "WWE Royal Rumble | 30th January - 6:30 AM IST | Streaming LIVE on SonyLIV",
+        "views": 3182,
+        "likes": 0,
+        "publish_date": "2022-01-25",
+        "url": "https://www.youtube.com/watch?v=7rqlHZm2v7s",
+        "thumbnail": "https://i.ytimg.com/vi/7rqlHZm2v7s/hqdefault.jpg",
+        "fTitle": "WWE Royal Rumble",
+        "tconst": "tt15541468",
+        "titleType": "tvSpecial",
+        "startYear": 2022,
+        "genres": "Action,Sport",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 27,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Rocket Boys | SonyLIV Originals | Web Series | 4th February",
+        "views": 10538884,
+        "likes": 0,
+        "publish_date": "2022-01-24",
+        "url": "https://www.youtube.com/watch?v=Zd8mS6Pf1gg",
+        "thumbnail": "https://i.ytimg.com/vi/Zd8mS6Pf1gg/sddefault.jpg",
+        "fTitle": "Rocket Boys",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 28,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "The Big Bash League | Challenger | Sydney Sixers vs Adelaide Strikers | LIVE on SonyLIV",
+        "views": 5914,
+        "likes": 0,
+        "publish_date": "2022-01-24",
+        "url": "https://www.youtube.com/watch?v=xRUkqNCOO5g",
+        "thumbnail": "https://i.ytimg.com/vi/xRUkqNCOO5g/hqdefault.jpg",
+        "fTitle": "The Big Bash League",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 29,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Legends League Cricket 2022 | Streaming LIVE on SonyLIV",
+        "views": 136797,
+        "likes": 0,
+        "publish_date": "2022-01-23",
+        "url": "https://www.youtube.com/watch?v=uMIjmXNtNBA",
+        "thumbnail": "https://i.ytimg.com/vi/uMIjmXNtNBA/hqdefault.jpg",
+        "fTitle": "Legends League Cricket 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 30,
         "plTitle": "NEW in January on SonyLIV",
         "title": "The Big Bash League | Qualifier | Perth Scorchers vs Sydney Sixers | LIVE on SonyLIV",
-        "views": 2862,
+        "views": 3965,
         "likes": 0,
         "publish_date": "2022-01-22",
         "url": "https://www.youtube.com/watch?v=QPgCjVumgMs",
@@ -68,27 +527,10 @@
         "numVotes": 0
     },
     {
-        "index": 4,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "The Big Bash League | Eliminator | Adelaide Strikers vs Hobart Hurricanes | LIVE on SonyLIV",
-        "views": 3088,
-        "likes": 0,
-        "publish_date": "2022-01-20",
-        "url": "https://www.youtube.com/watch?v=Sucy77tpsUo",
-        "thumbnail": "https://i.ytimg.com/vi/Sucy77tpsUo/sddefault.jpg",
-        "fTitle": "The Big Bash League",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 5,
+        "index": 31,
         "plTitle": "NEW in January on SonyLIV",
         "title": "UFC 270 | Ngannou vs. Gane | Sunday, 23rd January - 8:30 AM IST | LIVE on SonyLIV",
-        "views": 1334,
+        "views": 1715,
         "likes": 0,
         "publish_date": "2022-01-20",
         "url": "https://www.youtube.com/watch?v=W5oOKzdr8vg",
@@ -102,10 +544,61 @@
         "numVotes": 0
     },
     {
-        "index": 6,
+        "index": 32,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "The Big Bash League | Eliminator | Adelaide Strikers vs Hobart Hurricanes | LIVE on SonyLIV",
+        "views": 3581,
+        "likes": 0,
+        "publish_date": "2022-01-20",
+        "url": "https://www.youtube.com/watch?v=Sucy77tpsUo",
+        "thumbnail": "https://i.ytimg.com/vi/Sucy77tpsUo/sddefault.jpg",
+        "fTitle": "The Big Bash League",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 33,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Bachelor | Tamil Film | Official Trailer | SonyLIV  | Streaming Now",
+        "views": 4148125,
+        "likes": 0,
+        "publish_date": "2022-01-20",
+        "url": "https://www.youtube.com/watch?v=7e1SNwaSC9o",
+        "thumbnail": "https://i.ytimg.com/vi/7e1SNwaSC9o/hqdefault.jpg",
+        "fTitle": "Bachelor",
+        "tconst": "tt11396290",
+        "titleType": "movie",
+        "startYear": 2021,
+        "genres": "Drama",
+        "averageRating": 6.6,
+        "numVotes": 1151
+    },
+    {
+        "index": 34,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Bhoothakaalam | Malayalam Film | Official Trailer | SonyLIV | Streaming Now",
+        "views": 3310,
+        "likes": 0,
+        "publish_date": "2022-01-20",
+        "url": "https://www.youtube.com/watch?v=EZUa-Ely3Ek",
+        "thumbnail": "https://i.ytimg.com/vi/EZUa-Ely3Ek/sddefault.jpg",
+        "fTitle": "Bhoothakaalam",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 35,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Legends League Cricket | 20th - 29th January | Streaming LIVE on SonyLIV",
-        "views": 41523,
+        "views": 76639,
         "likes": 0,
         "publish_date": "2022-01-19",
         "url": "https://www.youtube.com/watch?v=i23gLEHijjk",
@@ -119,78 +612,10 @@
         "numVotes": 0
     },
     {
-        "index": 7,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "SKYLAB | Telugu Film | Official Trailer | SonyLIV | Streaming Now",
-        "views": 9470789,
-        "likes": 0,
-        "publish_date": "2022-01-13",
-        "url": "https://www.youtube.com/watch?v=dGbwHewSeJc",
-        "thumbnail": "https://i.ytimg.com/vi/dGbwHewSeJc/hqdefault.jpg",
-        "fTitle": "SKYLAB",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 8,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Passport To Freedom | Streaming Now | Digital Exclusive",
-        "views": 4051,
-        "likes": 0,
-        "publish_date": "2022-01-12",
-        "url": "https://www.youtube.com/watch?v=LJUaFRCsKB8",
-        "thumbnail": "https://i.ytimg.com/vi/LJUaFRCsKB8/sddefault.jpg",
-        "fTitle": "Passport To Freedom",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 9,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Crossing Swords S2 | Streaming Now | Digital Exclusive",
-        "views": 36398,
-        "likes": 0,
-        "publish_date": "2022-01-13",
-        "url": "https://www.youtube.com/watch?v=ppnmFWcpTQ4",
-        "thumbnail": "https://i.ytimg.com/vi/ppnmFWcpTQ4/hqdefault.jpg",
-        "fTitle": "Crossing Swords S2",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 10,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Australian Open 2022 | 17th - 30th January | Streaming LIVE on SonyLIV",
-        "views": 100648,
-        "likes": 0,
-        "publish_date": "2022-01-10",
-        "url": "https://www.youtube.com/watch?v=tIddQtAdFM8",
-        "thumbnail": "https://i.ytimg.com/vi/tIddQtAdFM8/hqdefault.jpg",
-        "fTitle": "Australian Open 2022",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 11,
+        "index": 36,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Kahin Thor Dikhe Na | Official Music Video | Cubicles S2 | SonyLIV Originals",
-        "views": 15606,
+        "views": 25051,
         "likes": 0,
         "publish_date": "2022-01-14",
         "url": "https://www.youtube.com/watch?v=QGq4fjf233M",
@@ -204,10 +629,61 @@
         "numVotes": 0
     },
     {
-        "index": 12,
+        "index": 37,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Crossing Swords S2 | Streaming Now | Digital Exclusive",
+        "views": 416807,
+        "likes": 0,
+        "publish_date": "2022-01-13",
+        "url": "https://www.youtube.com/watch?v=ppnmFWcpTQ4",
+        "thumbnail": "https://i.ytimg.com/vi/ppnmFWcpTQ4/hqdefault.jpg",
+        "fTitle": "Crossing Swords S2",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 38,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "SKYLAB | Telugu Film | Official Trailer | SonyLIV | Streaming Now",
+        "views": 9520876,
+        "likes": 0,
+        "publish_date": "2022-01-13",
+        "url": "https://www.youtube.com/watch?v=dGbwHewSeJc",
+        "thumbnail": "https://i.ytimg.com/vi/dGbwHewSeJc/hqdefault.jpg",
+        "fTitle": "SKYLAB",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 39,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Passport To Freedom | Streaming Now | Digital Exclusive",
+        "views": 4868,
+        "likes": 0,
+        "publish_date": "2022-01-12",
+        "url": "https://www.youtube.com/watch?v=LJUaFRCsKB8",
+        "thumbnail": "https://i.ytimg.com/vi/LJUaFRCsKB8/sddefault.jpg",
+        "fTitle": "Passport To Freedom",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 40,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Shark Tank India | Streaming on SonyLIV",
-        "views": 294532,
+        "views": 389883,
         "likes": 0,
         "publish_date": "2022-01-11",
         "url": "https://www.youtube.com/watch?v=FUYYZ81pln4",
@@ -221,10 +697,27 @@
         "numVotes": 0
     },
     {
-        "index": 13,
+        "index": 41,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Australian Open 2022 | 17th - 30th January | Streaming LIVE on SonyLIV",
-        "views": 10731028,
+        "views": 108899,
+        "likes": 0,
+        "publish_date": "2022-01-10",
+        "url": "https://www.youtube.com/watch?v=tIddQtAdFM8",
+        "thumbnail": "https://i.ytimg.com/vi/tIddQtAdFM8/hqdefault.jpg",
+        "fTitle": "Australian Open 2022",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 42,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Australian Open 2022 | 17th - 30th January | Streaming LIVE on SonyLIV",
+        "views": 10731343,
         "likes": 0,
         "publish_date": "2022-01-10",
         "url": "https://www.youtube.com/watch?v=_Bn8zHvILwo",
@@ -238,10 +731,10 @@
         "numVotes": 0
     },
     {
-        "index": 14,
+        "index": 43,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Cubicles S2 | SonyLIV Originals | Streaming Now",
-        "views": 10482668,
+        "views": 11099463,
         "likes": 0,
         "publish_date": "2022-01-06",
         "url": "https://www.youtube.com/watch?v=_0EV1qurxjo",
@@ -255,129 +748,10 @@
         "numVotes": 0
     },
     {
-        "index": 15,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | Manchester United vs. Aston Villa | Streaming LIVE on SonyLIV",
-        "views": 1692,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=sFMFD1cZ9_s",
-        "thumbnail": "https://i.ytimg.com/vi/sFMFD1cZ9_s/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 16,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | Nottingham Forest vs. Arsenal | Streaming LIVE on SonyLIV",
-        "views": 1037,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=o6BG3al8o5o",
-        "thumbnail": "https://i.ytimg.com/vi/o6BG3al8o5o/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 17,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | West Ham vs. Leeds United | Streaming LIVE on SonyLIV",
-        "views": 847,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=S51LXKDerdY",
-        "thumbnail": "https://i.ytimg.com/vi/S51LXKDerdY/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 18,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | Chelsea vs. Chesterfield FC | Streaming LIVE on SonyLIV",
-        "views": 877,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=wXxiP-Qfe0U",
-        "thumbnail": "https://i.ytimg.com/vi/wXxiP-Qfe0U/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 19,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | Leicester City vs. Watford | Streaming LIVE on SonyLIV",
-        "views": 814,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=SgtRNZVc97I",
-        "thumbnail": "https://i.ytimg.com/vi/SgtRNZVc97I/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 20,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | Swindon Town vs. Manchester City | LIVE on SonyLIV",
-        "views": 639,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=7D2_INsMce4",
-        "thumbnail": "https://i.ytimg.com/vi/7D2_INsMce4/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 21,
-        "plTitle": "NEW in January on SonyLIV",
-        "title": "Emirates FA Cup | Round 3 | 8th - 11th January | Streaming LIVE on SonyLIV",
-        "views": 3709,
-        "likes": 0,
-        "publish_date": "2022-01-06",
-        "url": "https://www.youtube.com/watch?v=a3j0ixRxlOQ",
-        "thumbnail": "https://i.ytimg.com/vi/a3j0ixRxlOQ/sddefault.jpg",
-        "fTitle": "Emirates FA Cup",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
-        "averageRating": 0.0,
-        "numVotes": 0
-    },
-    {
-        "index": 22,
+        "index": 44,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Emirates FA Cup | Round 3 | All Matches | Streaming LIVE on SonyLIV",
-        "views": 2588,
+        "views": 2626,
         "likes": 0,
         "publish_date": "2022-01-06",
         "url": "https://www.youtube.com/watch?v=1EjefWCDdRI",
@@ -391,10 +765,129 @@
         "numVotes": 0
     },
     {
-        "index": 23,
+        "index": 45,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | 8th - 11th January | Streaming LIVE on SonyLIV",
+        "views": 3747,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=a3j0ixRxlOQ",
+        "thumbnail": "https://i.ytimg.com/vi/a3j0ixRxlOQ/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 46,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | Manchester United vs. Aston Villa | Streaming LIVE on SonyLIV",
+        "views": 1722,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=sFMFD1cZ9_s",
+        "thumbnail": "https://i.ytimg.com/vi/sFMFD1cZ9_s/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 47,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | Nottingham Forest vs. Arsenal | Streaming LIVE on SonyLIV",
+        "views": 1059,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=o6BG3al8o5o",
+        "thumbnail": "https://i.ytimg.com/vi/o6BG3al8o5o/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 48,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | West Ham vs. Leeds United | Streaming LIVE on SonyLIV",
+        "views": 872,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=S51LXKDerdY",
+        "thumbnail": "https://i.ytimg.com/vi/S51LXKDerdY/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 49,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | Chelsea vs. Chesterfield FC | Streaming LIVE on SonyLIV",
+        "views": 908,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=wXxiP-Qfe0U",
+        "thumbnail": "https://i.ytimg.com/vi/wXxiP-Qfe0U/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 50,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | Leicester City vs. Watford | Streaming LIVE on SonyLIV",
+        "views": 837,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=SgtRNZVc97I",
+        "thumbnail": "https://i.ytimg.com/vi/SgtRNZVc97I/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 51,
+        "plTitle": "NEW in January on SonyLIV",
+        "title": "Emirates FA Cup | Round 3 | Swindon Town vs. Manchester City | LIVE on SonyLIV",
+        "views": 667,
+        "likes": 0,
+        "publish_date": "2022-01-06",
+        "url": "https://www.youtube.com/watch?v=7D2_INsMce4",
+        "thumbnail": "https://i.ytimg.com/vi/7D2_INsMce4/sddefault.jpg",
+        "fTitle": "Emirates FA Cup",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 52,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Legends League Cricket 2022 | 20th - 29th January | Streaming LIVE on SonyLIV",
-        "views": 9394,
+        "views": 9619,
         "likes": 0,
         "publish_date": "2022-01-04",
         "url": "https://www.youtube.com/watch?v=aKdRBYQMRHU",
@@ -408,10 +901,10 @@
         "numVotes": 0
     },
     {
-        "index": 24,
+        "index": 53,
         "plTitle": "NEW in January on SonyLIV",
         "title": "The Ashes | 4th Test | 5th - 9th January | 5 AM IST Onwards | Streaming LIVE on SonyLIV",
-        "views": 185071,
+        "views": 185132,
         "likes": 0,
         "publish_date": "2022-01-03",
         "url": "https://www.youtube.com/watch?v=nFPmYOfeNGw",
@@ -425,10 +918,10 @@
         "numVotes": 0
     },
     {
-        "index": 25,
+        "index": 54,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Whistleblower | Episode 1 | SonyLIV Originals | Web Series | Streaming Now",
-        "views": 67772,
+        "views": 86533,
         "likes": 0,
         "publish_date": "2021-12-29",
         "url": "https://www.youtube.com/watch?v=wgdUl-rCvSs",
@@ -442,10 +935,10 @@
         "numVotes": 0
     },
     {
-        "index": 26,
+        "index": 55,
         "plTitle": "NEW in December on SonyLIV",
         "title": "A Very British Scandal | Streaming Now | SonyLIV Exclusive Mini-Series",
-        "views": 4308718,
+        "views": 4309342,
         "likes": 0,
         "publish_date": "2021-12-30",
         "url": "https://www.youtube.com/watch?v=FmHbD5hOSfE",
@@ -455,31 +948,31 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama",
-        "averageRating": 0.0,
-        "numVotes": 0
+        "averageRating": 7.1,
+        "numVotes": 2245
     },
     {
-        "index": 27,
+        "index": 56,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Rocket Boys | Remembering Vikram Sarabhai on his 50th Death Anniversary",
-        "views": 6606706,
+        "views": 6633582,
         "likes": 0,
         "publish_date": "2021-12-30",
         "url": "https://www.youtube.com/watch?v=rgFxNRFvuRE",
         "thumbnail": "https://i.ytimg.com/vi/rgFxNRFvuRE/sddefault.jpg",
         "fTitle": "Rocket Boys",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
         "averageRating": 0.0,
         "numVotes": 0
     },
     {
-        "index": 28,
+        "index": 57,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Adele One Night Only | SonyLIV Exclusive | Streaming Free",
-        "views": 3887,
+        "views": 4159,
         "likes": 0,
         "publish_date": "2021-12-29",
         "url": "https://www.youtube.com/watch?v=y7llF7as0F4",
@@ -489,14 +982,14 @@
         "titleType": "tvSpecial",
         "startYear": 2021,
         "genres": "Biography,Documentary,Music",
-        "averageRating": 8.1,
-        "numVotes": 796
+        "averageRating": 8.0,
+        "numVotes": 1379
     },
     {
-        "index": 29,
+        "index": 58,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Whistleblower | Official Trailer | SonyLIV Originals | Web Series | Streaming Now",
-        "views": 22984,
+        "views": 23211,
         "likes": 0,
         "publish_date": "2021-12-15",
         "url": "https://www.youtube.com/watch?v=tJFXf72d9KA",
@@ -510,10 +1003,10 @@
         "numVotes": 0
     },
     {
-        "index": 30,
+        "index": 59,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Madhuram | Malayalam | Official Trailer | SonyLIV | Streaming Now",
-        "views": 2549080,
+        "views": 2549658,
         "likes": 0,
         "publish_date": "2021-12-23",
         "url": "https://www.youtube.com/watch?v=JuQ6Ky_oRHE",
@@ -523,14 +1016,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Drama,Romance",
-        "averageRating": 0.0,
-        "numVotes": 0
+        "averageRating": 7.8,
+        "numVotes": 1527
     },
     {
-        "index": 31,
+        "index": 60,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Maanaadu | Tamil Film | Official Trailer | SonyLIV | Streaming Now",
-        "views": 1920489,
+        "views": 1923013,
         "likes": 0,
         "publish_date": "2021-12-23",
         "url": "https://www.youtube.com/watch?v=47xdyEA-Cl8",
@@ -540,14 +1033,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Action,Adventure,Sci-Fi",
-        "averageRating": 9.4,
-        "numVotes": 11065
+        "averageRating": 8.8,
+        "numVotes": 18312
     },
     {
-        "index": 32,
+        "index": 61,
         "plTitle": "NEW in December on SonyLIV",
         "title": "WWW | Telugu Film | Official Trailer | SonyLIV | Streaming Now",
-        "views": 503826,
+        "views": 504758,
         "likes": 0,
         "publish_date": "2021-12-23",
         "url": "https://www.youtube.com/watch?v=KA5F0fpR-ok",
@@ -561,10 +1054,10 @@
         "numVotes": 0
     },
     {
-        "index": 33,
+        "index": 62,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Shark Tank India | Streaming Now | SonyLIV",
-        "views": 1660930,
+        "views": 1661008,
         "likes": 0,
         "publish_date": "2021-12-21",
         "url": "https://www.youtube.com/watch?v=RlWAsutCvYM",
@@ -578,10 +1071,10 @@
         "numVotes": 0
     },
     {
-        "index": 34,
+        "index": 63,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Cubicles S2 | Official Trailer | SonyLIV Originals | Streaming Soon",
-        "views": 548049,
+        "views": 571960,
         "likes": 0,
         "publish_date": "2021-12-18",
         "url": "https://www.youtube.com/watch?v=1Ywmv5yVUr8",
@@ -595,10 +1088,10 @@
         "numVotes": 0
     },
     {
-        "index": 35,
+        "index": 64,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Karkhanisanchi Waari | Streaming Now | SonyLIV Exclusive",
-        "views": 1144772,
+        "views": 1144973,
         "likes": 0,
         "publish_date": "2021-12-09",
         "url": "https://www.youtube.com/watch?v=bKXy9loSbEA",
@@ -612,10 +1105,10 @@
         "numVotes": 0
     },
     {
-        "index": 36,
+        "index": 65,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Alex Rider Season 2 Streaming Now | SonyLIV Exclusive | India Premiere Series",
-        "views": 2843508,
+        "views": 2843575,
         "likes": 0,
         "publish_date": "2021-12-03",
         "url": "https://www.youtube.com/watch?v=w9iy7LehD20",
@@ -626,13 +1119,13 @@
         "startYear": 2020,
         "genres": "Action,Adventure,Drama",
         "averageRating": 7.6,
-        "numVotes": 10474
+        "numVotes": 13484
     },
     {
-        "index": 37,
+        "index": 66,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Whistleblower | Official Teaser | SonyLIV Originals | Web Series | 16th December",
-        "views": 13898913,
+        "views": 13899440,
         "likes": 0,
         "publish_date": "2021-11-29",
         "url": "https://www.youtube.com/watch?v=nmk1btF83Wk",
@@ -646,10 +1139,10 @@
         "numVotes": 0
     },
     {
-        "index": 38,
+        "index": 67,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Big Bash League | 5th December - 28th January | Streaming LIVE on SonyLIV",
-        "views": 5633,
+        "views": 5675,
         "likes": 0,
         "publish_date": "2021-12-02",
         "url": "https://www.youtube.com/watch?v=X9dhH7d8cqU",
@@ -663,10 +1156,10 @@
         "numVotes": 0
     },
     {
-        "index": 39,
+        "index": 68,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Ashes | 3rd Test | 26th - 30th December | 5 AM IST Onwards | LIVE on SonyLIV",
-        "views": 43269,
+        "views": 43325,
         "likes": 0,
         "publish_date": "2021-12-22",
         "url": "https://www.youtube.com/watch?v=mEi3irqXyvw",
@@ -680,10 +1173,10 @@
         "numVotes": 0
     },
     {
-        "index": 40,
+        "index": 69,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Lanka Premier League | 5th - 23rd December | Streaming LIVE on SonyLIV",
-        "views": 6790,
+        "views": 6818,
         "likes": 0,
         "publish_date": "2021-12-02",
         "url": "https://www.youtube.com/watch?v=--nhlc6uOfc",
@@ -697,10 +1190,10 @@
         "numVotes": 0
     },
     {
-        "index": 41,
+        "index": 70,
         "plTitle": "NEW in December on SonyLIV",
         "title": "West Indies Tour of Pakistan | 3 T20I & 3 ODI | 13th-22nd December | Streaming LIVE on SonyLIV",
-        "views": 10645,
+        "views": 10677,
         "likes": 0,
         "publish_date": "2021-12-12",
         "url": "https://www.youtube.com/watch?v=dLBZLwr7fTo",
@@ -714,10 +1207,10 @@
         "numVotes": 0
     },
     {
-        "index": 42,
+        "index": 71,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Ashes | 2nd Test | 16th - 20th December | Streaming LIVE on SonyLIV",
-        "views": 20121,
+        "views": 20143,
         "likes": 0,
         "publish_date": "2021-12-14",
         "url": "https://www.youtube.com/watch?v=vyHafhlf8WM",
@@ -731,10 +1224,10 @@
         "numVotes": 0
     },
     {
-        "index": 43,
+        "index": 72,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Day-Night Ashes Test | 16th - 20th December | 9:30 AM IST Onwards | LIVE on SonyLIV",
-        "views": 38812,
+        "views": 38831,
         "likes": 0,
         "publish_date": "2021-12-15",
         "url": "https://www.youtube.com/watch?v=oATjE4c6_RY",
@@ -748,10 +1241,10 @@
         "numVotes": 0
     },
     {
-        "index": 44,
+        "index": 73,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Tennis Premier League | 14th-18th December | Streaming LIVE on SonyLIV",
-        "views": 1818,
+        "views": 1839,
         "likes": 0,
         "publish_date": "2021-12-11",
         "url": "https://www.youtube.com/watch?v=tFERkX8OHho",
@@ -765,10 +1258,10 @@
         "numVotes": 0
     },
     {
-        "index": 45,
+        "index": 74,
         "plTitle": "NEW in December on SonyLIV",
         "title": "The Ashes | 1st Test - 8th December, 5:30 AM IST Onwards | Streaming LIVE on SonyLIV",
-        "views": 36329,
+        "views": 36378,
         "likes": 0,
         "publish_date": "2021-11-30",
         "url": "https://www.youtube.com/watch?v=LnCS61_2fos",
@@ -782,10 +1275,10 @@
         "numVotes": 0
     },
     {
-        "index": 46,
+        "index": 75,
         "plTitle": "NEW in December on SonyLIV",
         "title": "UEFA Champions League | Bayern Munich vs Barcelona | 9th Dec - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 3889,
+        "views": 3924,
         "likes": 0,
         "publish_date": "2021-12-06",
         "url": "https://www.youtube.com/watch?v=ye9gEptvV6g",
@@ -799,10 +1292,10 @@
         "numVotes": 0
     },
     {
-        "index": 47,
+        "index": 76,
         "plTitle": "NEW in December on SonyLIV",
         "title": "UEFA Champions League | Manchester United vs Young Boys | 9th Dec - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 2987,
+        "views": 3019,
         "likes": 0,
         "publish_date": "2021-12-06",
         "url": "https://www.youtube.com/watch?v=iy3s2KctJVQ",
@@ -816,10 +1309,10 @@
         "numVotes": 0
     },
     {
-        "index": 48,
+        "index": 77,
         "plTitle": "NEW in December on SonyLIV",
         "title": "UEFA Champions League | AC Milan vs Liverpool | 8th Dec - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 2583,
+        "views": 2645,
         "likes": 0,
         "publish_date": "2021-12-05",
         "url": "https://www.youtube.com/watch?v=0H2_EeSwViY",
@@ -833,10 +1326,10 @@
         "numVotes": 0
     },
     {
-        "index": 49,
+        "index": 78,
         "plTitle": "NEW in December on SonyLIV",
         "title": "UEFA Champions League | PSG vs Club Brugge | 7th Dec - 11:15 PM IST | LIVE on SonyLIV",
-        "views": 1930,
+        "views": 1996,
         "likes": 0,
         "publish_date": "2021-12-05",
         "url": "https://www.youtube.com/watch?v=0r2OtFSythw",
@@ -850,10 +1343,10 @@
         "numVotes": 0
     },
     {
-        "index": 50,
+        "index": 79,
         "plTitle": "NEW in December on SonyLIV",
         "title": "Bundesliga | Borussia Dortmund vs Bayern Munich | 4th Dec - 11 PM IST | Streaming LIVE on SonyLIV",
-        "views": 1699,
+        "views": 1725,
         "likes": 0,
         "publish_date": "2021-12-01",
         "url": "https://www.youtube.com/watch?v=Ook2OFZ9UDU",
@@ -867,10 +1360,10 @@
         "numVotes": 0
     },
     {
-        "index": 51,
+        "index": 80,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Your Honor Season 2 | Official Trailer | SonyLIV Originals | Streaming Now",
-        "views": 10990684,
+        "views": 10991012,
         "likes": 0,
         "publish_date": "2021-11-18",
         "url": "https://www.youtube.com/watch?v=5cgGQYirAeg",
@@ -881,13 +1374,13 @@
         "startYear": 2020,
         "genres": "Action,Drama,Thriller",
         "averageRating": 7.4,
-        "numVotes": 2393
+        "numVotes": 2571
     },
     {
-        "index": 52,
+        "index": 81,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Sivaranjiniyum Innum Sila Pengallum | Official Trailer | SonyLIV | Streaming Now",
-        "views": 2276859,
+        "views": 2276928,
         "likes": 0,
         "publish_date": "2021-11-25",
         "url": "https://www.youtube.com/watch?v=KxEf9wjmkk0",
@@ -901,10 +1394,10 @@
         "numVotes": 0
     },
     {
-        "index": 53,
+        "index": 82,
         "plTitle": "NEW in November on SonyLIV",
         "title": "BRO I Official Trailer I Telugu I SonyLIV I Streaming Now",
-        "views": 2267800,
+        "views": 2268606,
         "likes": 0,
         "publish_date": "2021-11-25",
         "url": "https://www.youtube.com/watch?v=vJefwqZ3F-o",
@@ -918,10 +1411,10 @@
         "numVotes": 0
     },
     {
-        "index": 54,
+        "index": 83,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Chumbak | Official Trailer | SonyLIV Exclusive | Streaming Now",
-        "views": 3334443,
+        "views": 3334554,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=yT3vYEUrvF4",
@@ -935,10 +1428,10 @@
         "numVotes": 0
     },
     {
-        "index": 55,
+        "index": 84,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Tryst With Destiny | SonyLIV Originals | Streaming Now",
-        "views": 21962,
+        "views": 22199,
         "likes": 0,
         "publish_date": "2021-11-04",
         "url": "https://www.youtube.com/watch?v=oIbfkKv0I5k",
@@ -952,10 +1445,10 @@
         "numVotes": 0
     },
     {
-        "index": 56,
+        "index": 85,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Churuli I Official Trailer I Malayalam I SonyLIV I Streaming on 19th Nov",
-        "views": 2255610,
+        "views": 2299455,
         "likes": 0,
         "publish_date": "2021-11-10",
         "url": "https://www.youtube.com/watch?v=MCNg389DsKU",
@@ -969,10 +1462,10 @@
         "numVotes": 0
     },
     {
-        "index": 57,
+        "index": 86,
         "plTitle": "NEW in November on SonyLIV",
         "title": "The Whistleblower | Official Teaser | SonyLIV Originals | Web Series | Streaming Soon",
-        "views": 1121500,
+        "views": 1124027,
         "likes": 0,
         "publish_date": "2021-10-27",
         "url": "https://www.youtube.com/watch?v=AcodOlOa1dM",
@@ -986,10 +1479,10 @@
         "numVotes": 0
     },
     {
-        "index": 58,
+        "index": 87,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Streaming LIVE on SonyLIV",
-        "views": 2099,
+        "views": 2106,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=Khf_Tnk8iKI",
@@ -1003,10 +1496,10 @@
         "numVotes": 0
     },
     {
-        "index": 59,
+        "index": 88,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Sri Lanka vs West Indies | 2nd Test | 29th Nov - 3rd Dec | Streaming LIVE on SonyLIV",
-        "views": 3007,
+        "views": 3010,
         "likes": 0,
         "publish_date": "2021-11-29",
         "url": "https://www.youtube.com/watch?v=kgkjdXNc0Y0",
@@ -1020,10 +1513,10 @@
         "numVotes": 0
     },
     {
-        "index": 60,
+        "index": 89,
         "plTitle": "NEW in November on SonyLIV",
         "title": "WBBL 07 | Final | Perth Scorchers vs Adelaide Strikers | 27th Nov - 1:40 PM IST | LIVE on SonyLIV",
-        "views": 3384,
+        "views": 3391,
         "likes": 0,
         "publish_date": "2021-11-26",
         "url": "https://www.youtube.com/watch?v=5wiaZ0_5AIQ",
@@ -1037,10 +1530,10 @@
         "numVotes": 0
     },
     {
-        "index": 61,
+        "index": 90,
         "plTitle": "NEW in November on SonyLIV",
         "title": "WBBL 07 | Challenger | Melbourne Renegades vs Adelaide Strikers | Streaming LIVE on SonyLIV",
-        "views": 4974,
+        "views": 4980,
         "likes": 0,
         "publish_date": "2021-11-24",
         "url": "https://www.youtube.com/watch?v=h2-zQMGd_CQ",
@@ -1054,10 +1547,10 @@
         "numVotes": 0
     },
     {
-        "index": 62,
+        "index": 91,
         "plTitle": "NEW in November on SonyLIV",
         "title": "WBBL 07 | Eliminator | Brisbane Heat vs Adelaide Strikers | 24th Nov - 1:30 PM IST | LIVE on SonyLIV",
-        "views": 2999,
+        "views": 3004,
         "likes": 0,
         "publish_date": "2021-11-23",
         "url": "https://www.youtube.com/watch?v=NeQG2V5PpGg",
@@ -1071,10 +1564,10 @@
         "numVotes": 0
     },
     {
-        "index": 63,
+        "index": 92,
         "plTitle": "NEW in November on SonyLIV",
         "title": "West Indies Tour of Sri Lanka | 1st Test | 21st -25th Nov | Streaming LIVE on SonyLIV",
-        "views": 7505,
+        "views": 7510,
         "likes": 0,
         "publish_date": "2021-11-16",
         "url": "https://www.youtube.com/watch?v=qfTj6e2gZ8Y",
@@ -1088,10 +1581,10 @@
         "numVotes": 0
     },
     {
-        "index": 64,
+        "index": 93,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Manchester City vs PSG | 25th Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 1461,
+        "views": 1466,
         "likes": 0,
         "publish_date": "2021-11-22",
         "url": "https://www.youtube.com/watch?v=tzBW31Uik-Q",
@@ -1105,10 +1598,10 @@
         "numVotes": 0
     },
     {
-        "index": 65,
+        "index": 94,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Atletico Madrid vs AC Milan | 25th Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 2198,
+        "views": 2199,
         "likes": 0,
         "publish_date": "2021-11-22",
         "url": "https://www.youtube.com/watch?v=4CeqiqFTRkw",
@@ -1122,10 +1615,10 @@
         "numVotes": 0
     },
     {
-        "index": 66,
+        "index": 95,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Chelsea vs Juventus | 24th Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 1300,
+        "views": 1308,
         "likes": 0,
         "publish_date": "2021-11-18",
         "url": "https://www.youtube.com/watch?v=sVPl6e6hhzo",
@@ -1139,10 +1632,10 @@
         "numVotes": 0
     },
     {
-        "index": 67,
+        "index": 96,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Villarreal vs Manchester United | 23rd Nov - 11:15 PM IST | LIVE on SonyLIV",
-        "views": 1946,
+        "views": 1956,
         "likes": 0,
         "publish_date": "2021-11-18",
         "url": "https://www.youtube.com/watch?v=YE05mcHx6mY",
@@ -1156,7 +1649,7 @@
         "numVotes": 0
     },
     {
-        "index": 68,
+        "index": 97,
         "plTitle": "NEW in November on SonyLIV",
         "title": "WWE Survivor Series | 22nd November - 5:30 AM IST | Streaming LIVE on SonyLIV",
         "views": 1436,
@@ -1170,13 +1663,13 @@
         "startYear": 2020,
         "genres": "Action,Sport",
         "averageRating": 6.6,
-        "numVotes": 201
+        "numVotes": 205
     },
     {
-        "index": 69,
+        "index": 98,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Finland vs France | LIVE on SonyLIV",
-        "views": 3161,
+        "views": 3162,
         "likes": 0,
         "publish_date": "2021-11-16",
         "url": "https://www.youtube.com/watch?v=HYLlCDh6jng",
@@ -1190,10 +1683,10 @@
         "numVotes": 0
     },
     {
-        "index": 70,
+        "index": 99,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Wales vs Belgium | LIVE on SonyLIV",
-        "views": 2428,
+        "views": 2429,
         "likes": 0,
         "publish_date": "2021-11-15",
         "url": "https://www.youtube.com/watch?v=RCdPlnbhKsk",
@@ -1207,10 +1700,10 @@
         "numVotes": 0
     },
     {
-        "index": 71,
+        "index": 100,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Spain vs. Sweden | LIVE on SonyLIV",
-        "views": 1639,
+        "views": 1641,
         "likes": 0,
         "publish_date": "2021-11-12",
         "url": "https://www.youtube.com/watch?v=EilmpiIJxvE",
@@ -1224,10 +1717,10 @@
         "numVotes": 0
     },
     {
-        "index": 72,
+        "index": 101,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Belgium vs Estonia | LIVE on SonyLIV",
-        "views": 958,
+        "views": 960,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=t4ovm5CGZkc",
@@ -1241,10 +1734,10 @@
         "numVotes": 0
     },
     {
-        "index": 73,
+        "index": 102,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Italy vs Switzerland | LIVE on SonyLIV",
-        "views": 816,
+        "views": 817,
         "likes": 0,
         "publish_date": "2021-11-08",
         "url": "https://www.youtube.com/watch?v=Tm_9ZoK2-Ao",
@@ -1258,10 +1751,10 @@
         "numVotes": 0
     },
     {
-        "index": 74,
+        "index": 103,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Greece vs Spain | LIVE on SonyLIV",
-        "views": 1046,
+        "views": 1048,
         "likes": 0,
         "publish_date": "2021-11-08",
         "url": "https://www.youtube.com/watch?v=pOI_1plHGP4",
@@ -1275,10 +1768,10 @@
         "numVotes": 0
     },
     {
-        "index": 75,
+        "index": 104,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | England vs. Albania | LIVE on SonyLIV",
-        "views": 2647,
+        "views": 2648,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=-OM6fV1buCg",
@@ -1292,7 +1785,7 @@
         "numVotes": 0
     },
     {
-        "index": 76,
+        "index": 105,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Republic of Ireland vs Portugal | LIVE on SonyLIV",
         "views": 2001,
@@ -1309,10 +1802,10 @@
         "numVotes": 0
     },
     {
-        "index": 77,
+        "index": 106,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Northern Ireland vs Italy | LIVE on SonyLIV",
-        "views": 1493,
+        "views": 1494,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=OV6mhiIhp9s",
@@ -1326,10 +1819,10 @@
         "numVotes": 0
     },
     {
-        "index": 78,
+        "index": 107,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | San Marino vs England | LIVE on SonyLIV",
-        "views": 2535,
+        "views": 2537,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=RX1O1Ja8heA",
@@ -1343,10 +1836,10 @@
         "numVotes": 0
     },
     {
-        "index": 79,
+        "index": 108,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Portugal vs. Serbia | LIVE on SonyLIV",
-        "views": 906,
+        "views": 919,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=vunfb39GIfc",
@@ -1360,10 +1853,10 @@
         "numVotes": 0
     },
     {
-        "index": 80,
+        "index": 109,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | France vs Kazakhstan | LIVE on SonyLIV",
-        "views": 3367,
+        "views": 3369,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=S8KWSP_fg7Q",
@@ -1377,10 +1870,10 @@
         "numVotes": 0
     },
     {
-        "index": 81,
+        "index": 110,
         "plTitle": "NEW in November on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Croatia vs. Russia | LIVE on SonyLIV",
-        "views": 874,
+        "views": 875,
         "likes": 0,
         "publish_date": "2021-11-11",
         "url": "https://www.youtube.com/watch?v=1FPqgOaJI9w",
@@ -1394,10 +1887,10 @@
         "numVotes": 0
     },
     {
-        "index": 82,
+        "index": 111,
         "plTitle": "NEW in November on SonyLIV",
         "title": "WWE Survivor Series | 22nd November - 5:30 AM IST | Streaming LIVE on SonyLIV",
-        "views": 1083,
+        "views": 1085,
         "likes": 0,
         "publish_date": "2021-11-14",
         "url": "https://www.youtube.com/watch?v=JtxuPsAmq8A",
@@ -1408,13 +1901,13 @@
         "startYear": 2020,
         "genres": "Action,Sport",
         "averageRating": 6.6,
-        "numVotes": 201
+        "numVotes": 205
     },
     {
-        "index": 83,
+        "index": 112,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UFC 268 | Usman VS Covington 2 | Namajunas vs Zhang 2 | 7th Nov - 7:30 AM IST | LIVE on SonyLIV",
-        "views": 4609,
+        "views": 4612,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=d2zYzvkHsF4",
@@ -1424,14 +1917,14 @@
         "titleType": "tvSpecial",
         "startYear": 2021,
         "genres": "Sport",
-        "averageRating": 7.6,
-        "numVotes": 14
+        "averageRating": 7.5,
+        "numVotes": 27
     },
     {
-        "index": 84,
+        "index": 113,
         "plTitle": "NEW in November on SonyLIV",
         "title": "Bundesliga | RB Leipzig vs Borussia Dortmund | 6th Nov - 11 PM IST | Streaming LIVE on SonyLIV",
-        "views": 1376,
+        "views": 1379,
         "likes": 0,
         "publish_date": "2021-11-01",
         "url": "https://www.youtube.com/watch?v=pfnUoA9XQV4",
@@ -1445,10 +1938,10 @@
         "numVotes": 0
     },
     {
-        "index": 85,
+        "index": 114,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | RB Leipzig vs PSG | 4th Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 2804,
+        "views": 2806,
         "likes": 0,
         "publish_date": "2021-11-01",
         "url": "https://www.youtube.com/watch?v=UmrePc7WIeA",
@@ -1462,10 +1955,10 @@
         "numVotes": 0
     },
     {
-        "index": 86,
+        "index": 115,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Liverpool vs Atletico Madrid | 4th Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 1766,
+        "views": 1773,
         "likes": 0,
         "publish_date": "2021-11-01",
         "url": "https://www.youtube.com/watch?v=f4NtebCdNF0",
@@ -1479,10 +1972,10 @@
         "numVotes": 0
     },
     {
-        "index": 87,
+        "index": 116,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Atalanta B.C. vs Manchester United | 3rd Nov - 1:30 AM IST | LIVE on SonyLIV",
-        "views": 7744,
+        "views": 7752,
         "likes": 0,
         "publish_date": "2021-10-29",
         "url": "https://www.youtube.com/watch?v=2w33H_2zRz0",
@@ -1496,10 +1989,10 @@
         "numVotes": 0
     },
     {
-        "index": 88,
+        "index": 117,
         "plTitle": "NEW in November on SonyLIV",
         "title": "UEFA Champions League | Malm\u00f6 FF vs Chelsea | 2nd Nov - 11:15 PM IST | LIVE on SonyLIV",
-        "views": 2200,
+        "views": 2203,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=2CJUpm4R60w",
@@ -1513,10 +2006,10 @@
         "numVotes": 0
     },
     {
-        "index": 89,
+        "index": 118,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Tabbar | SonyLIV Originals | Streaming Now",
-        "views": 4435031,
+        "views": 4435592,
         "likes": 0,
         "publish_date": "2021-10-14",
         "url": "https://www.youtube.com/watch?v=u-BNyhg6o4E",
@@ -1526,14 +2019,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama,Thriller",
-        "averageRating": 8.5,
-        "numVotes": 2505
+        "averageRating": 8.4,
+        "numVotes": 3163
     },
     {
-        "index": 90,
+        "index": 119,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Thinkalazhcha Nishchayam | Official Trailer - Malayalam Movie | SonyLIV Exclusive | Streaming Now",
-        "views": 3660170,
+        "views": 3662964,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=m-AyD3LkigE",
@@ -1544,13 +2037,13 @@
         "startYear": 2021,
         "genres": "Comedy,Drama,Romance",
         "averageRating": 7.9,
-        "numVotes": 1096
+        "numVotes": 1529
     },
     {
-        "index": 91,
+        "index": 120,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Yennanga Sir Unga Sattam | Official Trailer - Tamil Movie | SonyLIV | Streaming Now",
-        "views": 3885983,
+        "views": 3886089,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=nimG_M9DP7I",
@@ -1560,14 +2053,14 @@
         "titleType": "video",
         "startYear": 2021,
         "genres": "Comedy,Drama",
-        "averageRating": 7.7,
-        "numVotes": 599
+        "averageRating": 7.6,
+        "numVotes": 717
     },
     {
-        "index": 92,
+        "index": 121,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Family Drama | Official Trailer - Telugu Movie | SonyLIV | Streaming Now",
-        "views": 23201,
+        "views": 23660,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=chVtXMfSig8",
@@ -1577,14 +2070,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Drama",
-        "averageRating": 7.7,
-        "numVotes": 209
+        "averageRating": 7.6,
+        "numVotes": 271
     },
     {
-        "index": 93,
+        "index": 122,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Kaasav | Official Trailer | SonyLIV Exclusive | Streaming Now",
-        "views": 1842580,
+        "views": 1842617,
         "likes": 0,
         "publish_date": "2021-10-07",
         "url": "https://www.youtube.com/watch?v=L0LhvRLhMIA",
@@ -1598,10 +2091,10 @@
         "numVotes": 0
     },
     {
-        "index": 94,
+        "index": 123,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Itlu Amma | Official Trailer - Telugu Movie | SonyLIV | Streaming Now",
-        "views": 1923579,
+        "views": 1923620,
         "likes": 0,
         "publish_date": "2021-10-07",
         "url": "https://www.youtube.com/watch?v=PmKM4J4fn84",
@@ -1611,14 +2104,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Drama",
-        "averageRating": 8.3,
-        "numVotes": 49
+        "averageRating": 8.2,
+        "numVotes": 59
     },
     {
-        "index": 95,
+        "index": 124,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Appathava Aattaya Pottutanga | Official Trailer - Tamil Movie | SonyLIV | Streaming Now",
-        "views": 1564093,
+        "views": 1564177,
         "likes": 0,
         "publish_date": "2021-10-07",
         "url": "https://www.youtube.com/watch?v=7BkFujIfM3I",
@@ -1628,14 +2121,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Comedy,Drama",
-        "averageRating": 6.9,
-        "numVotes": 47
+        "averageRating": 6.8,
+        "numVotes": 53
     },
     {
-        "index": 96,
+        "index": 125,
         "plTitle": "NEW in October on SonyLIV",
         "title": "#Aamis | Official Trailer - Assamese film | SonyLIV Exclusive | Streaming Now",
-        "views": 1911055,
+        "views": 1911275,
         "likes": 0,
         "publish_date": "2021-10-02",
         "url": "https://www.youtube.com/watch?v=hW59PV0WTW8",
@@ -1649,10 +2142,10 @@
         "numVotes": 0
     },
     {
-        "index": 97,
+        "index": 126,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Britannia Season 3 | Streaming Now | Exclusively on SonyLIV | India Premiere Series",
-        "views": 5616,
+        "views": 5636,
         "likes": 0,
         "publish_date": "2021-10-14",
         "url": "https://www.youtube.com/watch?v=7wLJczGNRq4",
@@ -1666,10 +2159,10 @@
         "numVotes": 0
     },
     {
-        "index": 98,
+        "index": 127,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Crossing Swords | Streaming Now | SonyLIV India Premiere Series",
-        "views": 4762,
+        "views": 4776,
         "likes": 0,
         "publish_date": "2021-10-01",
         "url": "https://www.youtube.com/watch?v=o0TD__msoHc",
@@ -1680,13 +2173,13 @@
         "startYear": 2020,
         "genres": "Animation,Comedy,Fantasy",
         "averageRating": 6.7,
-        "numVotes": 1159
+        "numVotes": 1393
     },
     {
-        "index": 99,
+        "index": 128,
         "plTitle": "NEW in October on SonyLIV",
         "title": "The Good Doctor Season 5 | Streaming Now | Along with the U.S. | Exclusively on SonyLIV",
-        "views": 4554,
+        "views": 4573,
         "likes": 0,
         "publish_date": "2021-09-28",
         "url": "https://www.youtube.com/watch?v=vc7QWeXpBNQ",
@@ -1700,10 +2193,10 @@
         "numVotes": 6
     },
     {
-        "index": 100,
+        "index": 129,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Women's Big Bash League | 14th October to 27th November | Streaming LIVE on SonyLIV",
-        "views": 9487,
+        "views": 9500,
         "likes": 0,
         "publish_date": "2021-10-11",
         "url": "https://www.youtube.com/watch?v=3EPibofKTj4",
@@ -1717,10 +2210,10 @@
         "numVotes": 0
     },
     {
-        "index": 101,
+        "index": 130,
         "plTitle": "NEW in October on SonyLIV",
         "title": "WWE Crown Jewel | 21st October - 8:30 PM IST | Streaming LIVE on SonyLIV",
-        "views": 10759,
+        "views": 10772,
         "likes": 0,
         "publish_date": "2021-10-13",
         "url": "https://www.youtube.com/watch?v=ynXQ4z6hvWA",
@@ -1731,13 +2224,13 @@
         "startYear": 2021,
         "genres": "Action,Sport",
         "averageRating": 7.2,
-        "numVotes": 125
+        "numVotes": 136
     },
     {
-        "index": 102,
+        "index": 131,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Champions League | Manchester United vs Atalanta | 21st October - 12:30 AM | LIVE on SonyLIV",
-        "views": 2140,
+        "views": 2146,
         "likes": 0,
         "publish_date": "2021-10-18",
         "url": "https://www.youtube.com/watch?v=7psbVC6WRag",
@@ -1751,10 +2244,10 @@
         "numVotes": 0
     },
     {
-        "index": 103,
+        "index": 132,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Champions League | Atl\u00e9tico Madrid vs Liverpool | 20th October - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 1323,
+        "views": 1328,
         "likes": 0,
         "publish_date": "2021-10-17",
         "url": "https://www.youtube.com/watch?v=3cZHx1BYoiY",
@@ -1768,10 +2261,10 @@
         "numVotes": 0
     },
     {
-        "index": 104,
+        "index": 133,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Nations League | Final | Spain vs France | 11th October - 12:15 AM IST | LIVE on SonyLIV",
-        "views": 4287,
+        "views": 4290,
         "likes": 0,
         "publish_date": "2021-10-08",
         "url": "https://www.youtube.com/watch?v=c5DX0OujkQg",
@@ -1785,10 +2278,10 @@
         "numVotes": 0
     },
     {
-        "index": 105,
+        "index": 134,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Nations League | Third Place Playoff | Italy vs Belgium | Streaming LIVE on SonyLIV",
-        "views": 2257,
+        "views": 2259,
         "likes": 0,
         "publish_date": "2021-10-07",
         "url": "https://www.youtube.com/watch?v=ijonEqB41Rg",
@@ -1802,10 +2295,10 @@
         "numVotes": 0
     },
     {
-        "index": 106,
+        "index": 135,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Tabbar | SonyLIV Originals | Streaming on 15th October",
-        "views": 11039,
+        "views": 11397,
         "likes": 0,
         "publish_date": "2021-10-11",
         "url": "https://www.youtube.com/watch?v=swaVDW71c-Q",
@@ -1815,14 +2308,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama,Thriller",
-        "averageRating": 8.5,
-        "numVotes": 2505
+        "averageRating": 8.4,
+        "numVotes": 3163
     },
     {
-        "index": 107,
+        "index": 136,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Tabbar | SonyLIV Originals | Streaming on 15th October",
-        "views": 5651,
+        "views": 5803,
         "likes": 0,
         "publish_date": "2021-10-11",
         "url": "https://www.youtube.com/watch?v=dCbgozJ-zM0",
@@ -1832,14 +2325,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama,Thriller",
-        "averageRating": 8.5,
-        "numVotes": 2505
+        "averageRating": 8.4,
+        "numVotes": 3163
     },
     {
-        "index": 108,
+        "index": 137,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Nations League | Semi-Final | Belgium vs France | 8th October - 12:15 AM IST | LIVE on SonyLIV",
-        "views": 3202,
+        "views": 3203,
         "likes": 0,
         "publish_date": "2021-10-02",
         "url": "https://www.youtube.com/watch?v=pXHCJfhBtNA",
@@ -1853,10 +2346,10 @@
         "numVotes": 0
     },
     {
-        "index": 109,
+        "index": 138,
         "plTitle": "NEW in October on SonyLIV",
         "title": "UEFA Nations League | Semi-Final | Italy vs Spain | 7th October - 12:15 AM IST | LIVE on SonyLIV",
-        "views": 5671,
+        "views": 5679,
         "likes": 0,
         "publish_date": "2021-10-03",
         "url": "https://www.youtube.com/watch?v=nvnJMY79b4g",
@@ -1870,10 +2363,10 @@
         "numVotes": 0
     },
     {
-        "index": 110,
+        "index": 139,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Portugal vs Luxembourg | Streaming LIVE on SonyLIV",
-        "views": 4410,
+        "views": 4414,
         "likes": 0,
         "publish_date": "2021-10-10",
         "url": "https://www.youtube.com/watch?v=2CZIgZyQL8I",
@@ -1887,10 +2380,10 @@
         "numVotes": 0
     },
     {
-        "index": 111,
+        "index": 140,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Czech Republic vs. Wales | Streaming LIVE on SonyLIV",
-        "views": 1719,
+        "views": 1721,
         "likes": 0,
         "publish_date": "2021-10-05",
         "url": "https://www.youtube.com/watch?v=Tn4bTej5g5Y",
@@ -1904,10 +2397,10 @@
         "numVotes": 0
     },
     {
-        "index": 112,
+        "index": 141,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Germany vs Romania | Streaming LIVE on SonyLIV",
-        "views": 1535,
+        "views": 1536,
         "likes": 0,
         "publish_date": "2021-10-05",
         "url": "https://www.youtube.com/watch?v=xcUdMEnnb4k",
@@ -1921,7 +2414,7 @@
         "numVotes": 0
     },
     {
-        "index": 113,
+        "index": 142,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Latvia vs Netherlands | Streaming LIVE on SonyLIV",
         "views": 620,
@@ -1938,10 +2431,10 @@
         "numVotes": 0
     },
     {
-        "index": 114,
+        "index": 143,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Andorra vs. England | Streaming LIVE on SonyLIV",
-        "views": 1418,
+        "views": 1419,
         "likes": 0,
         "publish_date": "2021-10-06",
         "url": "https://www.youtube.com/watch?v=jgj9O36GeXI",
@@ -1955,10 +2448,10 @@
         "numVotes": 0
     },
     {
-        "index": 115,
+        "index": 144,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Cyprus vs. Croatia | Streaming LIVE on SonyLIV",
-        "views": 854,
+        "views": 855,
         "likes": 0,
         "publish_date": "2021-10-05",
         "url": "https://www.youtube.com/watch?v=yewOspi0WAc",
@@ -1972,7 +2465,7 @@
         "numVotes": 0
     },
     {
-        "index": 116,
+        "index": 145,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | North Macedonia vs Germany | Streaming LIVE on SonyLIV",
         "views": 930,
@@ -1989,7 +2482,7 @@
         "numVotes": 0
     },
     {
-        "index": 117,
+        "index": 146,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | England vs Hungary | Streaming LIVE on SonyLIV",
         "views": 1257,
@@ -2006,7 +2499,7 @@
         "numVotes": 0
     },
     {
-        "index": 118,
+        "index": 147,
         "plTitle": "NEW in October on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Netherlands vs Gibraltar | Streaming LIVE on SonyLIV",
         "views": 1596,
@@ -2023,10 +2516,10 @@
         "numVotes": 0
     },
     {
-        "index": 119,
+        "index": 148,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Its All Good- Music Video | SonyLIV originals | #Potluck- Streaming now",
-        "views": 6044199,
+        "views": 6044421,
         "likes": 0,
         "publish_date": "2021-09-09",
         "url": "https://www.youtube.com/watch?v=wWlGs4Ac56Q",
@@ -2040,10 +2533,10 @@
         "numVotes": 0
     },
     {
-        "index": 120,
+        "index": 149,
         "plTitle": "NEW in September on SonyLIV",
         "title": "NADUVAN | Trailer \u2013 Tamil Movie | SonyLIV | Streaming Now",
-        "views": 2770769,
+        "views": 2770799,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=-FUTMgZic7w",
@@ -2057,10 +2550,10 @@
         "numVotes": 0
     },
     {
-        "index": 121,
+        "index": 150,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Aakashavaani | Official Trailer - Telugu Movie | SonyLIV | Streaming Now",
-        "views": 2042521,
+        "views": 2042777,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=ox1UO2NiBYo",
@@ -2070,14 +2563,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Drama",
-        "averageRating": 8.0,
-        "numVotes": 476
+        "averageRating": 8.8,
+        "numVotes": 1920
     },
     {
-        "index": 122,
+        "index": 151,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Raghu CNG | Streaming now- Gujarati film | SonyLIV exclusive",
-        "views": 931535,
+        "views": 931544,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=EetLSf6_MY4",
@@ -2091,10 +2584,10 @@
         "numVotes": 0
     },
     {
-        "index": 123,
+        "index": 152,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Tabbar | Official Teaser | SonyLIV Originals | Streaming Soon",
-        "views": 536228,
+        "views": 536461,
         "likes": 0,
         "publish_date": "2021-09-10",
         "url": "https://www.youtube.com/watch?v=yIfsz_m0wRg",
@@ -2104,14 +2597,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama,Thriller",
-        "averageRating": 8.5,
-        "numVotes": 2505
+        "averageRating": 8.4,
+        "numVotes": 3163
     },
     {
-        "index": 124,
+        "index": 153,
         "plTitle": "NEW in September on SonyLIV",
         "title": "The Good Doctor Season 5 | Premieres 28th September | Along with the U.S. | Exclusively on SonyLIV",
-        "views": 2884,
+        "views": 2909,
         "likes": 0,
         "publish_date": "2021-09-17",
         "url": "https://www.youtube.com/watch?v=zIJ5sB1DXAg",
@@ -2125,10 +2618,10 @@
         "numVotes": 6
     },
     {
-        "index": 125,
+        "index": 154,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Kaanekkaane | Official Trailer \u2013 Malayalam Movie | SonyLIV | Streaming now",
-        "views": 4512914,
+        "views": 4516899,
         "likes": 0,
         "publish_date": "2021-09-16",
         "url": "https://www.youtube.com/watch?v=iEDAdwcS8VA",
@@ -2138,14 +2631,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Drama",
-        "averageRating": 8.0,
-        "numVotes": 3123
+        "averageRating": 7.9,
+        "numVotes": 3385
     },
     {
-        "index": 126,
+        "index": 155,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Priyuraalu | Official Trailer \u2013 Telugu Movie | SonyLIV  | Streaming now",
-        "views": 3115445,
+        "views": 3119896,
         "likes": 0,
         "publish_date": "2021-09-16",
         "url": "https://www.youtube.com/watch?v=MPmqepD8MF0",
@@ -2155,14 +2648,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Romance",
-        "averageRating": 7.5,
-        "numVotes": 66
+        "averageRating": 7.2,
+        "numVotes": 74
     },
     {
-        "index": 127,
+        "index": 156,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Alpha Adimai | Trailer - Tamil Movie | SonyLIV | Streaming Now",
-        "views": 199463,
+        "views": 199538,
         "likes": 0,
         "publish_date": "2021-09-02",
         "url": "https://www.youtube.com/watch?v=9sl7qUVfuXo",
@@ -2172,14 +2665,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Thriller",
-        "averageRating": 6.3,
-        "numVotes": 48
+        "averageRating": 6.4,
+        "numVotes": 50
     },
     {
-        "index": 128,
+        "index": 157,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Manchester United vs Villarreal | 30th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 5226,
+        "views": 5227,
         "likes": 0,
         "publish_date": "2021-09-22",
         "url": "https://www.youtube.com/watch?v=UN3qkmqvTcE",
@@ -2193,10 +2686,10 @@
         "numVotes": 0
     },
     {
-        "index": 129,
+        "index": 158,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Juventus vs Chelsea | 30th September - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 2418,
+        "views": 2425,
         "likes": 0,
         "publish_date": "2021-09-27",
         "url": "https://www.youtube.com/watch?v=-y-C9EURMj0",
@@ -2210,10 +2703,10 @@
         "numVotes": 0
     },
     {
-        "index": 130,
+        "index": 159,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | PSG vs Manchester City | 29th September - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 6389,
+        "views": 6434,
         "likes": 0,
         "publish_date": "2021-09-26",
         "url": "https://www.youtube.com/watch?v=OqBAUNl7w9o",
@@ -2227,10 +2720,10 @@
         "numVotes": 0
     },
     {
-        "index": 131,
+        "index": 160,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Real Madrid vs FC Sheriff | 29th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 1213,
+        "views": 1217,
         "likes": 0,
         "publish_date": "2021-09-22",
         "url": "https://www.youtube.com/watch?v=sAlTScNczfw",
@@ -2244,10 +2737,10 @@
         "numVotes": 0
     },
     {
-        "index": 132,
+        "index": 161,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UFC 266 | Volkanovski vs Brian Ortega | 26th September - 7 AM IST | LIVE on SonyLIV",
-        "views": 1010,
+        "views": 1011,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=M7_d_z4WKWw",
@@ -2261,10 +2754,10 @@
         "numVotes": 0
     },
     {
-        "index": 133,
+        "index": 162,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UFC 266 | Volkanovski vs Brian Ortega | 26th September - 7 AM IST | Streaming LIVE on SonyLIV",
-        "views": 1571,
+        "views": 1574,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=77y6O9NRnfM",
@@ -2278,10 +2771,10 @@
         "numVotes": 0
     },
     {
-        "index": 134,
+        "index": 163,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Club Brugge vs PSG | 16th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 3234,
+        "views": 3238,
         "likes": 0,
         "publish_date": "2021-09-13",
         "url": "https://www.youtube.com/watch?v=gAEn1nvsybA",
@@ -2295,10 +2788,10 @@
         "numVotes": 0
     },
     {
-        "index": 135,
+        "index": 164,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Club Brugge vs PSG | 16th Sept - 12:30 AM IST | Streaming LIVE on SonyLIV",
-        "views": 6085,
+        "views": 6113,
         "likes": 0,
         "publish_date": "2021-09-13",
         "url": "https://www.youtube.com/watch?v=EyX-Uv8zGrI",
@@ -2312,10 +2805,10 @@
         "numVotes": 0
     },
     {
-        "index": 136,
+        "index": 165,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Inter Milan vs Real Madrid | 16th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 3826,
+        "views": 3832,
         "likes": 0,
         "publish_date": "2021-09-13",
         "url": "https://www.youtube.com/watch?v=54f7T2PNeGs",
@@ -2329,10 +2822,10 @@
         "numVotes": 0
     },
     {
-        "index": 137,
+        "index": 166,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Liverpool vs AC Milan | 16th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 1699,
+        "views": 1702,
         "likes": 0,
         "publish_date": "2021-09-15",
         "url": "https://www.youtube.com/watch?v=HLoIsQFJOSs",
@@ -2346,10 +2839,10 @@
         "numVotes": 0
     },
     {
-        "index": 138,
+        "index": 167,
         "plTitle": "NEW in September on SonyLIV",
         "title": "UEFA Champions League | Barcelona vs Bayern Munich | 15th Sept - 12:30 AM IST | LIVE on SonyLIV",
-        "views": 6190,
+        "views": 6197,
         "likes": 0,
         "publish_date": "2021-09-13",
         "url": "https://www.youtube.com/watch?v=U_hTa110yuc",
@@ -2363,10 +2856,10 @@
         "numVotes": 0
     },
     {
-        "index": 139,
+        "index": 168,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Ronaldo Is Back | Young Boys vs Manchester United | 14th Sept - 10:15 PM IST | LIVE on SonyLIV",
-        "views": 7845,
+        "views": 7847,
         "likes": 0,
         "publish_date": "2021-09-09",
         "url": "https://www.youtube.com/watch?v=TSyfVV9U4H8",
@@ -2380,10 +2873,10 @@
         "numVotes": 0
     },
     {
-        "index": 140,
+        "index": 169,
         "plTitle": "NEW in September on SonyLIV",
         "title": "Ronaldo Is Back | Young Boys vs Manchester United | 14th Sept - 10:15 PM IST | LIVE on SonyLIV",
-        "views": 6406,
+        "views": 6407,
         "likes": 0,
         "publish_date": "2021-09-12",
         "url": "https://www.youtube.com/watch?v=CmPUrIupZ3M",
@@ -2397,10 +2890,10 @@
         "numVotes": 0
     },
     {
-        "index": 141,
+        "index": 170,
         "plTitle": "NEW in September on SonyLIV",
         "title": "South Africa Tour of Sri Lanka | 3 ODIs & 3 T20Is Series | 2nd - 14th September | LIVE on SonyLIV",
-        "views": 13035,
+        "views": 13042,
         "likes": 0,
         "publish_date": "2021-09-03",
         "url": "https://www.youtube.com/watch?v=s6K7gi0vh1o",
@@ -2414,10 +2907,10 @@
         "numVotes": 0
     },
     {
-        "index": 142,
+        "index": 171,
         "plTitle": "NEW in September on SonyLIV",
         "title": "New Zealand Tour of Pakistan | 3 ODIs & 5 T20Is Series | 17th Sept -3rd Oct | LIVE on SonyLIV",
-        "views": 41274,
+        "views": 41286,
         "likes": 0,
         "publish_date": "2021-09-15",
         "url": "https://www.youtube.com/watch?v=bdCSqRlVdFo",
@@ -2431,10 +2924,10 @@
         "numVotes": 0
     },
     {
-        "index": 143,
+        "index": 172,
         "plTitle": "NEW in September on SonyLIV",
         "title": "India Tour of England | The Final Test | 10th - 14th September | 3:30 PM Onwards | LIVE on SonyLIV",
-        "views": 26737,
+        "views": 26744,
         "likes": 0,
         "publish_date": "2021-09-09",
         "url": "https://www.youtube.com/watch?v=eMhVgo65MFE",
@@ -2448,10 +2941,10 @@
         "numVotes": 0
     },
     {
-        "index": 144,
+        "index": 173,
         "plTitle": "NEW in September on SonyLIV",
         "title": "India Tour of England | 4th August - 14th September | Streaming LIVE on SonyLIV",
-        "views": 16972,
+        "views": 16977,
         "likes": 0,
         "publish_date": "2021-09-09",
         "url": "https://www.youtube.com/watch?v=xFO3LoEt7yc",
@@ -2465,7 +2958,7 @@
         "numVotes": 0
     },
     {
-        "index": 145,
+        "index": 174,
         "plTitle": "NEW in September on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Ukraine vs France | Streaming LIVE on SonyLIV",
         "views": 9948,
@@ -2482,10 +2975,10 @@
         "numVotes": 0
     },
     {
-        "index": 146,
+        "index": 175,
         "plTitle": "NEW in September on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Poland vs England | Streaming LIVE on SonyLIV",
-        "views": 4090,
+        "views": 4091,
         "likes": 0,
         "publish_date": "2021-09-01",
         "url": "https://www.youtube.com/watch?v=Z_1VA6YCvRo",
@@ -2499,10 +2992,10 @@
         "numVotes": 0
     },
     {
-        "index": 147,
+        "index": 176,
         "plTitle": "NEW in September on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Netherlands vs Turkey | Streaming LIVE on SonyLIV",
-        "views": 4176,
+        "views": 4178,
         "likes": 0,
         "publish_date": "2021-09-01",
         "url": "https://www.youtube.com/watch?v=NLdmrGGyGEY",
@@ -2516,10 +3009,10 @@
         "numVotes": 0
     },
     {
-        "index": 148,
+        "index": 177,
         "plTitle": "NEW in September on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Switzerland vs Italy | Streaming LIVE on SonyLIV",
-        "views": 6473,
+        "views": 6475,
         "likes": 0,
         "publish_date": "2021-09-01",
         "url": "https://www.youtube.com/watch?v=izYAzcqASVU",
@@ -2533,10 +3026,10 @@
         "numVotes": 0
     },
     {
-        "index": 149,
+        "index": 178,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Alpha Adimai | Trailer - Tamil Movie | SonyLIV | Streaming Now",
-        "views": 199463,
+        "views": 199538,
         "likes": 0,
         "publish_date": "2021-09-02",
         "url": "https://www.youtube.com/watch?v=9sl7qUVfuXo",
@@ -2546,14 +3039,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Thriller",
-        "averageRating": 6.3,
-        "numVotes": 48
+        "averageRating": 6.4,
+        "numVotes": 50
     },
     {
-        "index": 150,
+        "index": 179,
         "plTitle": "NEW in August on SonyLIV",
         "title": "European Qualifiers for the 2022 World Cup | Switzerland vs Italy | Streaming LIVE on SonyLIV",
-        "views": 6473,
+        "views": 6475,
         "likes": 0,
         "publish_date": "2021-09-01",
         "url": "https://www.youtube.com/watch?v=izYAzcqASVU",
@@ -2567,10 +3060,10 @@
         "numVotes": 0
     },
     {
-        "index": 151,
+        "index": 180,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Chapelwaite | Streaming Now | Along with the U.S. | SonyLIV India Premiere Series",
-        "views": 7177,
+        "views": 7189,
         "likes": 0,
         "publish_date": "2021-08-22",
         "url": "https://www.youtube.com/watch?v=Mn4PYjV51HI",
@@ -2580,14 +3073,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Drama,Horror,Mystery",
-        "averageRating": 7.3,
-        "numVotes": 6197
+        "averageRating": 7.2,
+        "numVotes": 7165
     },
     {
-        "index": 152,
+        "index": 181,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Kasada Tabara | Official Trailer (Tamil) | SonyLIV | Streaming on August 27th",
-        "views": 1757311,
+        "views": 1757786,
         "likes": 0,
         "publish_date": "2021-08-21",
         "url": "https://www.youtube.com/watch?v=6Z0EM0Q2Uk4",
@@ -2601,10 +3094,10 @@
         "numVotes": 0
     },
     {
-        "index": 153,
+        "index": 182,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Potluck | Official Trailer | SonyLIV Originals | Streaming on 10th Sept",
-        "views": 4020406,
+        "views": 4020428,
         "likes": 0,
         "publish_date": "2021-08-20",
         "url": "https://www.youtube.com/watch?v=8FpVlVXLd5w",
@@ -2615,13 +3108,13 @@
         "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 7.7,
-        "numVotes": 219
+        "numVotes": 227
     },
     {
-        "index": 154,
+        "index": 183,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Chalo Koi Baat Nahi | Streaming Now",
-        "views": 11665,
+        "views": 11671,
         "likes": 0,
         "publish_date": "2021-08-19",
         "url": "https://www.youtube.com/watch?v=wFMdXJDCGc0",
@@ -2632,13 +3125,13 @@
         "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 7.5,
-        "numVotes": 120
+        "numVotes": 121
     },
     {
-        "index": 155,
+        "index": 184,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Alpha Adimai | Official Trailer \u2013 Tamil Movie | SonyLIV | Streaming on September 3",
-        "views": 41132,
+        "views": 41373,
         "likes": 0,
         "publish_date": "2021-08-27",
         "url": "https://www.youtube.com/watch?v=4jhN5cZOLo0",
@@ -2648,14 +3141,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Thriller",
-        "averageRating": 6.3,
-        "numVotes": 48
+        "averageRating": 6.4,
+        "numVotes": 50
     },
     {
-        "index": 156,
+        "index": 185,
         "plTitle": "NEW in August on SonyLIV",
         "title": "India Tour of England | 3rd Test | 25th - 29th Aug | 3:30 PM Onwards | Streaming LIVE on SonyLIV",
-        "views": 61827,
+        "views": 61834,
         "likes": 0,
         "publish_date": "2021-08-22",
         "url": "https://www.youtube.com/watch?v=TOshpjw9Imo",
@@ -2669,10 +3162,10 @@
         "numVotes": 0
     },
     {
-        "index": 157,
+        "index": 186,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Chalo Koi Baat Nahi | Official Trailer | Streaming from 20th Aug",
-        "views": 1018950,
+        "views": 1019260,
         "likes": 0,
         "publish_date": "2021-08-16",
         "url": "https://www.youtube.com/watch?v=Q77oqmQk6Eg",
@@ -2683,30 +3176,30 @@
         "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 7.5,
-        "numVotes": 120
+        "numVotes": 121
     },
     {
-        "index": 158,
+        "index": 187,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Rocket Boys | SonyLIV Originals | Streaming Soon",
-        "views": 8700378,
+        "views": 8719378,
         "likes": 0,
         "publish_date": "2021-08-14",
         "url": "https://www.youtube.com/watch?v=7UlZH-uB5VM",
         "thumbnail": "https://i.ytimg.com/vi/7UlZH-uB5VM/hqdefault.jpg",
         "fTitle": "Rocket Boys",
-        "tconst": "",
-        "titleType": "",
-        "startYear": 0,
-        "genres": "",
+        "tconst": "tt13868972",
+        "titleType": "tvSeries",
+        "startYear": 2022,
+        "genres": "Comedy,Drama,History",
         "averageRating": 0.0,
         "numVotes": 0
     },
     {
-        "index": 159,
+        "index": 188,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Fantasy Island | Premieres 18th Aug - Along with the U.S. | SonyLIV India Premiere Series",
-        "views": 6290,
+        "views": 6375,
         "likes": 0,
         "publish_date": "2021-08-13",
         "url": "https://www.youtube.com/watch?v=Nil5D5QE0Bs",
@@ -2717,13 +3210,13 @@
         "startYear": 2020,
         "genres": "Action,Adventure,Fantasy",
         "averageRating": 4.9,
-        "numVotes": 44394
+        "numVotes": 45622
     },
     {
-        "index": 160,
+        "index": 189,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Shantit Kranti | SonyLIV Originals | Streaming Now | Web Series| All episodes",
-        "views": 2628255,
+        "views": 2628345,
         "likes": 0,
         "publish_date": "2021-08-12",
         "url": "https://www.youtube.com/watch?v=OlYOPRVeFlE",
@@ -2737,10 +3230,10 @@
         "numVotes": 0
     },
     {
-        "index": 161,
+        "index": 190,
         "plTitle": "NEW in August on SonyLIV",
         "title": "The Latest Season of The Good Doctor | Season 4 Streaming Now | Binge-Watch All Seasons on SonyLIV",
-        "views": 133217,
+        "views": 133223,
         "likes": 0,
         "publish_date": "2021-08-11",
         "url": "https://www.youtube.com/watch?v=GaeVIlE6qhM",
@@ -2754,10 +3247,10 @@
         "numVotes": 0
     },
     {
-        "index": 162,
+        "index": 191,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Potluck | Official Trailer | SonyLIV Originals | Streaming Soon",
-        "views": 5110415,
+        "views": 5111158,
         "likes": 0,
         "publish_date": "2021-08-11",
         "url": "https://www.youtube.com/watch?v=QaP21AFxu-g",
@@ -2768,13 +3261,13 @@
         "startYear": 2021,
         "genres": "Comedy",
         "averageRating": 7.7,
-        "numVotes": 219
+        "numVotes": 227
     },
     {
-        "index": 163,
+        "index": 192,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Shantit Kranti | New Trailer- Marathi | SonyLIV Originals | Streaming on 13th Aug.",
-        "views": 2848228,
+        "views": 2849550,
         "likes": 0,
         "publish_date": "2021-08-09",
         "url": "https://www.youtube.com/watch?v=aaF70ztyfyA",
@@ -2788,10 +3281,10 @@
         "numVotes": 0
     },
     {
-        "index": 164,
+        "index": 193,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Vivaha Bhojanambu | Official Trailer (Telugu) | SonyLIV | Streaming Soon",
-        "views": 1191220,
+        "views": 1193074,
         "likes": 0,
         "publish_date": "2021-08-04",
         "url": "https://www.youtube.com/watch?v=djoGmxyO5i4",
@@ -2801,14 +3294,14 @@
         "titleType": "movie",
         "startYear": 2021,
         "genres": "Comedy",
-        "averageRating": 6.6,
-        "numVotes": 459
+        "averageRating": 6.5,
+        "numVotes": 485
     },
     {
-        "index": 165,
+        "index": 194,
         "plTitle": "NEW in August on SonyLIV",
         "title": "The Celebrity Dating Game | Streaming Now | SonyLIV India Premiere Series",
-        "views": 28285,
+        "views": 28287,
         "likes": 0,
         "publish_date": "2021-08-09",
         "url": "https://www.youtube.com/watch?v=2sjXhnx_x9c",
@@ -2818,14 +3311,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Game-Show,Reality-TV,Romance",
-        "averageRating": 2.8,
-        "numVotes": 322
+        "averageRating": 2.9,
+        "numVotes": 325
     },
     {
-        "index": 166,
+        "index": 195,
         "plTitle": "NEW in August on SonyLIV",
         "title": "India Tour of England | 5 Match Test Series | 4th Aug \u2013 14th Sept | LIVE on SonyLIV",
-        "views": 10802714,
+        "views": 10802734,
         "likes": 0,
         "publish_date": "2021-07-28",
         "url": "https://www.youtube.com/watch?v=2QWiDN-5eIs",
@@ -2839,10 +3332,10 @@
         "numVotes": 0
     },
     {
-        "index": 167,
+        "index": 196,
         "plTitle": "NEW in August on SonyLIV",
         "title": "The Latest Season of The Good Doctor | Streaming Now |Binge-Watch All Seasons Exclusively on SonyLIV",
-        "views": 2642,
+        "views": 2650,
         "likes": 0,
         "publish_date": "2021-07-31",
         "url": "https://www.youtube.com/watch?v=M9nJKgmVxEo",
@@ -2856,10 +3349,10 @@
         "numVotes": 0
     },
     {
-        "index": 168,
+        "index": 197,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Thittam Irandu/Plan B | Official Trailer (Tamil) | SonyLIV | Streaming Now",
-        "views": 6603456,
+        "views": 6603858,
         "likes": 0,
         "publish_date": "2021-07-29",
         "url": "https://www.youtube.com/watch?v=9Vo9Uyh8oJw",
@@ -2873,10 +3366,10 @@
         "numVotes": 0
     },
     {
-        "index": 169,
+        "index": 198,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Shantit Kranti | Official Trailer-Marathi | SonyLIV Originals | Streaming on 13th Aug.",
-        "views": 49572,
+        "views": 49766,
         "likes": 0,
         "publish_date": "2021-07-28",
         "url": "https://www.youtube.com/watch?v=eZ91EjX2qQ0",
@@ -2890,10 +3383,10 @@
         "numVotes": 0
     },
     {
-        "index": 170,
+        "index": 199,
         "plTitle": "NEW in August on SonyLIV",
         "title": "The Celebrity Dating Game | Streaming from 6th Aug | SonyLIV India Premiere Series",
-        "views": 5610,
+        "views": 5612,
         "likes": 0,
         "publish_date": "2021-07-29",
         "url": "https://www.youtube.com/watch?v=jdlTbHI6b64",
@@ -2903,14 +3396,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Game-Show,Reality-TV,Romance",
-        "averageRating": 2.8,
-        "numVotes": 322
+        "averageRating": 2.9,
+        "numVotes": 325
     },
     {
-        "index": 171,
+        "index": 200,
         "plTitle": "NEW in August on SonyLIV",
         "title": "Chutzpah | Streaming Now | SonyLIV Originals | All Episodes",
-        "views": 5762579,
+        "views": 5762703,
         "likes": 0,
         "publish_date": "2021-07-22",
         "url": "https://www.youtube.com/watch?v=ek72F-UWVr4",
@@ -2921,13 +3414,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 6.1,
-        "numVotes": 627
+        "numVotes": 635
     },
     {
-        "index": 172,
+        "index": 201,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Chutzpah | Streaming Now | SonyLIV Originals | All Episodes",
-        "views": 5762579,
+        "views": 5762703,
         "likes": 0,
         "publish_date": "2021-07-22",
         "url": "https://www.youtube.com/watch?v=ek72F-UWVr4",
@@ -2938,13 +3431,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 6.1,
-        "numVotes": 627
+        "numVotes": 635
     },
     {
-        "index": 173,
+        "index": 202,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Thittam Irandu/Plan B | Official Trailer (Tamil) | SonyLIV | Streaming Now",
-        "views": 6603456,
+        "views": 6603858,
         "likes": 0,
         "publish_date": "2021-07-29",
         "url": "https://www.youtube.com/watch?v=9Vo9Uyh8oJw",
@@ -2958,10 +3451,10 @@
         "numVotes": 0
     },
     {
-        "index": 174,
+        "index": 203,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Vaazhl | Official Trailer (Tamil) | SonyLIV Exclusive | Streaming Now",
-        "views": 3237558,
+        "views": 3237676,
         "likes": 0,
         "publish_date": "2021-07-15",
         "url": "https://www.youtube.com/watch?v=aXewp4x-Xfg",
@@ -2972,13 +3465,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 7.0,
-        "numVotes": 1120
+        "numVotes": 1163
     },
     {
-        "index": 175,
+        "index": 204,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Monsterland | Streaming Now | SonyLIV India Premiere Series",
-        "views": 15011,
+        "views": 15028,
         "likes": 0,
         "publish_date": "2021-07-01",
         "url": "https://www.youtube.com/watch?v=KweQadlVpUA",
@@ -2989,13 +3482,13 @@
         "startYear": 2020,
         "genres": "Drama,Fantasy,Horror",
         "averageRating": 5.6,
-        "numVotes": 2576
+        "numVotes": 2621
     },
     {
-        "index": 176,
+        "index": 205,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Anne Boleyn | Streaming on 9th July | SonyLIV",
-        "views": 10102,
+        "views": 10105,
         "likes": 0,
         "publish_date": "2021-07-04",
         "url": "https://www.youtube.com/watch?v=fNOa9cfHBjk",
@@ -3005,14 +3498,14 @@
         "titleType": "tvMiniSeries",
         "startYear": 2021,
         "genres": "Drama,History",
-        "averageRating": 5.4,
-        "numVotes": 24202
+        "averageRating": 5.7,
+        "numVotes": 25201
     },
     {
-        "index": 177,
+        "index": 206,
         "plTitle": "NEW in July on SonyLIV",
         "title": "Kon Honaar Crorepati- Play Along",
-        "views": 13689,
+        "views": 13715,
         "likes": 0,
         "publish_date": "2021-07-12",
         "url": "https://www.youtube.com/watch?v=8xebLwgy3wQ",
@@ -3026,10 +3519,10 @@
         "numVotes": 0
     },
     {
-        "index": 178,
+        "index": 207,
         "plTitle": "NEW in June on SonyLIV",
         "title": "Thaen | Official Trailer (Tamil) | SonyLIV Exclusive | Streaming Now",
-        "views": 1161526,
+        "views": 1161571,
         "likes": 0,
         "publish_date": "2021-06-24",
         "url": "https://www.youtube.com/watch?v=iR99Tcc2Id8",
@@ -3040,13 +3533,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 8.2,
-        "numVotes": 528
+        "numVotes": 552
     },
     {
-        "index": 179,
+        "index": 208,
         "plTitle": "NEW in June on SonyLIV",
         "title": "Sri Lanka Tour of England | 23rd June to 4th July | Streaming LIVE on SonyLIV",
-        "views": 36020,
+        "views": 36024,
         "likes": 0,
         "publish_date": "2021-06-21",
         "url": "https://www.youtube.com/watch?v=-HM-brt9boA",
@@ -3060,10 +3553,10 @@
         "numVotes": 0
     },
     {
-        "index": 180,
+        "index": 209,
         "plTitle": "NEW in June on SonyLIV",
         "title": "I Dream of Jeannie | Binge-Watch All Seasons | SonyLIV Digital Exclusive",
-        "views": 4268,
+        "views": 4459,
         "likes": 0,
         "publish_date": "2021-06-14",
         "url": "https://www.youtube.com/watch?v=ihde4IJV3IY",
@@ -3077,10 +3570,10 @@
         "numVotes": 0
     },
     {
-        "index": 181,
+        "index": 210,
         "plTitle": "NEW in June on SonyLIV",
         "title": "30 Nights of Football | 11th June - 11th July | Streaming LIVE on SonyLIV",
-        "views": 17171,
+        "views": 17192,
         "likes": 0,
         "publish_date": "2021-06-08",
         "url": "https://www.youtube.com/watch?v=170zQ0bXT64",
@@ -3094,10 +3587,10 @@
         "numVotes": 0
     },
     {
-        "index": 182,
+        "index": 211,
         "plTitle": "NEW in June on SonyLIV",
         "title": "Call Your Mother | Streaming Now | SonyLIV India Premiere Series",
-        "views": 187334,
+        "views": 187343,
         "likes": 0,
         "publish_date": "2021-06-03",
         "url": "https://www.youtube.com/watch?v=nUWqZms7D5I",
@@ -3107,14 +3600,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Comedy",
-        "averageRating": 5.2,
-        "numVotes": 1176
+        "averageRating": 5.3,
+        "numVotes": 1212
     },
     {
-        "index": 183,
+        "index": 212,
         "plTitle": "NEW in June on SonyLIV",
         "title": "Maharani | Web Series | All Episodes | Streaming now | SonyLIV Originals",
-        "views": 2165093,
+        "views": 2165206,
         "likes": 0,
         "publish_date": "2021-05-28",
         "url": "https://www.youtube.com/watch?v=i9SwzLTfPuo",
@@ -3125,13 +3618,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 7.5,
-        "numVotes": 6376
+        "numVotes": 6502
     },
     {
-        "index": 184,
+        "index": 213,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Maharani | Web Series | All Episodes | Streaming now | SonyLIV Originals",
-        "views": 2165093,
+        "views": 2165206,
         "likes": 0,
         "publish_date": "2021-05-28",
         "url": "https://www.youtube.com/watch?v=i9SwzLTfPuo",
@@ -3142,13 +3635,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 7.5,
-        "numVotes": 6376
+        "numVotes": 6502
     },
     {
-        "index": 185,
+        "index": 214,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Dithee | \u0926\u093f\u0920\u0940 | Marathi Film | Streaming Now | SonyLIV Originals",
-        "views": 6782,
+        "views": 6793,
         "likes": 0,
         "publish_date": "2021-05-20",
         "url": "https://www.youtube.com/watch?v=wsjTfJUo3Po",
@@ -3162,10 +3655,10 @@
         "numVotes": 0
     },
     {
-        "index": 186,
+        "index": 215,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Out Of Her Mind | Streaming Now | SonyLIV India Premiere Series",
-        "views": 3082,
+        "views": 3083,
         "likes": 0,
         "publish_date": "2021-05-13",
         "url": "https://www.youtube.com/watch?v=5xby_03OV1o",
@@ -3179,10 +3672,10 @@
         "numVotes": 0
     },
     {
-        "index": 187,
+        "index": 216,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Amazing Grace | Streaming Now | Mother\u2019s Day Weekend Premiere | SonyLIV Exclusive",
-        "views": 4377,
+        "views": 4381,
         "likes": 0,
         "publish_date": "2021-05-06",
         "url": "https://www.youtube.com/watch?v=SilihevoZl8",
@@ -3192,14 +3685,14 @@
         "titleType": "movie",
         "startYear": 2020,
         "genres": "Documentary",
-        "averageRating": 9.5,
-        "numVotes": 19
+        "averageRating": 9.6,
+        "numVotes": 20
     },
     {
-        "index": 188,
+        "index": 217,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Riviera Season 3 | Streaming Now | SonyLIV Exclusive",
-        "views": 9205,
+        "views": 9227,
         "likes": 0,
         "publish_date": "2021-04-30",
         "url": "https://www.youtube.com/watch?v=K5JHQliTs7E",
@@ -3213,10 +3706,10 @@
         "numVotes": 0
     },
     {
-        "index": 189,
+        "index": 218,
         "plTitle": "NEW in May on SonyLIV",
         "title": "Kathmandu Connection | Web Series | All Episodes | Streaming Now | SonyLIV Originals",
-        "views": 9900587,
+        "views": 9900614,
         "likes": 0,
         "publish_date": "2021-04-22",
         "url": "https://www.youtube.com/watch?v=k9usK3BEVg8",
@@ -3227,13 +3720,13 @@
         "startYear": 2021,
         "genres": "Action,Crime,Thriller",
         "averageRating": 5.8,
-        "numVotes": 1753
+        "numVotes": 1773
     },
     {
-        "index": 190,
+        "index": 219,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Maharani | Official Teaser | SonyLIV Originals | Huma Qureshi | Streaming Soon",
-        "views": 24106434,
+        "views": 24109925,
         "likes": 0,
         "publish_date": "2021-04-09",
         "url": "https://www.youtube.com/watch?v=trNO5CZs6cs",
@@ -3244,13 +3737,13 @@
         "startYear": 2021,
         "genres": "Drama",
         "averageRating": 7.5,
-        "numVotes": 6376
+        "numVotes": 6502
     },
     {
-        "index": 191,
+        "index": 220,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Kathmandu Connection | Dialogue Promo | Web Series | Streaming Now | SonyLIV Originals",
-        "views": 8294846,
+        "views": 8294854,
         "likes": 0,
         "publish_date": "2021-04-23",
         "url": "https://www.youtube.com/watch?v=guswRx6_E4w",
@@ -3261,13 +3754,13 @@
         "startYear": 2021,
         "genres": "Action,Crime,Thriller",
         "averageRating": 5.8,
-        "numVotes": 1753
+        "numVotes": 1773
     },
     {
-        "index": 192,
+        "index": 221,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Riviera Season 3 | Streaming Now | SonyLIV Exclusive",
-        "views": 9205,
+        "views": 9227,
         "likes": 0,
         "publish_date": "2021-04-30",
         "url": "https://www.youtube.com/watch?v=K5JHQliTs7E",
@@ -3281,10 +3774,10 @@
         "numVotes": 0
     },
     {
-        "index": 193,
+        "index": 222,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Sri Lanka vs Bangladesh | 2 Test Series | 2nd Test | 29th April - 3rd May | LIVE on SonyLIV",
-        "views": 2395,
+        "views": 2398,
         "likes": 0,
         "publish_date": "2021-04-27",
         "url": "https://www.youtube.com/watch?v=bDtmX01JI10",
@@ -3298,10 +3791,10 @@
         "numVotes": 0
     },
     {
-        "index": 194,
+        "index": 223,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Woke | Streaming Now | SonyLIV India Premiere Series",
-        "views": 2650,
+        "views": 2657,
         "likes": 0,
         "publish_date": "2021-04-15",
         "url": "https://www.youtube.com/watch?v=LrURrxvY3-A",
@@ -3315,10 +3808,10 @@
         "numVotes": 0
     },
     {
-        "index": 195,
+        "index": 224,
         "plTitle": "NEW in April on SonyLIV",
         "title": "Leonardo | Streaming before the US and UK |  SonyLIV India Premiere Series",
-        "views": 674765,
+        "views": 674775,
         "likes": 0,
         "publish_date": "2021-04-08",
         "url": "https://www.youtube.com/watch?v=7kZ2AX-rWGg",
@@ -3329,13 +3822,13 @@
         "startYear": 2021,
         "genres": "Biography,Drama,History",
         "averageRating": 7.2,
-        "numVotes": 2311
+        "numVotes": 2636
     },
     {
-        "index": 196,
+        "index": 225,
         "plTitle": "NEW in April on SonyLIV",
         "title": "A Discovery Of Witches S2 | Binge-watch all episodes | SonyLIV India Premiere Series",
-        "views": 3673,
+        "views": 3681,
         "likes": 0,
         "publish_date": "2021-04-01",
         "url": "https://www.youtube.com/watch?v=byr-XwFW57I",
@@ -3349,10 +3842,10 @@
         "numVotes": 0
     },
     {
-        "index": 197,
+        "index": 226,
         "plTitle": "NEW in March on SonyLIV",
         "title": "Project 9191 | Web Series | All Episodes | SonyLIV Originals | Streaming Now",
-        "views": 4772371,
+        "views": 4772562,
         "likes": 0,
         "publish_date": "2021-03-25",
         "url": "https://www.youtube.com/watch?v=9CMl7rz1KIw",
@@ -3362,14 +3855,14 @@
         "titleType": "tvSeries",
         "startYear": 2021,
         "genres": "Action,Thriller",
-        "averageRating": 5.9,
-        "numVotes": 396
+        "averageRating": 5.8,
+        "numVotes": 401
     },
     {
-        "index": 198,
+        "index": 227,
         "plTitle": "NEW in March on SonyLIV",
         "title": "Time To Bid Them Farewell | Ek Duje Ke Vaaste Season 2 | Streaming Now",
-        "views": 1337810,
+        "views": 1403637,
         "likes": 0,
         "publish_date": "2021-03-25",
         "url": "https://www.youtube.com/watch?v=8_1AshzwmEE",
@@ -3383,10 +3876,10 @@
         "numVotes": 0
     },
     {
-        "index": 199,
+        "index": 228,
         "plTitle": "NEW in March on SonyLIV",
         "title": "Coyote | Streaming Now | SonyLIV India Premiere Series",
-        "views": 4600747,
+        "views": 4600750,
         "likes": 0,
         "publish_date": "2021-03-19",
         "url": "https://www.youtube.com/watch?v=LHY6TxAMnpo",
@@ -3397,13 +3890,13 @@
         "startYear": 2021,
         "genres": "Crime,Drama,Thriller",
         "averageRating": 6.8,
-        "numVotes": 2271
+        "numVotes": 2424
     },
     {
-        "index": 200,
+        "index": 229,
         "plTitle": "NEW in March on SonyLIV",
         "title": "Love JAction | Web Series | Streaming Now | SonyLIV",
-        "views": 1300335,
+        "views": 1300525,
         "likes": 0,
         "publish_date": "2021-03-11",
         "url": "https://www.youtube.com/watch?v=kXDaI6G6RAo",
@@ -3417,10 +3910,10 @@
         "numVotes": 0
     },
     {
-        "index": 201,
+        "index": 230,
         "plTitle": "NEW in March on SonyLIV",
         "title": "63rd GRAMMY Awards on SonyLIV | Streaming Now",
-        "views": 1790,
+        "views": 1793,
         "likes": 0,
         "publish_date": "2021-03-16",
         "url": "https://www.youtube.com/watch?v=9TV31XgFfjw",
@@ -3434,10 +3927,10 @@
         "numVotes": 0
     },
     {
-        "index": 202,
+        "index": 231,
         "plTitle": "NEW in March on SonyLIV",
         "title": "Home of football | SonyLIV",
-        "views": 2377,
+        "views": 2384,
         "likes": 0,
         "publish_date": "2021-03-10",
         "url": "https://www.youtube.com/watch?v=GlX-9Ur4SpM",
@@ -3451,10 +3944,10 @@
         "numVotes": 0
     },
     {
-        "index": 203,
+        "index": 232,
         "plTitle": "NEW in March on SonyLIV",
         "title": "European Qualifiers for World Cup 2022 | Streaming LIVE on SonyLIV",
-        "views": 133562,
+        "views": 133575,
         "likes": 0,
         "publish_date": "2021-03-17",
         "url": "https://www.youtube.com/watch?v=5S30mYGGL14",
@@ -3468,10 +3961,10 @@
         "numVotes": 0
     },
     {
-        "index": 204,
+        "index": 233,
         "plTitle": "NEW in February on SonyLIV",
         "title": "Girls Hostel 2.0 | Streaming Now | SonyLIV",
-        "views": 9554860,
+        "views": 9555413,
         "likes": 0,
         "publish_date": "2021-02-18",
         "url": "https://www.youtube.com/watch?v=PYNXi3GGZzw",
@@ -3485,10 +3978,10 @@
         "numVotes": 0
     },
     {
-        "index": 205,
+        "index": 234,
         "plTitle": "NEW in February on SonyLIV",
         "title": "Pakistan Super League | Starts 20th February | LIVE On SonyLIV",
-        "views": 6589,
+        "views": 6596,
         "likes": 0,
         "publish_date": "2021-02-13",
         "url": "https://www.youtube.com/watch?v=P_4hQ5Gvnhw",
@@ -3502,10 +3995,10 @@
         "numVotes": 0
     },
     {
-        "index": 206,
+        "index": 235,
         "plTitle": "NEW in February on SonyLIV",
         "title": "Vida Season 3 | Streaming Now | SonyLIV India Premiere Series",
-        "views": 6291,
+        "views": 6309,
         "likes": 0,
         "publish_date": "2021-02-05",
         "url": "https://www.youtube.com/watch?v=HYrg1qpURvU",
@@ -3519,10 +4012,10 @@
         "numVotes": 0
     },
     {
-        "index": 207,
+        "index": 236,
         "plTitle": "NEW in February on SonyLIV",
         "title": "Presenting the WWE Network Pack | SonyLIV",
-        "views": 1816092,
+        "views": 1816205,
         "likes": 0,
         "publish_date": "2021-02-05",
         "url": "https://www.youtube.com/watch?v=QTCOR8krc2U",
@@ -3536,10 +4029,10 @@
         "numVotes": 0
     },
     {
-        "index": 208,
+        "index": 237,
         "plTitle": "NEW in February on SonyLIV",
         "title": "Hightown | Streaming Now | SonyLIV India Premiere Series",
-        "views": 735741,
+        "views": 735746,
         "likes": 0,
         "publish_date": "2021-02-26",
         "url": "https://www.youtube.com/watch?v=mSP2lLLCrCs",
@@ -3549,14 +4042,14 @@
         "titleType": "tvSeries",
         "startYear": 2020,
         "genres": "Crime,Drama,Mystery",
-        "averageRating": 6.6,
-        "numVotes": 3654
+        "averageRating": 6.7,
+        "numVotes": 4491
     },
     {
-        "index": 209,
+        "index": 238,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Gullak New Season | Streaming Now | SonyLIV Originals | World Premiere Series",
-        "views": 48071,
+        "views": 48502,
         "likes": 0,
         "publish_date": "2021-01-14",
         "url": "https://www.youtube.com/watch?v=sm9nxSjHA-Y",
@@ -3570,10 +4063,10 @@
         "numVotes": 0
     },
     {
-        "index": 210,
+        "index": 239,
         "plTitle": "NEW in January on SonyLIV",
         "title": "College Romance Season 2 | Official Trailer | Streaming Now | SonyLIV",
-        "views": 438287,
+        "views": 439071,
         "likes": 0,
         "publish_date": "2021-01-28",
         "url": "https://www.youtube.com/watch?v=fsZbdKuYyeY",
@@ -3587,10 +4080,10 @@
         "numVotes": 0
     },
     {
-        "index": 211,
+        "index": 240,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Power Book II: Ghost | Streaming Now | SonyLIV | India Premiere Series",
-        "views": 1535,
+        "views": 1539,
         "likes": 0,
         "publish_date": "2021-01-26",
         "url": "https://www.youtube.com/watch?v=pxYmGyK1lvk",
@@ -3600,14 +4093,14 @@
         "titleType": "tvSeries",
         "startYear": 2020,
         "genres": "Crime,Drama",
-        "averageRating": 6.9,
-        "numVotes": 4804
+        "averageRating": 7.0,
+        "numVotes": 5709
     },
     {
-        "index": 212,
+        "index": 241,
         "plTitle": "NEW in January on SonyLIV",
         "title": "United We Fall | Streaming Now | SonyLIV India Premiere Series",
-        "views": 4687,
+        "views": 4689,
         "likes": 0,
         "publish_date": "2021-01-07",
         "url": "https://www.youtube.com/watch?v=_NPIuPhh1zY",
@@ -3618,13 +4111,13 @@
         "startYear": 2020,
         "genres": "Comedy",
         "averageRating": 5.9,
-        "numVotes": 789
+        "numVotes": 793
     },
     {
-        "index": 213,
+        "index": 242,
         "plTitle": "NEW in January on SonyLIV",
         "title": "Zoey's Extraordinary Playlist S2 | Streaming Now | SonyLIV India Premiere Series",
-        "views": 4001,
+        "views": 4008,
         "likes": 0,
         "publish_date": "2021-01-12",
         "url": "https://www.youtube.com/watch?v=lgOXCkdNa6M",
@@ -3638,10 +4131,10 @@
         "numVotes": 0
     },
     {
-        "index": 214,
+        "index": 243,
         "plTitle": "NEW in January on SonyLIV",
         "title": "A Forbidden Love | The Spanish Princess S2 | Streaming Now | Along with the U.S. | SonyLIV Exclusive",
-        "views": 4097,
+        "views": 4098,
         "likes": 0,
         "publish_date": "2021-01-02",
         "url": "https://www.youtube.com/watch?v=qdwHJZAMPGU",
@@ -3655,10 +4148,10 @@
         "numVotes": 0
     },
     {
-        "index": 215,
+        "index": 244,
         "plTitle": "NEW in January on SonyLIV",
         "title": "It's Time For New Beginnings | Happy New Year",
-        "views": 6630,
+        "views": 6632,
         "likes": 0,
         "publish_date": "2021-01-02",
         "url": "https://www.youtube.com/watch?v=gTFKN2cjxZY",
@@ -3672,10 +4165,10 @@
         "numVotes": 0
     },
     {
-        "index": 216,
+        "index": 245,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Scam  1992 - The Harshad Mehta Story | Streaming NOW",
-        "views": 8065962,
+        "views": 8070682,
         "likes": 0,
         "publish_date": "2020-10-08",
         "url": "https://www.youtube.com/watch?v=oRkdMX6S3QY",
@@ -3689,10 +4182,10 @@
         "numVotes": 0
     },
     {
-        "index": 217,
+        "index": 246,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Hillary | Streaming Now | Exclusively on SonyLIV | India Premiere Series",
-        "views": 1316548,
+        "views": 1316560,
         "likes": 0,
         "publish_date": "2020-10-15",
         "url": "https://www.youtube.com/watch?v=LxvBaqso7JI",
@@ -3703,13 +4196,13 @@
         "startYear": 2020,
         "genres": "Biography,Documentary",
         "averageRating": 6.6,
-        "numVotes": 2482
+        "numVotes": 2514
     },
     {
-        "index": 218,
+        "index": 247,
         "plTitle": "NEW in October on SonyLIV",
         "title": "The Spanish Princess S2 Premiere | Along with the U.S. | Streaming from 12th Oct | SonyLIV Exclusive",
-        "views": 8985,
+        "views": 8987,
         "likes": 0,
         "publish_date": "2020-10-09",
         "url": "https://www.youtube.com/watch?v=BQZOjQODXs8",
@@ -3723,10 +4216,10 @@
         "numVotes": 0
     },
     {
-        "index": 219,
+        "index": 248,
         "plTitle": "NEW in October on SonyLIV",
         "title": "2nd ODI - Australia W vs New Zealand W - Highlights - 5th October, 2020",
-        "views": 28656,
+        "views": 28871,
         "likes": 0,
         "publish_date": "2020-10-07",
         "url": "https://www.youtube.com/watch?v=7yiWFtOVb-Y",
@@ -3740,10 +4233,10 @@
         "numVotes": 0
     },
     {
-        "index": 220,
+        "index": 249,
         "plTitle": "NEW in October on SonyLIV",
         "title": "1st ODI - Australia W vs New Zealand W - Highlights - 3rd October, 2020",
-        "views": 17240,
+        "views": 17331,
         "likes": 0,
         "publish_date": "2020-10-05",
         "url": "https://www.youtube.com/watch?v=X8n2sWx_0dY",
@@ -3757,10 +4250,10 @@
         "numVotes": 0
     },
     {
-        "index": 221,
+        "index": 250,
         "plTitle": "NEW in October on SonyLIV",
         "title": "The Commons | Streaming Now | SonyLIV Exclusive",
-        "views": 2073907,
+        "views": 2073908,
         "likes": 0,
         "publish_date": "2020-10-01",
         "url": "https://www.youtube.com/watch?v=BW_roymhPV0",
@@ -3774,10 +4267,10 @@
         "numVotes": 0
     },
     {
-        "index": 222,
+        "index": 251,
         "plTitle": "NEW in October on SonyLIV",
         "title": "Scam 1992 \u2013 The Harshad Mehta Story | Official Trailer | Streaming from 09-10-2020",
-        "views": 23202231,
+        "views": 23253164,
         "likes": 0,
         "publish_date": "2020-09-30",
         "url": "https://www.youtube.com/watch?v=ISORfez27og",
@@ -3791,10 +4284,10 @@
         "numVotes": 0
     },
     {
-        "index": 223,
+        "index": 252,
         "plTitle": "NEW in October on SonyLIV",
         "title": "SCAM 1992 - The Harshad Mehta Story | Streaming From 09-10-20",
-        "views": 702724,
+        "views": 703338,
         "likes": 0,
         "publish_date": "2020-09-27",
         "url": "https://www.youtube.com/watch?v=MS7FkOi_2dY",
