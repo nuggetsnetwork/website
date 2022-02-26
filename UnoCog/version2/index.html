@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-     <title>UnoCog - Medical Website Template</title>
+     <title>UnoCog - Wellness</title>
 <!--
 
 Template 2098 Health
@@ -96,8 +96,10 @@ http://www.tooplate.com/view/2098-health
                     <ul class="nav navbar-nav navbar-right">
                          <li><a href="#top" class="smoothScroll">Home</a></li>
                          <li><a href="#about" class="smoothScroll">About Us</a></li>
+                         <li><a href="services.html" class="smoothScroll">Services</a></li>
                          <li><a href="#team" class="smoothScroll">Doctors</a></li>
                          <li><a href="#news" class="smoothScroll">News</a></li>
+                         <li><a href="#about" class="smoothScroll">Careers</a></li>
                          <li><a href="#google-map" class="smoothScroll">Contact</a></li>
                          <li class="appointment-btn"><a href="#appointment">Make an appointment</a></li>
                     </ul>
@@ -117,8 +119,18 @@ http://www.tooplate.com/view/2098-health
                                    <div class="caption">
                                         <div class="col-md-offset-1 col-md-10">
                                              <h3>Let's make your life happier</h3>
-                                             <h1>Healthy Living</h1>
-                                             <a href="#team" class="section-btn btn btn-default smoothScroll">Meet Our Doctors</a>
+                                             <h1>Mission & Vision</h1>
+                                             <a href="#about" class="section-btn btn btn-default btn-gray smoothScroll">More About Us</a>
+                                        </div>
+                                   </div>
+                              </div>
+
+                              <div class="item item-fourth">
+                                   <div class="caption">
+                                        <div class="col-md-offset-1 col-md-10">
+                                             <h3>We deal mental health issues with the help of trained mental health professionals through personalized approach</h3>
+                                             <h1>Mental Health</h1>
+                                             <a href="#team" class="section-btn btn btn-default btn-gray smoothScroll">Meet Our Doctors</a>
                                         </div>
                                    </div>
                               </div>
@@ -126,9 +138,9 @@ http://www.tooplate.com/view/2098-health
                               <div class="item item-second">
                                    <div class="caption">
                                         <div class="col-md-offset-1 col-md-10">
-                                             <h3>Aenean luctus lobortis tellus</h3>
-                                             <h1>New Lifestyle</h1>
-                                             <a href="#about" class="section-btn btn btn-default btn-gray smoothScroll">More About Us</a>
+                                             <h3>Stress Management, Work Life Balance, Work Productivity</h3>
+                                             <h1>Quality of Life</h1>
+                                             <a href="#team" class="section-btn btn btn-default btn-gray smoothScroll">Meet Our Doctors</a>
                                         </div>
                                    </div>
                               </div>
@@ -136,12 +148,13 @@ http://www.tooplate.com/view/2098-health
                               <div class="item item-third">
                                    <div class="caption">
                                         <div class="col-md-offset-1 col-md-10">
-                                             <h3>Pellentesque nec libero nisi</h3>
+                                             <h3>Global development of child and adolescents through identification/screening, education & problem management</h3>
                                              <h1>Your Health Benefits</h1>
                                              <a href="#news" class="section-btn btn btn-default btn-blue smoothScroll">Read Stories</a>
                                         </div>
                                    </div>
                               </div>
+                              
                          </div>
 
                </div>
@@ -158,14 +171,16 @@ http://www.tooplate.com/view/2098-health
                          <div class="about-info">
                               <h2 class="wow fadeInUp" data-wow-delay="0.6s">Welcome to Your Wellness <i class="fa fa-h-square"></i>ealth Center</h2>
                               <div class="wow fadeInUp" data-wow-delay="0.8s">
-                                   <p>Aenean luctus lobortis tellus, vel ornare enim molestie condimentum. Curabitur lacinia nisi vitae velit volutpat venenatis.</p>
-                                   <p>Sed a dignissim lacus. Quisque fermentum est non orci commodo, a luctus urna mattis. Ut placerat, diam a tempus vehicula.</p>
+                                   <p>Unocog was founded in 2021 by a team of mental health/health professionals. We take this privelege with our team of trained professionals to foster mental health by providing accessible and highest quality of care through personalized approach.</p>
+                                   <p>We are striving hard putting our best foot forward to promote mental health thus improving the quality of life and making the world a better place to live in.</p>
+                                   
                               </div>
                               <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                    <img src="images/author-image.jpg" class="img-responsive" alt="">
                                    <figcaption>
                                         <h3>Dr. Qutub</h3>
-                                        <p>Psychiatrist</p>
+                                        <p>Founder - Psychiatrist</p>
+                                        <a href="aboutus.html" class="section-btn btn btn-default btn-gray smoothScroll">Read More</a>
                                    </figcaption>
                               </figure>
                          </div>
@@ -346,7 +361,7 @@ http://www.tooplate.com/view/2098-health
 
                     <div class="col-md-6 col-sm-6">
                          <!-- CONTACT FORM HERE -->
-                         <form id="appointment-form" role="form" method="post" action="#">
+                         <form id="appointment-form" role="form" method="post" action="https://formspree.io/f/mjvlwbbn">
 
                               <!-- SECTION TITLE -->
                               <div class="section-title wow fadeInUp" data-wow-delay="0.4s">
@@ -386,6 +401,7 @@ http://www.tooplate.com/view/2098-health
                                         <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
                                         <button type="submit" class="form-control" id="cf-submit" name="submit">Submit Button</button>
                                    </div>
+                                   <div id="status"></div>
                               </div>
                         </form>
                     </div>
@@ -403,7 +419,8 @@ http://www.tooplate.com/view/2098-health
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
 	-->
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+     <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>      -->
+     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d121821.54768891688!2d78.497835!3d17.415465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcb0cc9cf6025d772!2sGuru%20Nanak-%20CARE%20Hospitals%20-%20Musheerabad%2C%20HYD!5e0!3m2!1sen!2sin!4v1645433443076!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
      </section>           
 
 
@@ -415,7 +432,7 @@ http://www.tooplate.com/view/2098-health
                     <div class="col-md-4 col-sm-4">
                          <div class="footer-thumb"> 
                               <h4 class="wow fadeInUp" data-wow-delay="0.4s">Contact Info</h4>
-                              <p>Fusce at libero iaculis, venenatis augue quis, pharetra lorem. Curabitur ut dolor eu elit consequat ultricies.</p>
+                              <p>Feel free to reach out to us on below contact info.</p>
 
                               <div class="contact-info">
                                    <p><i class="fa fa-phone"></i> 010-070-0170</p>
@@ -500,6 +517,7 @@ http://www.tooplate.com/view/2098-health
      <script src="js/smoothscroll.js"></script>
      <script src="js/owl.carousel.min.js"></script>
      <script src="js/custom.js"></script>
+     <script src="js/form.js"></script>
 
 </body>
 </html>

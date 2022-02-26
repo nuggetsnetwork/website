@@ -452,7 +452,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .item-first {
-    background-image: url(../images/slider1.jpg);
+    background-image: url(../images/mission_vision.png);
   }
 
   .slider .item-second {
@@ -461,6 +461,14 @@ http://www.tooplate.com/view/2098-health
 
   .slider .item-third {
     background-image: url(../images/slider3.jpg);
+  }
+
+  .slider .item-fourth {
+    background-image: url(../images/mission.jpeg);
+  }
+
+  .slider .item-health {
+    background-image: url(../images/health.png);
   }
 
 
