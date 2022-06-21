@@ -3,7 +3,7 @@
         "index": 0,
         "plTitle": "New in June 2022 | Prime Video",
         "title": "The Lake - Official Trailer | Prime Video",
-        "views": 179598,
+        "views": 330925,
         "likes": 0,
         "publish_date": "2022-05-18",
         "url": "https://www.youtube.com/watch?v=823kWW6TFa0",
@@ -20,7 +20,7 @@
         "index": 1,
         "plTitle": "New in June 2022 | Prime Video",
         "title": "The Summer I Turned Pretty - Official Trailer | Prime Video",
-        "views": 4027016,
+        "views": 6181387,
         "likes": 0,
         "publish_date": "2022-05-31",
         "url": "https://www.youtube.com/watch?v=FfAueqEab30",
@@ -37,7 +37,7 @@
         "index": 2,
         "plTitle": "New in June 2022 | Prime Video",
         "title": "THE BOYS \u2013 Season 3 Official Trailer | Prime Video",
-        "views": 5069974,
+        "views": 5537834,
         "likes": 0,
         "publish_date": "2022-05-16",
         "url": "https://www.youtube.com/watch?v=K-8VYKUZYiw",
@@ -54,7 +54,7 @@
         "index": 3,
         "plTitle": "New in June 2022 | Prime Video",
         "title": "Fairfax Season 2 - Official Trailer | Prime Video",
-        "views": 5649,
+        "views": 10114,
         "likes": 0,
         "publish_date": "2022-05-18",
         "url": "https://www.youtube.com/watch?v=mjIlh6QMfY0",
@@ -71,7 +71,7 @@
         "index": 4,
         "plTitle": "New in June 2022 | Prime Video",
         "title": "Chloe - Official Trailer | Prime Video",
-        "views": 29192,
+        "views": 52142,
         "likes": 0,
         "publish_date": "2022-05-24",
         "url": "https://www.youtube.com/watch?v=7vn25bPIi30",
@@ -86,9 +86,26 @@
     },
     {
         "index": 5,
+        "plTitle": "New in June 2022 | Prime Video",
+        "title": "The One That Got Away - Official Trailer | Prime Video",
+        "views": 5965171,
+        "likes": 0,
+        "publish_date": "2022-06-08",
+        "url": "https://www.youtube.com/watch?v=SrCW-OyQAnU",
+        "thumbnail": "https://i.ytimg.com/vi/SrCW-OyQAnU/sddefault.jpg",
+        "fTitle": "The One That Got Away",
+        "tconst": "",
+        "titleType": "",
+        "startYear": 0,
+        "genres": "",
+        "averageRating": 0.0,
+        "numVotes": 0
+    },
+    {
+        "index": 6,
         "plTitle": "New in May 2022 | Prime Video",
         "title": "The Wilds Season 2 \u2013 Official Trailer | Prime Video",
-        "views": 9406379,
+        "views": 9417922,
         "likes": 0,
         "publish_date": "2022-04-06",
         "url": "https://www.youtube.com/watch?v=RPizrlQVXA0",
@@ -102,10 +119,10 @@
         "numVotes": 14673
     },
     {
-        "index": 6,
+        "index": 7,
         "plTitle": "New in May 2022 | Prime Video",
         "title": "The Kids in the Hall - Official Green Band Trailer | Prime Video",
-        "views": 1198715,
+        "views": 1201730,
         "likes": 0,
         "publish_date": "2022-04-13",
         "url": "https://www.youtube.com/watch?v=zm2rAjmH_JQ",
@@ -119,10 +136,10 @@
         "numVotes": 0
     },
     {
-        "index": 7,
+        "index": 8,
         "plTitle": "New in May 2022 | Prime Video",
         "title": "Night Sky - Official Trailer | Prime Video",
-        "views": 4070691,
+        "views": 4131590,
         "likes": 0,
         "publish_date": "2022-04-22",
         "url": "https://www.youtube.com/watch?v=XLnhAbbMkEY",
@@ -136,10 +153,10 @@
         "numVotes": 0
     },
     {
-        "index": 8,
+        "index": 9,
         "plTitle": "New in May 2022 | Prime Video",
         "title": "Emergency - Official Trailer | Prime Video",
-        "views": 7264054,
+        "views": 7358076,
         "likes": 0,
         "publish_date": "2022-05-03",
         "url": "https://www.youtube.com/watch?v=FVi9hlvQOrg",
@@ -153,10 +170,10 @@
         "numVotes": 10
     },
     {
-        "index": 9,
+        "index": 10,
         "plTitle": "New in May 2022 | Prime Video",
         "title": "Amazon Studios Presents: VOICES: Asian & Pacific Islander Representation in Film & Media",
-        "views": 5113,
+        "views": 5264,
         "likes": 0,
         "publish_date": "2022-05-27",
         "url": "https://www.youtube.com/watch?v=bqxfGJtqzyo",
@@ -170,10 +187,10 @@
         "numVotes": 0
     },
     {
-        "index": 10,
+        "index": 11,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "Undone \u2013 Season 2 Official Trailer | Prime Video",
-        "views": 92169,
+        "views": 94270,
         "likes": 0,
         "publish_date": "2022-04-02",
         "url": "https://www.youtube.com/watch?v=9uPoNKVfpe0",
@@ -187,10 +204,10 @@
         "numVotes": 0
     },
     {
-        "index": 11,
+        "index": 12,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "A Very British Scandal - Official Trailer | Prime Video",
-        "views": 78359,
+        "views": 81135,
         "likes": 0,
         "publish_date": "2022-03-22",
         "url": "https://www.youtube.com/watch?v=GVtAn3-xK8w",
@@ -204,10 +221,10 @@
         "numVotes": 3048
     },
     {
-        "index": 12,
+        "index": 13,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "Outer Range | Sneak Peek | Prime Video",
-        "views": 11496002,
+        "views": 11496322,
         "likes": 0,
         "publish_date": "2022-03-09",
         "url": "https://www.youtube.com/watch?v=pM6rrYWbZ5g",
@@ -221,10 +238,10 @@
         "numVotes": 0
     },
     {
-        "index": 13,
+        "index": 14,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "All the Old Knives - Official Trailer | Prime Video",
-        "views": 5725362,
+        "views": 5782572,
         "likes": 0,
         "publish_date": "2022-03-03",
         "url": "https://www.youtube.com/watch?v=6s7NziAetNs",
@@ -238,10 +255,10 @@
         "numVotes": 0
     },
     {
-        "index": 14,
+        "index": 15,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "The Outlaws - Official Trailer | Prime Video",
-        "views": 142669,
+        "views": 167018,
         "likes": 0,
         "publish_date": "2022-03-02",
         "url": "https://www.youtube.com/watch?v=7hxqPxXV27E",
@@ -255,10 +272,10 @@
         "numVotes": 4787
     },
     {
-        "index": 15,
+        "index": 16,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "New to Prime Video US April 2022",
-        "views": 6329,
+        "views": 6446,
         "likes": 0,
         "publish_date": "2022-04-08",
         "url": "https://www.youtube.com/watch?v=7BCd6mNcQlc",
@@ -272,10 +289,10 @@
         "numVotes": 0
     },
     {
-        "index": 16,
+        "index": 17,
         "plTitle": "New in April 2022 | Prime Video",
         "title": "Outer Range - Official Trailer | Prime Video",
-        "views": 7542309,
+        "views": 7573137,
         "likes": 0,
         "publish_date": "2022-04-05",
         "url": "https://www.youtube.com/watch?v=3MzAFrTEWSQ",
@@ -289,10 +306,10 @@
         "numVotes": 0
     },
     {
-        "index": 17,
+        "index": 18,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "The Weeknd x DAWN FM Experience | Trailer | Watch Now",
-        "views": 15460,
+        "views": 15672,
         "likes": 0,
         "publish_date": "2022-02-26",
         "url": "https://www.youtube.com/watch?v=6ytBtT2fvWE",
@@ -306,10 +323,10 @@
         "numVotes": 0
     },
     {
-        "index": 18,
+        "index": 19,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "Upload Season 2 - Official Trailer | Prime Video",
-        "views": 7446007,
+        "views": 7452333,
         "likes": 0,
         "publish_date": "2022-02-23",
         "url": "https://www.youtube.com/watch?v=4OtfjPCJpU0",
@@ -323,10 +340,10 @@
         "numVotes": 52016
     },
     {
-        "index": 19,
+        "index": 20,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "Lizzo's Watch Out For The Big Grrrls - Official Trailer | Prime Video",
-        "views": 3725398,
+        "views": 3732178,
         "likes": 0,
         "publish_date": "2022-02-17",
         "url": "https://www.youtube.com/watch?v=tgNq_0bsTPU",
@@ -340,10 +357,10 @@
         "numVotes": 0
     },
     {
-        "index": 20,
+        "index": 21,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "The Boys Presents: Diabolical - Trailer | Prime Video",
-        "views": 530181,
+        "views": 566637,
         "likes": 0,
         "publish_date": "2022-02-16",
         "url": "https://www.youtube.com/watch?v=LO8mSkbppE4",
@@ -357,10 +374,10 @@
         "numVotes": 0
     },
     {
-        "index": 21,
+        "index": 22,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "Lucy and Desi - Official Trailer | Prime Video",
-        "views": 1228330,
+        "views": 1231418,
         "likes": 0,
         "publish_date": "2022-02-14",
         "url": "https://www.youtube.com/watch?v=8Ab9IshCs1s",
@@ -374,10 +391,10 @@
         "numVotes": 36
     },
     {
-        "index": 22,
+        "index": 23,
         "plTitle": "New in March 2022 | Prime Video",
         "title": "Master - Official Trailer | Prime Video",
-        "views": 528369,
+        "views": 543577,
         "likes": 0,
         "publish_date": "2022-03-02",
         "url": "https://www.youtube.com/watch?v=0gShIU_i7O0",
@@ -391,10 +408,10 @@
         "numVotes": 67549
     },
     {
-        "index": 23,
+        "index": 24,
         "plTitle": "New in February 2022 | Prime Video",
         "title": "I Want You Back - Official Trailer | February 11 | Prime Video",
-        "views": 4333624,
+        "views": 4336829,
         "likes": 0,
         "publish_date": "2022-02-01",
         "url": "https://www.youtube.com/watch?v=o31abr8E0qU",
@@ -408,10 +425,10 @@
         "numVotes": 0
     },
     {
-        "index": 24,
+        "index": 25,
         "plTitle": "New in February 2022 | Prime Video",
         "title": "The Marvelous Mrs. Maisel Season 4 - Official Teaser | Prime Video",
-        "views": 2572498,
+        "views": 2573182,
         "likes": 0,
         "publish_date": "2021-11-30",
         "url": "https://www.youtube.com/watch?v=tLhLRwvDA2c",
@@ -425,10 +442,10 @@
         "numVotes": 88
     },
     {
-        "index": 25,
+        "index": 26,
         "plTitle": "New in February 2022 | Prime Video",
         "title": "Reacher - Official Trailer | Prime Video",
-        "views": 6328265,
+        "views": 6378193,
         "likes": 0,
         "publish_date": "2021-12-02",
         "url": "https://www.youtube.com/watch?v=GSycMV-_Csw",
@@ -442,10 +459,10 @@
         "numVotes": 33671
     },
     {
-        "index": 26,
+        "index": 27,
         "plTitle": "New in February 2022 | Prime Video",
         "title": "Phat Tuesdays: The Era of Hip Hop Comedy \u2013 Official Trailer I February 4",
-        "views": 22746,
+        "views": 23583,
         "likes": 0,
         "publish_date": "2022-01-20",
         "url": "https://www.youtube.com/watch?v=EnoyUIwJb68",
@@ -459,10 +476,10 @@
         "numVotes": 0
     },
     {
-        "index": 27,
+        "index": 28,
         "plTitle": "New in February 2022 | Prime Video",
         "title": "LOL: Last One Laughing Canada - Official Trailer | Prime Video",
-        "views": 60241,
+        "views": 61816,
         "likes": 0,
         "publish_date": "2022-01-19",
         "url": "https://www.youtube.com/watch?v=MxftdPugc3w",
@@ -476,10 +493,10 @@
         "numVotes": 0
     },
     {
-        "index": 28,
+        "index": 29,
         "plTitle": "New in January 2022 | Prime Video",
         "title": "The Legend of Vox Machina - Trailer (Red Band Trailer) | Prime Video",
-        "views": 5340726,
+        "views": 5363226,
         "likes": 0,
         "publish_date": "2022-01-12",
         "url": "https://www.youtube.com/watch?v=JvwxQSc-3os",
@@ -493,10 +510,10 @@
         "numVotes": 0
     },
     {
-        "index": 29,
+        "index": 30,
         "plTitle": "New in January 2022 | Prime Video",
         "title": "Hotel Transylvania: Transformania \u2013 Official Trailer | January 14",
-        "views": 6477599,
+        "views": 6485013,
         "likes": 0,
         "publish_date": "2021-12-08",
         "url": "https://www.youtube.com/watch?v=6suJohjIvfo",
@@ -510,10 +527,10 @@
         "numVotes": 0
     },
     {
-        "index": 30,
+        "index": 31,
         "plTitle": "New in January 2022 | Prime Video",
         "title": "As We See It - Official Trailer | Prime Video",
-        "views": 311969,
+        "views": 317174,
         "likes": 0,
         "publish_date": "2021-11-22",
         "url": "https://www.youtube.com/watch?v=H_JA2JXM25Y",
@@ -527,10 +544,10 @@
         "numVotes": 1924
     },
     {
-        "index": 31,
+        "index": 32,
         "plTitle": "New in January 2022 | Prime Video",
         "title": "A Hero - Official Trailer | Prime Video",
-        "views": 1327318,
+        "views": 1341917,
         "likes": 0,
         "publish_date": "2021-10-28",
         "url": "https://www.youtube.com/watch?v=zAJ6_lmr_HQ",
@@ -544,10 +561,10 @@
         "numVotes": 16256
     },
     {
-        "index": 32,
+        "index": 33,
         "plTitle": "New in January 2022 | Prime Video",
         "title": "The Tender Bar - Official Trailer | Prime Video",
-        "views": 3442687,
+        "views": 3453435,
         "likes": 0,
         "publish_date": "2021-10-14",
         "url": "https://www.youtube.com/watch?v=5-DS9vtLeEs",
@@ -561,10 +578,10 @@
         "numVotes": 19377
     },
     {
-        "index": 33,
+        "index": 34,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "New To Prime Video December 2021",
-        "views": 24006,
+        "views": 24057,
         "likes": 0,
         "publish_date": "2021-12-03",
         "url": "https://www.youtube.com/watch?v=nyJH8csVUcM",
@@ -578,10 +595,10 @@
         "numVotes": 0
     },
     {
-        "index": 34,
+        "index": 35,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "The Expanse Season 6 - Official Trailer | Prime Video",
-        "views": 1320530,
+        "views": 1324746,
         "likes": 0,
         "publish_date": "2021-11-16",
         "url": "https://www.youtube.com/watch?v=fb01ds-4IC4",
@@ -595,10 +612,10 @@
         "numVotes": 0
     },
     {
-        "index": 35,
+        "index": 36,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "With Love - Official Trailer | Prime Video",
-        "views": 1682067,
+        "views": 1686359,
         "likes": 0,
         "publish_date": "2021-12-01",
         "url": "https://www.youtube.com/watch?v=DnK6Cma9pnc",
@@ -612,10 +629,10 @@
         "numVotes": 1548
     },
     {
-        "index": 36,
+        "index": 37,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "Encounter \u2013 Official Trailer | Prime Video",
-        "views": 2195606,
+        "views": 2203020,
         "likes": 0,
         "publish_date": "2021-11-17",
         "url": "https://www.youtube.com/watch?v=SB44bZVe-c4",
@@ -629,10 +646,10 @@
         "numVotes": 0
     },
     {
-        "index": 37,
+        "index": 38,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "Being the Ricardos - Official Trailer | Prime Video",
-        "views": 6339654,
+        "views": 6345460,
         "likes": 0,
         "publish_date": "2021-11-10",
         "url": "https://www.youtube.com/watch?v=WvrjCdtB0zM",
@@ -646,10 +663,10 @@
         "numVotes": 26636
     },
     {
-        "index": 38,
+        "index": 39,
         "plTitle": "New in December 2021 | Prime Video",
         "title": "Harlem Season 1 - Official Trailer | December 3 | Prime Video",
-        "views": 4549532,
+        "views": 4553517,
         "likes": 0,
         "publish_date": "2021-11-03",
         "url": "https://www.youtube.com/watch?v=0nf9gqWex10",
@@ -663,10 +680,10 @@
         "numVotes": 2756
     },
     {
-        "index": 39,
+        "index": 40,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "The Wheel of Time - Official Trailer 360 Experience | Prime Video",
-        "views": 3821092,
+        "views": 3824801,
         "likes": 0,
         "publish_date": "2021-10-27",
         "url": "https://www.youtube.com/watch?v=mPAYuCt7Eco",
@@ -680,10 +697,10 @@
         "numVotes": 85804
     },
     {
-        "index": 40,
+        "index": 41,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "Tampa Baes - Official Trailer | Prime Video",
-        "views": 1052297,
+        "views": 1054198,
         "likes": 0,
         "publish_date": "2021-10-19",
         "url": "https://www.youtube.com/watch?v=Q1qQUPRVGlI",
@@ -697,10 +714,10 @@
         "numVotes": 331
     },
     {
-        "index": 41,
+        "index": 42,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "Hanna Season 3 - Official Teaser | Prime Video",
-        "views": 109397,
+        "views": 109658,
         "likes": 0,
         "publish_date": "2021-10-09",
         "url": "https://www.youtube.com/watch?v=WJomaOzgKpc",
@@ -714,10 +731,10 @@
         "numVotes": 0
     },
     {
-        "index": 42,
+        "index": 43,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "Everybody Loves Natti | Official Trailer (English) | Prime Video",
-        "views": 50139,
+        "views": 50354,
         "likes": 0,
         "publish_date": "2021-10-20",
         "url": "https://www.youtube.com/watch?v=kyVwqhBCRXQ",
@@ -731,10 +748,10 @@
         "numVotes": 44
     },
     {
-        "index": 43,
+        "index": 44,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "The Electrical Life of Louis Wain - Official Trailer | Prime Video",
-        "views": 2279649,
+        "views": 2286175,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=xzDr_tbL-es",
@@ -748,10 +765,10 @@
         "numVotes": 9647
     },
     {
-        "index": 44,
+        "index": 45,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "Mayor Pete | Official Trailer | Prime Video",
-        "views": 794327,
+        "views": 794812,
         "likes": 0,
         "publish_date": "2021-10-18",
         "url": "https://www.youtube.com/watch?v=1CCXyUge7hA",
@@ -765,10 +782,10 @@
         "numVotes": 1386
     },
     {
-        "index": 45,
+        "index": 46,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "A Man Named Scott | Official Trailer | Prime Video",
-        "views": 2158992,
+        "views": 2159830,
         "likes": 0,
         "publish_date": "2021-10-26",
         "url": "https://www.youtube.com/watch?v=kqWT5zfhmLI",
@@ -782,10 +799,10 @@
         "numVotes": 1211
     },
     {
-        "index": 46,
+        "index": 47,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "Always Jane | Official Trailer | Prime Video",
-        "views": 51559,
+        "views": 52535,
         "likes": 0,
         "publish_date": "2021-10-21",
         "url": "https://www.youtube.com/watch?v=gRS6ctP4w_M",
@@ -799,10 +816,10 @@
         "numVotes": 757
     },
     {
-        "index": 47,
+        "index": 48,
         "plTitle": "New in November 2021 | Prime Video",
         "title": "New to Prime Video US November 2021",
-        "views": 58287,
+        "views": 58310,
         "likes": 0,
         "publish_date": "2021-11-02",
         "url": "https://www.youtube.com/watch?v=ZfcnjdcJ3qg",
@@ -816,10 +833,10 @@
         "numVotes": 0
     },
     {
-        "index": 48,
+        "index": 49,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Bingo Hell - Official Trailer | Prime Video",
-        "views": 194039,
+        "views": 194925,
         "likes": 0,
         "publish_date": "2021-09-14",
         "url": "https://www.youtube.com/watch?v=m1DQx4Z-QPU",
@@ -833,10 +850,10 @@
         "numVotes": 1920
     },
     {
-        "index": 49,
+        "index": 50,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Black As Night - Official Trailer | Prime Video",
-        "views": 295229,
+        "views": 297177,
         "likes": 0,
         "publish_date": "2021-09-14",
         "url": "https://www.youtube.com/watch?v=iuXnGbxTxDE",
@@ -850,10 +867,10 @@
         "numVotes": 0
     },
     {
-        "index": 50,
+        "index": 51,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "My Name Is Pauli Murray - Official Trailer | Prime Video",
-        "views": 60230,
+        "views": 60961,
         "likes": 0,
         "publish_date": "2021-08-30",
         "url": "https://www.youtube.com/watch?v=Uh4r95VBU2Q",
@@ -867,10 +884,10 @@
         "numVotes": 361
     },
     {
-        "index": 51,
+        "index": 52,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Justin Bieber: Our World - Official Trailer | Prime Video",
-        "views": 2197309,
+        "views": 2198667,
         "likes": 0,
         "publish_date": "2021-10-01",
         "url": "https://www.youtube.com/watch?v=CdR_o-y8GLA",
@@ -884,10 +901,10 @@
         "numVotes": 680
     },
     {
-        "index": 52,
+        "index": 53,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Madres - Official Trailer | Prime Video",
-        "views": 129214,
+        "views": 129954,
         "likes": 0,
         "publish_date": "2021-09-14",
         "url": "https://www.youtube.com/watch?v=GNusqV6dUfY",
@@ -901,10 +918,10 @@
         "numVotes": 1215
     },
     {
-        "index": 53,
+        "index": 54,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "The Manor - Official Trailer | Prime Video",
-        "views": 476355,
+        "views": 479675,
         "likes": 0,
         "publish_date": "2021-09-14",
         "url": "https://www.youtube.com/watch?v=kKIhdhesFTk",
@@ -918,10 +935,10 @@
         "numVotes": 4607
     },
     {
-        "index": 54,
+        "index": 55,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "I Know What You Did Last Summer - Official Trailer | Prime Video",
-        "views": 4412194,
+        "views": 4420586,
         "likes": 0,
         "publish_date": "2021-09-23",
         "url": "https://www.youtube.com/watch?v=P7PqRDJiWkU",
@@ -935,10 +952,10 @@
         "numVotes": 6572
     },
     {
-        "index": 55,
+        "index": 56,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Welcome To The Blumhouse LIVE (2021) - Official Trailer | Prime Video",
-        "views": 16609,
+        "views": 16648,
         "likes": 0,
         "publish_date": "2021-09-20",
         "url": "https://www.youtube.com/watch?v=mk08LKrdcd0",
@@ -952,10 +969,10 @@
         "numVotes": 0
     },
     {
-        "index": 56,
+        "index": 57,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "All Or Nothing: Toronto Maple Leafs \u2013 Official Trailer | Prime Video",
-        "views": 117845,
+        "views": 118206,
         "likes": 0,
         "publish_date": "2021-09-08",
         "url": "https://www.youtube.com/watch?v=VQXqcILCMPw",
@@ -969,10 +986,10 @@
         "numVotes": 0
     },
     {
-        "index": 57,
+        "index": 58,
         "plTitle": "New in October 2021 | Prime Video",
         "title": "Welcome To The Blumhouse (2021) - Official Teaser Trailer | Prime Video",
-        "views": 1311746,
+        "views": 1311852,
         "likes": 0,
         "publish_date": "2021-08-24",
         "url": "https://www.youtube.com/watch?v=cX8tE5XBVkE",
@@ -986,10 +1003,10 @@
         "numVotes": 0
     },
     {
-        "index": 58,
+        "index": 59,
         "plTitle": "New in August 2021 | Prime Video",
         "title": "Modern Love Season 2 - Official Trailer | Prime Video",
-        "views": 3868175,
+        "views": 3870787,
         "likes": 0,
         "publish_date": "2021-07-15",
         "url": "https://www.youtube.com/watch?v=Vb3gCwimRpI",
@@ -1003,10 +1020,10 @@
         "numVotes": 98
     },
     {
-        "index": 59,
+        "index": 60,
         "plTitle": "New in August 2021 | Prime Video",
         "title": "EVANGELION: 3.0+1.01 THRICE UPON A TIME - Official Trailer | Prime Video",
-        "views": 1826131,
+        "views": 1843917,
         "likes": 0,
         "publish_date": "2021-07-01",
         "url": "https://www.youtube.com/watch?v=GZfuWMDEJpw",
@@ -1020,10 +1037,10 @@
         "numVotes": 0
     },
     {
-        "index": 60,
+        "index": 61,
         "plTitle": "New in August 2021 | Prime Video",
         "title": "Annette - Official Trailer | Prime Video",
-        "views": 1186842,
+        "views": 1192094,
         "likes": 0,
         "publish_date": "2021-06-22",
         "url": "https://www.youtube.com/watch?v=l_EaNpL16SU",
@@ -1037,10 +1054,10 @@
         "numVotes": 16542
     },
     {
-        "index": 61,
+        "index": 62,
         "plTitle": "New in August 2021 | Prime Video",
         "title": "New To Prime Video US in August 2021 | Prime Video",
-        "views": 65425,
+        "views": 65461,
         "likes": 0,
         "publish_date": "2021-08-01",
         "url": "https://www.youtube.com/watch?v=FxtVaM0CWHw",
@@ -1054,10 +1071,10 @@
         "numVotes": 0
     },
     {
-        "index": 62,
+        "index": 63,
         "plTitle": "New in August 2021 | Prime Video",
         "title": "Modern Love Season 2 \u2013 Extended Trailer I Prime Video",
-        "views": 147381,
+        "views": 148072,
         "likes": 0,
         "publish_date": "2021-08-14",
         "url": "https://www.youtube.com/watch?v=wwt_oHniB5k",
@@ -1071,10 +1088,10 @@
         "numVotes": 98
     },
     {
-        "index": 63,
+        "index": 64,
         "plTitle": "New in July 2021 | Prime Video",
         "title": "New To Prime Video US July 2021 | Prime Video",
-        "views": 60000,
+        "views": 60030,
         "likes": 0,
         "publish_date": "2021-07-01",
         "url": "https://www.youtube.com/watch?v=7mYyAh_8WSs",
@@ -1088,10 +1105,10 @@
         "numVotes": 0
     },
     {
-        "index": 64,
+        "index": 65,
         "plTitle": "New in July 2021 | Prime Video",
         "title": "THE TOMORROW WAR | Final Trailer | Prime Video",
-        "views": 7752002,
+        "views": 7754206,
         "likes": 0,
         "publish_date": "2021-06-15",
         "url": "https://www.youtube.com/watch?v=RQjEbkV-9ZM",
@@ -1105,10 +1122,10 @@
         "numVotes": 0
     },
     {
-        "index": 65,
+        "index": 66,
         "plTitle": "New in July 2021 | Prime Video",
         "title": "Making the Cut | Season 2 Official Trailer | Prime Video",
-        "views": 1782104,
+        "views": 1782413,
         "likes": 0,
         "publish_date": "2021-06-09",
         "url": "https://www.youtube.com/watch?v=wHmdfVjAYnQ",
@@ -1122,10 +1139,10 @@
         "numVotes": 1796
     },
     {
-        "index": 66,
+        "index": 67,
         "plTitle": "New in July 2021 | Prime Video",
         "title": "Luxe Listings Sydney - Official Trailer | Prime Video",
-        "views": 49044,
+        "views": 49483,
         "likes": 0,
         "publish_date": "2021-06-21",
         "url": "https://www.youtube.com/watch?v=nBo8s8gvlVg",
@@ -1139,10 +1156,10 @@
         "numVotes": 359
     },
     {
-        "index": 67,
+        "index": 68,
         "plTitle": "New in July 2021 | Prime Video",
         "title": "JOLT - Official Trailer | Prime Video",
-        "views": 2666948,
+        "views": 2677778,
         "likes": 0,
         "publish_date": "2021-06-29",
         "url": "https://www.youtube.com/watch?v=3BSSoD73TSk",
