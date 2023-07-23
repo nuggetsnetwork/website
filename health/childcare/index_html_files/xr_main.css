@@ -72,7 +72,7 @@ body {text-align:center;}
 .xr_c_Light_Text {color:#FFFFFF;}
 .xr_c_Dark_Text {color:#3A3A3A;}
 .xr_c_Website_backdrop_3 {color:#DADADA;}
-.xr_bgb0, .xr_bgc0 {background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9IjQxMTJweCIgeG1sbnMgPSAiaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG92ZXJmbG93PSJ2aXNpYmxlIj48bGluZWFyR3JhZGllbnQgaWQ9InhyX3N2Z2cxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEwMDAiIHkxPSI2MTciIHgyPSIxMDAwIiB5Mj0iMTAwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkZGRkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjQzZFOEVFIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSItMTAwIiB3aWR0aD0iOCIgaGVpZ2h0PSI0MTEyIiBmaWxsPSJ1cmwoI3hyX3N2Z2cxKSIgLz48L3N2Zz4=);}
+.xr_bgb6, .xr_bgc6 {background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9Ijg0OThweCIgeG1sbnMgPSAiaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG92ZXJmbG93PSJ2aXNpYmxlIj48bGluZWFyR3JhZGllbnQgaWQ9InhyX3N2Z2cxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEwMDAiIHkxPSI2MTciIHgyPSIxMDAwIiB5Mj0iMTAwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkZGRkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjQzZFOEVFIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSItMTAwIiB3aWR0aD0iOCIgaGVpZ2h0PSI4NDk4IiBmaWxsPSJ1cmwoI3hyX3N2Z2cxKSIgLz48L3N2Zz4=);}
 #xr_nb1 {font-family:Arial; font-size:11px;}
 #xr_nb1 li:hover > a {background-color:#666666; color:#FFFFFF;}
 #xr_nb1 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
@@ -82,7 +82,7 @@ body {text-align:center;}
 #xr_nb1 li:hover {border-color:#FFFFFF;}
 #xr_nb1 ul {border: solid 0px #000000; background-color:#B2B2B2;}
 #xr_nb1 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb1, .xr_bgc1 {background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9IjQxMTJweCIgeG1sbnMgPSAiaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG92ZXJmbG93PSJ2aXNpYmxlIj48bGluZWFyR3JhZGllbnQgaWQ9InhyX3N2Z2czIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEwMDAiIHkxPSI2MTciIHgyPSIxMDAwIiB5Mj0iMTAwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkZGRkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjQzZFOEVFIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSItMTAwIiB3aWR0aD0iOCIgaGVpZ2h0PSI0MTEyIiBmaWxsPSJ1cmwoI3hyX3N2Z2czKSIgLz48L3N2Zz4=);}
+.xr_bgb7, .xr_bgc7 {background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOHB4IiBoZWlnaHQ9Ijg0OThweCIgeG1sbnMgPSAiaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIG92ZXJmbG93PSJ2aXNpYmxlIj48bGluZWFyR3JhZGllbnQgaWQ9InhyX3N2Z2czIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEwMDAiIHkxPSI2MTciIHgyPSIxMDAwIiB5Mj0iMTAwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkZGRkZGIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjQzZFOEVFIi8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSItMTAwIiB3aWR0aD0iOCIgaGVpZ2h0PSI4NDk4IiBmaWxsPSJ1cmwoI3hyX3N2Z2czKSIgLz48L3N2Zz4=);}
 #xr_nb5 {font-family:Arial; font-size:17px;}
 #xr_nb5 li:hover > a {background-color:#0FA8E2; color:#3A3A3A;}
 #xr_nb5 li a {color:#878787; background-color:#C6E8EE; padding:12px; padding-right:30px;}
