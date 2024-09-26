@@ -17,7 +17,8 @@ import {
   DropdownMenu,
 } from 'reactstrap';
 
-import Page from 'components/Page';
+// import Page from 'components/Page';
+import Page from '../components/Page';
 
 const InputGroupPage = () => {
   return (

@@ -1,6 +1,6 @@
-import logo200Image from 'assets/img/logo/logo_2_200.png';
-import sidebarBgImage from 'assets/img/sidebar/sidebar-4.jpg';
-import SourceLink from 'components/SourceLink';
+import logo200Image from '../../assets/img/logo/logo_2_200.png';
+import sidebarBgImage from '../../assets/img/sidebar/sidebar-4.jpg';
+import SourceLink from '../SourceLink.js';
 import React from 'react';
 import { FaFilm } from 'react-icons/fa';
 import {
@@ -35,7 +35,7 @@ import {
   NavItem,
   NavLink as BSNavLink,
 } from 'reactstrap';
-import bn from 'utils/bemnames';
+import bn from '../../utils/bemnames';
 
 const sidebarBackground = {
   backgroundImage: `url("${sidebarBgImage}")`,
@@ -80,10 +80,19 @@ const pageContents = [
     Icon: MdViewCarousel,
   },
 ];
-
+const publicContents = [
+  { to: '/login', name: 'login', exact: true, Icon: MdAccountCircle },
+  { to: '/signUp', name: 'sign Up', exact: true, Icon: MdAccountCircle },
+  {
+    to: '/resetpassword',
+    name: 'Forgot password',
+    exact: true,
+    Icon: MdViewCarousel,
+  },
+];
 const navItems = [
-  { to: '/', name: 'dashboard', exact: true, Icon: MdDashboard },
-  { to: '/', name: 'netflix', exact: true, Icon: MdNotificationsActive },
+  { to: '/dashboard', name: 'dashboard', exact: true, Icon: MdDashboard },
+  { to: '/dashboard', name: 'netflix', exact: true, Icon: MdNotificationsActive },
   { to: '/cards', name: 'cards', exact: false, Icon: MdWeb },
   { to: '/charts', name: 'charts', exact: false, Icon: MdInsertChart },
   { to: '/widgets', name: 'widgets', exact: false, Icon: MdWidgets },
@@ -92,6 +101,9 @@ const navItems = [
 const bem = bn.create('sidebar');
 
 class Sidebar extends React.Component {
+  constructor(props) {
+    super(props);
+  }
   state = {
     isOpenComponents: true,
     isOpenContents: true,
@@ -127,7 +139,7 @@ class Sidebar extends React.Component {
               </span>
             </SourceLink>
           </Navbar>
-          <Nav vertical>
+        {this.props.isMainLayout === 'Y' ?  <Nav vertical>
             {navItems.map(({ to, name, exact, Icon }, index) => (
               <NavItem key={index} className={bem.e('nav-item')}>
                 <BSNavLink
@@ -263,7 +275,24 @@ class Sidebar extends React.Component {
                 </NavItem>
               ))}
             </Collapse>
-          </Nav>
+          </Nav> : 
+          <Nav vertical>
+            {publicContents.map(({ to, name, exact, Icon }, index) => (
+                <NavItem key={index} className={bem.e('nav-item')}>
+                  <BSNavLink
+                    id={`navItem-${name}-${index}`}
+                    className="text-uppercase"
+                    tag={NavLink}
+                    to={to}
+                    activeClassName="active"
+                    exact={exact}
+                  >
+                    <Icon className={bem.e('nav-item-icon')} />
+                    <span className="">{name}</span>
+                  </BSNavLink>
+                </NavItem>
+              ))}
+          </Nav>}
         </div>
       </aside>
     );

@@ -1,9 +1,9 @@
 import React from 'react';
-import PropTypes from 'utils/propTypes';
+import PropTypes from '../utils/propTypes';
 
 import classNames from 'classnames';
 
-import userImage from 'assets/img/users/NN_Avatar.png';
+import userImage from '../assets/img/users/NN_Avatar.png';
 
 const Avatar = ({
   rounded,

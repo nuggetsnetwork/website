@@ -25,3 +25,23 @@ To enable basic Google Analytics page tracking, you can add "REACT_APP_GOOGLE_AN
 If you want more premium or free React Bootstrap themes, you can get it [here](https://flatlogic.com/admin-dashboards?ref=w7yTz44arn)
 
 [![Flat Logic](public/img/screenshots/flatlogic.com_admin-dashboards_react.png)](https://flatlogic.com/admin-dashboards?ref=w7yTz44arn)
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if
+          request.time < timestamp.date(2022, 1, 15);
+    }
+  }
+}
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if
+          request.auth != null;
+    }
+  }
+}

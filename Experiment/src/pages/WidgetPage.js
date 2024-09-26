@@ -2,10 +2,11 @@ import React from 'react';
 
 import { Row, Col } from 'reactstrap';
 
-import Page from 'components/Page';
-import { NumberWidget, IconWidget } from 'components/Widget';
-
-import { iconWidgetsData, numberWidgetsData } from 'demos/widgetPage';
+import Page from '../components/Page';
+// import { NumberWidget, IconWidget } from '../components/Widget';
+import  NumberWidget  from '../components/Widget/NumberWidget.js';
+import  IconWidget  from '../components/Widget/IconWidget.js';
+import { iconWidgetsData, numberWidgetsData } from '../demos/widgetPage';
 
 const WidgetPage = () => {
   return (

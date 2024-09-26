@@ -1,5 +1,5 @@
-import Page from 'components/Page';
-import Typography from 'components/Typography';
+import Page from '../components/Page';
+import Typography from '../components/Typography';
 import React from 'react';
 import { Card, CardBody, CardHeader, Col, Row } from 'reactstrap';
 

@@ -1,4 +1,4 @@
-import AuthForm, { STATE_LOGIN } from 'components/AuthForm';
+import AuthForm, { STATE_LOGIN } from '../components/AuthForm';
 import React from 'react';
 import { Button, Modal, ModalBody } from 'reactstrap';
 

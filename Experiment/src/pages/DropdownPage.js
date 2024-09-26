@@ -1,4 +1,4 @@
-import Page from 'components/Page';
+import Page from '../components/Page';
 import React from 'react';
 import {
   Button,
@@ -12,7 +12,7 @@ import {
   Row,
   UncontrolledButtonDropdown,
 } from 'reactstrap';
-import { getThemeColors } from 'utils/colors';
+import { getThemeColors } from '../utils/colors';
 
 const colors = getThemeColors();
 
