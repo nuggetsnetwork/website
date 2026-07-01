@@ -25,8 +25,26 @@
     />
     <meta property="og:image" content="/logo-full.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <script type="module" crossorigin src="./assets/index-BUxJYUOT.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CbDIg_09.css">
+    <!-- globalThis polyfill: old Android System WebViews (pre-Chrome 71, e.g.
+         API 28 emulators) lack globalThis, which the bundle references. Runs
+         before the deferred module script so the app can at least render.
+         (Note: DuckDB-Wasm still needs ~Chrome 67+ for BigInt/modern WASM.) -->
+    <script>
+      if (typeof globalThis === "undefined") {
+        (function () {
+          if (typeof self !== "undefined") { self.globalThis = self; return; }
+          if (typeof window !== "undefined") { window.globalThis = window; return; }
+          Object.defineProperty(Object.prototype, "__magic__", {
+            get: function () { return this; },
+            configurable: true,
+          });
+          __magic__.globalThis = __magic__;
+          delete Object.prototype.__magic__;
+        })();
+      }
+    </script>
+    <script type="module" crossorigin src="./assets/index-umB7kGjK.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-5N6vsZDt.css">
   </head>
   <body>
     <div id="root"></div>
