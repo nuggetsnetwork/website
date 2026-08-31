@@ -1,9 +1,9 @@
-import user1Image from 'assets/img/users/100_1.jpg';
-import user2Image from 'assets/img/users/100_2.jpg';
-import user3Image from 'assets/img/users/100_3.jpg';
-import user4Image from 'assets/img/users/100_4.jpg';
-import user5Image from 'assets/img/users/100_5.jpg';
-import user6Image from 'assets/img/users/NN_Avatar.png';
+// import user1Image from '../assets/img/users/100_1.jpg';
+// import user2Image from '../assets/img/users/100_2.jpg';
+// import user3Image from '../assets/img/users/100_3.jpg';
+// import user4Image from '../assets/img/users/100_4.jpg';
+// import user5Image from '../assets/img/users/100_5.jpg';
+import user6Image from '../assets/img/users/NN_Avatar.png';
 
 export const notificationsData = [
   {

@@ -1,13 +1,13 @@
 import React from 'react';
 
-import { getColor } from 'utils/colors';
-import { randomNum } from 'utils/demos';
+import { getColor } from '../utils/colors';
+import { randomNum } from '../utils/demos';
 
 import { Row, Col, Card, CardHeader, CardBody } from 'reactstrap';
 
 import { Line, Pie, Doughnut, Bar, Radar, Polar } from 'react-chartjs-2';
 
-import Page from 'components/Page';
+import Page from '../components/Page';
 
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
 

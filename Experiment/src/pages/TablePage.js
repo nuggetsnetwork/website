@@ -1,4 +1,4 @@
-import Page from 'components/Page';
+import Page from '../components/Page';
 import React from 'react';
 import { Card, CardBody, CardHeader, Col, Row, Table } from 'reactstrap';
 

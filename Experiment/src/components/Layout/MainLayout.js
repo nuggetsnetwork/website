@@ -1,4 +1,8 @@
-import { Content, Footer, Header, Sidebar } from 'components/Layout';
+// import { Content, Footer, Header, Sidebar } from 'components/Layout';
+import Content from './Content.js';
+import Footer from './Footer.js';
+import Header from './Header.js';
+import Sidebar from './Sidebar.js';
 import React from 'react';
 import {
   MdImportantDevices,
@@ -6,7 +10,7 @@ import {
   MdLoyalty,
 } from 'react-icons/md';
 import NotificationSystem from 'react-notification-system';
-import { NOTIFICATION_SYSTEM_STYLE } from 'utils/constants';
+import { NOTIFICATION_SYSTEM_STYLE } from '../../utils/constants';
 
 class MainLayout extends React.Component {
   static isSidebarOpen() {
@@ -90,9 +94,9 @@ class MainLayout extends React.Component {
     const { children } = this.props;
     return (
       <main className="cr-app bg-light">
-        <Sidebar />
+        <Sidebar isMainLayout="Y" />
         <Content fluid onClick={this.handleContentClick}>
-          <Header />
+          <Header isMainLayout="Y"/>
           {children}
           <Footer />
         </Content>

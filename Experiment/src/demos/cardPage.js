@@ -1,10 +1,10 @@
 import ChartJS from 'chart.js';
-import { getColor } from 'utils/colors';
+import { getColor } from '../utils/colors';
 
-import bg5Image from 'assets/img/bg/background_1920-5.jpg';
-import bg6Image from 'assets/img/bg/background_1920-6.jpg';
-import bg7Image from 'assets/img/bg/background_1920-7.png';
-import bg19Image from 'assets/img/bg/background_1920-19.jpg';
+import bg5Image from '../assets/img/bg/background_1920-5.jpg';
+import bg6Image from '../assets/img/bg/background_1920-6.jpg';
+import bg7Image from '../assets/img/bg/background_1920-7.png';
+import bg19Image from '../assets/img/bg/background_1920-19.jpg';
 
 export const overlayCards = [
   { imgUrl: bg5Image },

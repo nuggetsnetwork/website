@@ -1,24 +1,24 @@
 import React from 'react';
-import PropTypes from 'utils/propTypes';
+import PropTypes from '../utils/propTypes';
 
 import { Media } from 'reactstrap';
 
-import Avatar from 'components/Avatar';
+import Avatar from './Avatar';
 
-const Notifications = ({ notificationsData }) => {
-  return (
+const Notifications = ({ notificationsData,openModal }) => {
+  return ( 
     notificationsData &&
     notificationsData.length &&
-    notificationsData.map(({ id, avatar, message, date }) => (
-      <Media key={id} className="pb-2">
+    notificationsData.map(({ index, avatar, fTitle, publish_date, url, img }) => (
+      <Media key={fTitle} className="pb-2" onClick={() => openModal(url,fTitle)}>
         <Media left className="align-self-center pr-3">
-          <Avatar tag={Media} object src={avatar} alt="Avatar" />
+          <Avatar tag={Media} object src={img} alt="Avatar" />
         </Media>
         <Media body middle className="align-self-center">
-          {message}
+          {fTitle}
         </Media>
         <Media right className="align-self-center">
-          <small className="text-muted">{date}</small>
+          <small className="text-muted">{publish_date}</small>
         </Media>
       </Media>
     ))

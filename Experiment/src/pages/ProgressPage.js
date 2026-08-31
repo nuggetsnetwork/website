@@ -1,7 +1,7 @@
-import Page from 'components/Page';
+import Page from '../components/Page';
 import React from 'react';
 import { Card, CardBody, CardHeader, Col, Progress, Row } from 'reactstrap';
-import { getThemeColors } from 'utils/colors';
+import { getThemeColors } from '../utils/colors';
 
 const colors = getThemeColors();
 
