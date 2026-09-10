@@ -11,18 +11,19 @@
       ::-webkit-scrollbar-thumb { background: #4a5568; border-radius: 3px; }
     </style>
     <script>
-      // Restore path that was encoded by 404.html redirect.
+      // Restore path encoded by the root 404.html redirect.
       (function () {
-        var search = window.location.search;
-        if (search) {
-          var params = new URLSearchParams(search);
-          var p = params.get('p');
-          if (p) {
-            params.delete('p');
-            var qs = params.toString();
-            var newUrl = window.location.pathname + (qs ? '?' + qs : '') + (p !== '/' ? p : '') + window.location.hash;
-            window.history.replaceState(null, null, newUrl);
-          }
+        var params = new URLSearchParams(window.location.search);
+        var p = params.get('p');
+        if (p) {
+          params.delete('p');
+          var qs = params.toString();
+          // Strip trailing slash from base so joining with p (which starts with /)
+          // doesn't produce a double slash: '/Products/biggboss' + '/contestant/x'
+          var base = window.location.pathname.replace(/\/$/, '');
+          var newUrl = (p === '/' ? base + '/' : base + p) +
+                       (qs ? '?' + qs : '') + window.location.hash;
+          window.history.replaceState(null, null, newUrl);
         }
       })();
     </script>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script>
+      (function () {
+        var l = window.location;
+        var biggbossBase = '/Products/biggboss/';
+        if (l.pathname.indexOf(biggbossBase) === 0) {
+          // Encode the sub-path so the SPA index.html can restore it.
+          var sub = l.pathname.slice(biggbossBase.length - 1); // keep leading /
+          var q = l.search ? '&q=' + l.search.slice(1) : '';
+          l.replace(
+            l.protocol + '//' + l.host +
+            biggbossBase + '?p=' + encodeURIComponent(sub) + q + l.hash
+          );
+        }
+        // For other paths, leave the browser on this page (shows "Redirecting..." briefly).
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
