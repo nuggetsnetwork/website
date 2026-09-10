@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Bigg Boss 20 — Instagram Growth Tracker</title>
+    <script>
+      // GitHub Pages SPA redirect: encode the full path as a query param and
+      // send the browser to index.html so the React router can handle it.
+      var l = window.location;
+      var base = '/Products/biggboss/';
+      var path = l.pathname.slice(base.length - 1); // keep leading slash
+      var search = l.search ? '&q=' + l.search.slice(1) : '';
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        base + '?p=' + encodeURIComponent(path) + search + l.hash
+      );
+    </script>
+  </head>
+  <body></body>
+</html>

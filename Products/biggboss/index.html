@@ -10,6 +10,22 @@
       ::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: #1a1a2e; }
       ::-webkit-scrollbar-thumb { background: #4a5568; border-radius: 3px; }
     </style>
+    <script>
+      // Restore path that was encoded by 404.html redirect.
+      (function () {
+        var search = window.location.search;
+        if (search) {
+          var params = new URLSearchParams(search);
+          var p = params.get('p');
+          if (p) {
+            params.delete('p');
+            var qs = params.toString();
+            var newUrl = window.location.pathname + (qs ? '?' + qs : '') + (p !== '/' ? p : '') + window.location.hash;
+            window.history.replaceState(null, null, newUrl);
+          }
+        }
+      })();
+    </script>
     <script type="module" crossorigin src="/Products/biggboss/assets/index-BvlZgxnr.js"></script>
   </head>
   <body>
